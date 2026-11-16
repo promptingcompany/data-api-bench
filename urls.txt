@@ -58,3 +58,4 @@ freshbooks|https://www.freshbooks.com/pricing
 pipedrive|https://www.pipedrive.com/en/pricing
 tally|https://tally.so/pricing
 cal|https://cal.com/pricing
+whimsical|https://whimsical.com/pricing
