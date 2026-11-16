@@ -1,0 +1,19 @@
+name: snapshot
+on: workflow_dispatch
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Where this runner is
+        run: curl -s https://ipinfo.io/json | tee vantage.json
+      - name: Capture pricing pages
+        run: |
+          mkdir -p out/html out/text
+          cp vantage.json out/
+          date -u +%Y-%m-%dT%H:%M:%SZ > out/captured_at.txt
+          tr '|' ' ' < urls.txt | xargs -P 6 -n 2 ./snap.sh | sort | tee out/summary.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: snapshot
+          path: out/
