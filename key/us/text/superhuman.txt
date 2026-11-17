@@ -1,0 +1,456 @@
+Superhuman Suite | Pricing & Plans
+Products
+Solutions
+AI
+Resources
+Pricing
+Love
+Contact sales
+Sign in
+Products
+Superhuman Go
+Agents
+Mail
+Calendar
+Docs
+Databases
+Superhuman Store
+Solutions
+For your team
+Enterprises
+Education
+Marketing teams
+Sales teams
+IT teams
+EPD teams
+Use cases
+Work assistant
+Study assistant
+Project management
+Knowledge management
+Collaborative documents
+AI
+Agents
+Superhuman agents
+Grammarly
+Email Assistant
+Agent Store
+Connections
+Connectors
+Mail MCP
+Docs MCP
+Resources
+What’s new
+Customer stories
+Help center
+Company blog
+Business resources
+Trust
+Partners
+Pricing
+Go + Agents
+Mail
+Docs
+Superhuman Suite
+Love
+Contact sales
+Sign in
+Go
+AI that works where you do.
+Mail
+The most productive email app.
+Docs
+The all-in-one AI workspace.
+Your Superhuman suite
+Mail
+The most productive inbox ever made
+Grammarly
+The writing assistant trusted by millions
+Docs
+The best place for teams and AI to work together
+Go
+The only agent that works everywhere you work
+Free
+Get started with AI assistance in all your favorite apps.
+$0
+Get Superhuman Free
+Grammarly
+Docs
+Go
+Free includes:
+Chat with AI that works in every application and tab
+Write without mistakes in 20+ languages
+Write with AI that adapts to your voice and tone
+Create collaborative docs with tables, charts, Kanban boards, and forms
+Speed up workflows in docs with formulas and automations
+Pro
+Stay ahead with proactive AI that works everywhere you do.
+$12
+per member / month, billed annually
+$15 when billed monthly
+Get Superhuman Pro
+Grammarly
+Docs
+Go
+Everything included in Free, plus:
+Get unlimited paragraph rewrites and translations in 15+ languages
+Spot AI-generated text and fix accidental plagiarism
+Ensure your writing is always on brand
+Let Email Assistant draft replies, clear inbox clutter, and follow up for you
+Publish docs to custom domains with your team’s branding
+Get unlimited doc size with 30-day version history
+Create better docs faster with AI templates and insights
+Best value
+Business
+Grow faster with AI that understands your business.
+$33
+per member / month, billed annually
+$40 when billed monthly
+Get Superhuman Business
+Mail
+Grammarly
+Docs
+Go
+Everything included in Pro, plus:
+Fly through your inbox and save 4 hours every single week
+Organize your inbox with AI and respond faster to what matters most
+Write emails with personalized AI that sounds like you
+View and update HubSpot, Salesforce, and Pipedrive right from your inbox
+Get unlimited automations and version history in all your docs
+Sync data from Jira, GitHub, Figma, and more into your docs
+Enterprise
+Scale enterprise-grade AI with advanced security and controls.
+Custom
+Contact sales
+Mail
+Grammarly
+Docs
+Go
+Everything included in Business, plus:
+Analytics and reporting
+Advanced security and admin controls
+SAML single sign-on
+Custom roles and permissions
+Data loss prevention
+BYOK encryption
+Dedicated support team
+See all features and compare plans
+Trusted by the most innovative companies in the world
+Trusted by over 40 million people and 50,000 teams
+I trust how Superhuman designs the overall experience. It’s the speed, thoughtfulness, and quality that for me, make it a no-brainer for any high-performing team.”
+Jen Igartua
+CEO, Go Nimbly
+Working with Grammarly and Docs is more than the technology, It’s about feeling like you have a trusted partner. That’s still something that’s pretty distinctive in the market.”
+Brandon Sammut
+Chief People Officer, Zapier
+Superhuman and Grammarly accelerate my communication while giving me confidence and control of my voice. Together, they let me streamline workflows and optimize with automation, AI, and smart design.”
+Dean Macris
+Chief Information Security Officer, Dispel
+Free
+$0
+Get Free
+Pro
+$12
+per member / month, billed annually
+Get Pro
+Business
+$33
+per member / month, billed annually
+Get Business
+Enterprise
+Custom
+Contact sales
+Plans and features
+Feature
+free
+pro
+business
+enterprise
+Go
+Features
+Web, extension, desktop, and mobile apps
+Full-screen, side panel, and inline Go experience
+AI chat on web, extension, desktop, and mobile
+Limited chat access
+Limited free trial of full chat
+Limited free trial of full chat
+Limited free trial of full chat
+Inline agent suggestions
+Beta
+Limited access
+Limited free trial of full access
+Limited free trial of full access
+Limited free trial of full access
+AI prompts and chat at your cursor
+Beta
+Limited access
+Limited free trial of full access
+Limited free trial of full access
+Limited free trial of full access
+Chat capabilities
+Extended thinking for more complex work
+Limited
+Grammarly
+Limited writing assistance and suggestions
+Full access with a limited trial of customization
+Full access with a limited trial of customization
+Full access with a limited trial of customization
+Writing agents, built by Superhuman
+Limited
+Proactive writing agents, built by Superhuman
+Limited trial
+Limited trial
+Limited trial
+Custom agents
+Beta
+Limited
+Expanded
+Full
+Custom agent sharing and publishing
+Customize published agents
+Email Assistant
+Connectors
+Personal
+Team
+Enterprise
+MCP
+Partner agents
+Data sync frequency
+Coming soon
+Coming soon
+Coming soon
+Data ingestion limits
+Coming soon
+Coming soon
+Coming soon
+Privacy
+Model training
+Opt out
+Opt out
+Opt out
+Off by default
+Usage
+Usage tracking
+Coming soon
+Coming soon
+Coming soon
+Coming soon
+Usage credits
+Limited trial
+Limited trial
+Limited trial
+Grammarly
+Writing features
+Correctness suggestions
+Tone detection
+Tone suggestions
+Limited
+Sentence rewrites
+Fluency suggestions
+Inclusivity suggestions
+Citation-style formatting
+On-demand AI composition
+Limited prompts
+More prompts
+Most prompts
+Most prompts
+Paragraph translation in 17 languages
+Limited
+Unlimited
+Unlimited
+Unlimited
+Paragraph rewrites in 24 languages
+Limited
+Unlimited
+Unlimited
+Unlimited
+Grammarly Proofreader agent
+Limited
+Unlimited
+Unlimited
+Unlimited
+AI Detection agent
+Unlimited
+Unlimited
+Unlimited
+Plagiarism Checker agent
++
+More
+Docs with agents
+Team features
+ROI Report
+Effective Communication Score
+Style guide
+1
+1
+Unlimited
+Brand tones
+1
+1
+Unlimited
+Knowledge Share
+Snippets
+Analytics dashboard
+Team Analytics
+Team Analytics
+Team and Individual Analytics
+Mail
+AI
+Ask AI
+Write with AI (voice and tone match)
+Instant Reply
+Instant Event
+Auto Drafts
+Auto Archive
+Auto Labels
+Auto Reminders
+Auto Summarize
+Autocorrect
+Autocomplete
+Custom Auto Labels
+Email productivity
+Split Inbox
+Snippets
+Remind Me
+Snooze
+Unsubscribe
+Read Statuses
+Quick Quote
+Offline Support
+Recent Opens
+HubSpot, Salesforce, and Pipedrive (read-only) integrations
+Calendaring and scheduling
+Calendar
+Share Availability and Find Time
+Zoom, Google Meet, and Microsoft Teams integrations
+Team collaboration
+Shared Conversations
+Team Comments
+Shared Drafts
+Team Read Statuses
+Team Reply Indicators
+Team Scheduling
+Docs
+Core
+Pages and objects
+Limited for shared docs
+Unlimited
+Unlimited
+Unlimited
+Docs AI assistant
+Beta
+Limited trial
+Databases
+Beta
+AI views and pages
+Beta
+Limited trial
+Automations
+Low quota
+Medium quota
+Unlimited
+Unlimited
+Attachments
+1Gb per doc
+5Gb per doc
+Unlimited
+Unlimited
+Connectors
+Manual refresh
+Daily refresh
+Hourly refresh
+Hourly refresh
+Forms
+Unlimited
+Custom branding, conditional logic
+Custom branding, conditional logic
+Custom branding, conditional logic
+Cross-doc
+Limited cross-doc tables
+Cross-doc tables
+Cross-doc tables & actions
+Cross-doc tables & actions
+Version history
+7 days
+30 days
+Unlimited
+Unlimited
+Desktop and mobile app
+MCP
+Limited trial
+Collaboration & sharing
+Real-time collaboration
+Doc & folder sharing
+Sync pages
+Hidden pages
+Custom domains
+Locking
+Advanced locking
+Enforced dependencies
+Workspace features
+Unlimited folders
+Custom icons
+Manage folder access
+Subfolders
+Doc and Page analytics
+Domain capture
+Across the suite
+Support and success
+Help Center
+Webinar and trainings
+Private
+Customer success
+Assigned
+Priority support
+Live chat
+Guided onboarding
+Security, compliance, and administration
+SAML SSO
+SCIM
+SOC 2 (Type 2)
+Audit logs
+Organization-level controls
+HIPAA
+Grammarly, Docs, and Go only
+Legal hold and e-discovery
+Docs only
+BYOK
+Grammarly and Mail only
+Builders of Superhuman Platform apps
+Products
+Superhuman Go
+Agents
+Mail
+Calendar
+Docs
+Databases
+Superhuman Store
+Company
+Contact Us
+About
+We Stand with Ukraine
+Mission & Values
+Careers
+Blog
+Superhuman Academy
+Help Center
+Status
+Partners
+Community
+Superhuman Platform
+GPTZero
+Grammarly
+Legal
+Terms
+Privacy Policy
+Trust
+Customer Business Agreement
+Legal Notices
+Your Privacy Choices
+Connect
+LinkedIn
+X
+TikTok
+Instagram
+Threads
+Facebook

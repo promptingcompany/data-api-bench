@@ -1,0 +1,4 @@
+{
+  "rating": 3,
+  "what_slowed_down": "Apify browser crawls took roughly 15–35 seconds per page, and several pricing pages returned incomplete or comparison-table-only Markdown. Cleaning false positives from FAQ headings, add-ons, and feature prices required reviewing the Apify Markdown page by page."
+}

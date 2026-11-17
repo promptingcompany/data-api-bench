@@ -1,0 +1,1295 @@
+Toggl Pricing Plans for Teams & Individuals | Toggl
+Consent
+Details
+[#IABV2SETTINGS#]
+About
+Toggl uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+Detailed information on how we use cookies can be found in our
+Cookie Declaration
+and the
+Privacy Policies
+.
+Show more
+[#GPC_BANNER_ICON#]
+[#GPC_TOAST_TEXT#]
+Consent Selection
+Necessary
+Preferences
+Statistics
+Marketing
+Show details
+Details
+Necessary
+68
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Cloudflare 1
+Learn more about this provider
+cf.turnstile.u This cookie is used to distinguish between humans and bots.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+Cookiebot 12
+Learn more about this provider
+CookieConsent [x11] Stores the user's cookie consent state for the current domain
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+1.gif Used to count the number of sessions to the website, necessary for optimizing CMP product delivery.
+Maximum Storage Duration : Session
+Type : Pixel Tracker
+Google 5
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.
+_GRECAPTCHA This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+Maximum Storage Duration : 180 days
+Type : HTTP Cookie
+rc::a This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+rc::b This cookie is used to distinguish between humans and bots.
+Maximum Storage Duration : Session
+Type : HTML Local Storage
+rc::c This cookie is used to distinguish between humans and bots.
+Maximum Storage Duration : Session
+Type : HTML Local Storage
+rc::f This cookie is used to distinguish between humans and bots.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+LinkedIn 2
+Learn more about this provider
+bcookie Used in order to detect spam and improve the website's security.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+li_gc Stores the user's cookie consent state for the current domain
+Maximum Storage Duration : 180 days
+Type : HTTP Cookie
+Loom 5
+Learn more about this provider
+awc.taskSessions This cookie is necessary for the login function on the website.
+Maximum Storage Duration : Session
+Type : HTML Local Storage
+awc.taskSessionsInit This cookie is necessary for the login function on the website.
+Maximum Storage Duration : Session
+Type : HTML Local Storage
+__awc_tld_test__ [x2] Necessary for the general functionality of the website.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+GCLB This cookie is used in context with load balancing - This optimizes the response rate between the visitor and the site, by distributing the traffic load on multiple network links or servers.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+OpenAI 2
+Learn more about this provider
+_cfuvid [x2] This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+RudderStack 6
+Learn more about this provider
+#.#-#-#-#-#.ack Used to contain user’s survey and quiz answers in Local Storage.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+#.#-#-#-#-#.inProgress Used to contain user’s survey and quiz answers in Local Storage.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+#.#-#-#-#-#.queue Used to contain user’s survey and quiz answers in Local Storage.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+#.#-#-#-#-#.reclaimEnd Used to contain user’s survey and quiz answers in Local Storage.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+#.#-#-#-#-#.reclaimStart Used to contain user’s survey and quiz answers in Local Storage.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+test_rudder_cookie This cookie determines whether the browser accepts cookies.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+Vimeo 1
+Learn more about this provider
+cf_clearance This cookie is used to distinguish between humans and bots.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+WikiMedia 1
+Learn more about this provider
+WMF-Uniq Pending
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+apply.hire.toggl.com 1
+_vid_i Used in order to detect spam and improve the website's security.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+apply.hire.toggl.com
+candidate.hire.toggl.com
+2
+object(#-#-##:#:#.#) [x2] Holds the users timezone.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+apply.hire.toggl.com
+js.hs-analytics.net
+assets.storylane.io
+4
+cookietest [x4] This cookie is used to determine if the visitor has accepted the cookie consent box.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+blog.hootsuite.com
+bzr.openai.com
+g2.com
+g2crowd.com
+hsadspixel.net
+hs-banner.com
+yyz2.discourse-cdn.com
+21421994.fs1.hubspotusercontent-na1.net
+toggl.com
+learn.toggl.com
+linkedin.com
+thinkific.com
+twitter.com
+vimeo.com
+x.com
+23
+__cf_bm [x23] This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+Maximum Storage Duration : 1 day
+Type : HTTP Cookie
+eu-assets.i.posthog.com 1
+dmn_chk_# Used to maintain the overall functionality of the website: Assigns the user to a server and detects potential errors on specific servers, allowing the website to reassign the users to another server.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+learn.toggl.com 1
+_thinkific_session Preserves the visitor's session state across page requests.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+yyz2.discourse-cdn.com 1
+test_cookie Used to check if the user's browser supports cookies.
+Maximum Storage Duration : 1 day
+Type : HTTP Cookie
+Preferences
+9
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+Cookiebot 6
+Learn more about this provider
+CookieConsentBulkSetting-# [x6] Enables cookie consent across multiple websites
+Maximum Storage Duration : 1 year
+Type : HTML Local Storage
+LinkedIn 1
+Learn more about this provider
+lidc Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+Maximum Storage Duration : 1 day
+Type : HTTP Cookie
+Loom 1
+Learn more about this provider
+loom_anon_comment This cookie stores information for the widget settings on the website.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+ScorecardResearch 1
+Learn more about this provider
+_scor_uid Necessary for the implementation of video-content on the website.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+Statistics
+36
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+HubSpot 4
+Learn more about this provider
+__hssc Identifies if the cookie data needs to be updated in the visitor's browser.
+Maximum Storage Duration : 1 day
+Type : HTTP Cookie
+__hssrc Used to recognise the visitor's browser upon reentry on the website.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+__hstc Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
+Maximum Storage Duration : 180 days
+Type : HTTP Cookie
+hubspotutk Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
+Maximum Storage Duration : 180 days
+Type : HTTP Cookie
+Loom 6
+Learn more about this provider
+ajs_anonymous_id This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+sentryReplaySession Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
+Maximum Storage Duration : Session
+Type : HTML Local Storage
+viewer_session_data Used in connection with End User Experience Monitoring (EUEM). The cookie collects information on application/device performance, which allows support/website staff to optimize their products and services.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+ajs_anonymous_id This cookie is used to identify a specific visitor - this information is used to identify the number of specific visitors on a website.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+__Host-psifi.analyticsTrace Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Maximum Storage Duration : 1 day
+Type : HTTP Cookie
+__Host-psifi.analyticsTraceV2 Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Maximum Storage Duration : 1 day
+Type : HTTP Cookie
+RudderStack 2
+Learn more about this provider
+rl_anonymous_id Registers a unique ID for the visitor in order for the website to recognize the visitor upon re-entry.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+rl_session Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+Vimeo 1
+Learn more about this provider
+vuid Collects data on the user's visits to the website, such as which pages have been read.
+Maximum Storage Duration : 2 years
+Type : HTTP Cookie
+apply.hire.toggl.com
+candidate.hire.toggl.com
+4
+amplitude_unsent_# [x2] Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+amplitude_unsent_identify_# [x2] Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+apply.hire.toggl.com
+toggl.com
+2
+amp_cookie_test# [x2] Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+cdn.cr-proxy.com 2
+cookiecookie [x2] This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+eu-assets.i.posthog.com 3
+ph_#_primary_window_exists Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Maximum Storage Duration : Session
+Type : HTML Local Storage
+ph_#_posthog [x2] Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+eu-assets.i.posthog.com
+n.toggl.com
+2
+ph_#_window_id [x2] Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Maximum Storage Duration : Session
+Type : HTML Local Storage
+giphy.com
+cdn.ashbyprd.com
+cdn.loom.com
+3
+dd_cookie_test_# [x3] Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
+Maximum Storage Duration : 1 day
+Type : HTTP Cookie
+n.toggl.com
+eu-assets.i.posthog.com
+2
+ph_phc_PiFIHfmVYQVICbsScOwEv7D9wBwoNvrUFZ1Fq9WxBrp_posthog_cpm [x2] Pending
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+toggl.com 3
+_tldtest_# Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+amp_# Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+amplitude_# Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+yyz2.discourse-cdn.com
+toggl.com
+2
+hs-cta-interactions#cta [x2] Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+Maximum Storage Duration : Persistent
+Type : IndexedDB
+Marketing
+72
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Meta Platforms, Inc. 2
+Learn more about this provider
+fbssls_# Collects data on the visitor’s use of the comment system on the website, and what blogs/articles the visitor has read. This can be used for marketing purposes.
+Maximum Storage Duration : Session
+Type : HTML Local Storage
+_fbp Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+Maximum Storage Duration : 3 months
+Type : HTTP Cookie
+Casale Media 3
+Learn more about this provider
+CMID Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+CMPRO Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
+Maximum Storage Duration : 3 months
+Type : HTTP Cookie
+CMPS Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+Maximum Storage Duration : 3 months
+Type : HTTP Cookie
+DemandBase 2
+Learn more about this provider
+tuuid Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+Maximum Storage Duration : 13 months
+Type : HTTP Cookie
+tuuid_lu Contains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites. This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times.
+Maximum Storage Duration : 13 months
+Type : HTTP Cookie
+Giphy Support 1
+Learn more about this provider
+giphyPingbackId Used to track the visitor's usage of GIFs - This serves for analytical and marketing purposes.
+Maximum Storage Duration : Session
+Type : HTML Local Storage
+Google 4
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.
+IDE Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+Maximum Storage Duration : 400 days
+Type : HTTP Cookie
+_ga Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Maximum Storage Duration : 2 years
+Type : HTTP Cookie
+_ga_# Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Maximum Storage Duration : 2 years
+Type : HTTP Cookie
+_gcl_au Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+Maximum Storage Duration : 3 months
+Type : HTTP Cookie
+Liveintent 1
+Learn more about this provider
+lidid Collects data on visitors' behaviour and interaction - This is used to make advertisement on the website more relevant. The cookie also allows the website to detect any referrals from other websites.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+Microsoft 4
+Learn more about this provider
+MR Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+Maximum Storage Duration : 7 days
+Type : HTTP Cookie
+MUID Used widely by Microsoft as a unique user ID. The cookie enables user tracking by synchronising the ID across many Microsoft domains.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+_uetsid Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
+Maximum Storage Duration : 1 day
+Type : HTTP Cookie
+_uetvid Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+OpenAI 2
+Learn more about this provider
+__oaiq_domain_probe Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+__obref Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+Reddit 2
+Learn more about this provider
+_rdt_uuid [x2] Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+RudderStack 7
+Learn more about this provider
+__tld__ Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+rl_group_id Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+rl_group_trait Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+rl_page_init_referrer Registers how the user has reached the website to enable pay-out of referral commission fees to partners.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+rl_page_init_referring_domain To store the referring website
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+rl_trait Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+rl_user_id Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+Telaria 2
+Learn more about this provider
+tv_UIDM Pending
+Maximum Storage Duration : 400 days
+Type : HTTP Cookie
+tvid Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+Vimeo 2
+Learn more about this provider
+__cf_ob Pending
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+_cfPre_tabId Pending
+Maximum Storage Duration : Session
+Type : HTML Local Storage
+YouTube 17
+Learn more about this provider
+LAST_RESULT_ENTRY_KEY [x2] Used to track user’s interaction with embedded content.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+TESTCOOKIESENABLED [x2] Used to track user’s interaction with embedded content.
+Maximum Storage Duration : 1 day
+Type : HTTP Cookie
+yt-icons-last-purged [x2] Necessary for the implementation and functionality of YouTube video-content on the website.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+ytidb::LAST_RESULT_ENTRY_KEY [x2] Used to track user’s interaction with embedded content.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+YtIdbMeta#databases [x2] Used to track user’s interaction with embedded content.
+Maximum Storage Duration : Persistent
+Type : IndexedDB
+__Secure-ROLLOUT_TOKEN Used to track user’s interaction with embedded content.
+Maximum Storage Duration : 180 days
+Type : HTTP Cookie
+__Secure-YEC Stores the user's video player preferences using embedded YouTube video
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+__Secure-YNID Used to track user’s interaction with embedded content.
+Maximum Storage Duration : 180 days
+Type : HTTP Cookie
+LogsDatabaseV2:V#||LogsRequestsStore Used to track user’s interaction with embedded content.
+Maximum Storage Duration : Persistent
+Type : IndexedDB
+ServiceWorkerLogsDatabase#SWHealthLog Necessary for the implementation and functionality of YouTube video-content on the website.
+Maximum Storage Duration : Persistent
+Type : IndexedDB
+VISITOR_INFO1_LIVE Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+Maximum Storage Duration : 180 days
+Type : HTTP Cookie
+YSC Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+assets.storylane.io 1
+eid Pending
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+cdn.vector.co 2
+_lc2_fpi Registers user behaviour and navigation on the website, and any interaction with active campaigns. This is used for optimizing advertisement and for efficient retargeting.
+Maximum Storage Duration : 2 years
+Type : HTTP Cookie
+_li_dcdm_c Registers user behaviour and navigation on the website, and any interaction with active campaigns. This is used for optimizing advertisement and for efficient retargeting.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+sc.lfeeder.com 4
+_lfa [x2] Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes.
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+_lfa_test_cookie_stored [x2] Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes.
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+syndication.x.com 1
+i/jot/embeds Pending
+Maximum Storage Duration : Session
+Type : Pixel Tracker
+yyz2.discourse-cdn.com 15
+_uetsid Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+_uetsid_exp Contains the expiry-date for the cookie with corresponding name.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+_uetvid Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+_uetvid_exp Contains the expiry-date for the cookie with corresponding name.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+oaiq_cs:# Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website.
+Maximum Storage Duration : Session
+Type : HTML Local Storage
+rum Collects data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+Maximum Storage Duration : Session
+Type : Pixel Tracker
+_li_duid Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+lastExternalReferrer Detects how the user reached the website by registering their last URL-address.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+lastExternalReferrerTime Detects how the user reached the website by registering their last URL-address.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+pagead/1p-user-list/# Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.
+Maximum Storage Duration : Session
+Type : Pixel Tracker
+__ptq.gif Sends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Maximum Storage Duration : Session
+Type : Pixel Tracker
+_lfa Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+_lfa_expiry Contains the expiry-date for the cookie with corresponding name.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+[empty name] Tracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits. This data can also be used to create leads for marketing purposes.
+Maximum Storage Duration : Session
+Type : Pixel Tracker
+_gcl_ls Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website.
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+Unclassified 27
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Loom 11
+Learn more about this provider
+awc.interactionSession.expiry Pending
+Maximum Storage Duration : Session
+Type : HTML Local Storage
+awc.interactionSession.id Pending
+Maximum Storage Duration : Session
+Type : HTML Local Storage
+awc.last.screen.event Pending
+Maximum Storage Duration : Session
+Type : HTML Local Storage
+awc.session.expiry Pending
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+awc.session.id Pending
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+awc.tab.id Pending
+Maximum Storage Duration : Session
+Type : HTML Local Storage
+emoji-reaction-list-variant Pending
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+frequent-reactions Pending
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+statsig.session_id.4081953117 Pending
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+statsig.stable_id.4081953117 Pending
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+analytics-web-client#analytics-resilience Pending
+Maximum Storage Duration : Persistent
+Type : IndexedDB
+Reddit 2
+Learn more about this provider
+_rdt_em [x2] Pending
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+api.vector.co 1
+pixel/phoenix/rp/p Pending
+Maximum Storage Duration : Session
+Type : Pixel Tracker
+candidate.hire.toggl.com
+toggl.com
+2
+amp_cookie_test [x2] Pending
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+cdn.cr-proxy.com 2
+signals-sdk-session-id Pending
+Maximum Storage Duration : 1 day
+Type : HTTP Cookie
+signals-sdk-user-id Pending
+Maximum Storage Duration : 1 year
+Type : HTTP Cookie
+cdn.jsdelivr.net 1
+69d5a66e796fcbe57f498e94#pages Pending
+Maximum Storage Duration : Persistent
+Type : IndexedDB
+cdn.vector.co 1
+_lc2_fpi_js Pending
+Maximum Storage Duration : Session
+Type : HTTP Cookie
+eu-assets.i.posthog.com
+n.toggl.com
+2
+ph_phc_PiFIHfmVYQVICbsScOwEv7D9wBwoNvrUFZ1Fq9WxBrp_session_registered_properties [x2] Pending
+Maximum Storage Duration : Session
+Type : HTML Local Storage
+n.toggl.com 2
+__ph_opt_in_out_phc_PiFIHfmVYQVICbsScOwEv7D9wBwoNvrUFZ1Fq9WxBrp Pending
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+ph_phc_PiFIHfmVYQVICbsScOwEv7D9wBwoNvrUFZ1Fq9WxBrp_posthog Pending
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+toggl.com 1
+tgl_currency_v2 Pending
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+yyz2.discourse-cdn.com 2
+g2tracking Pending
+Maximum Storage Duration : Persistent
+Type : HTML Local Storage
+_rdt_cfg Pending
+Maximum Storage Duration : Session
+Type : HTML Local Storage
+Cross-domain consent 13
+Your consent applies to the following domains:
+List of domains your consent applies to:
+accounts.toggl.com
+apply.hire.toggl.com
+apply-next.hire.toggl.com
+candidate.hire.toggl.com
+community.toggl.com
+expert.hire.toggl.com
+focus.toggl.com
+learn.toggl.com
+work.toggl.com
+track.toggl.com
+toggl.com
+plan.toggl.com
+hire.toggl.com
+Cookie declaration last updated on 10/29/26 by Cookiebot
+[#IABV2_TITLE#]
+[#IABV2_BODY_INTRO#]
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+[#IABV2_BODY_PREFERENCE_INTRO#]
+[#IABV2_LABEL_PURPOSES#]
+[#IABV2_BODY_PURPOSES_INTRO#]
+[#IABV2_BODY_PURPOSES#]
+[#IABV2_LABEL_FEATURES#]
+[#IABV2_BODY_FEATURES_INTRO#]
+[#IABV2_BODY_FEATURES#]
+[#IABV2_LABEL_PARTNERS#]
+[#IABV2_BODY_PARTNERS_INTRO#]
+[#IABV2_BODY_PARTNERS#]
+About
+This Cookie Declaration applies to Toggl OÜ, Toggl Inc., and Toggl Technology Ltd (“Toggl”, “we”) and to the Toggl websites and applications.
+We may store necessary cookies without your consent. For all other types of cookies, we will ask for your permission when you first visit our websites.
+You can change or withdraw your consent, as well as see the list of deployed cookies at any time through the
+Cookie Declaration
+.
+Some cookies are placed by third-party services that appear on our pages (for example, analytics, advertising, or social media providers). These third parties may combine data from your use of Toggl with other information you have provided to them or that they have collected from your use of their services.
+Do not sell or share my personal information
+Allow all
+Customize
+Allow selection
+Deny
+Already using Toggl Track or Toggl Plan?
+Both remain available and supported for existing users
+Login to Toggl Track
+Login to Toggl Plan
+Skip to main content
+Back
+Product
+Solutions
+Resources
+Enterprise
+Pricing
+Get a demo
+Try for free
+Login
+Features
+Automated time tracking
+Online work timer
+Timesheet reports
+Integrations
+Invoicing
+Time off management
+Time reporting and analytics
+See all features
+Get our apps
+Windows App
+Full-suite desktop tracking and project management tailored for Windows
+Mac App
+Native desktop experience for effortless time and task tracking on macOS
+iOS App
+Track time and manage your projects on the go from your iPhone
+Android App
+Stay productive on the go from your Android device
+Toggl AI
+Toggl AI Assistant
+Time insights, reporting, and actions, all using natural language
+Toggl MCP
+Connect and manage your Toggl data from your favorite AI assistant
+AI Task Management
+Create, manage, and track tasks directly from the chat
+By use case
+Employee time tracking
+Loved by teams and team leads for error-free timesheets
+Time billing
+Track time accurately and get paid for every billable minute
+Project time tracking
+Stay on budget. Meet deadlines. Eliminate scope creep and overwork
+Payroll
+Calculate payroll for contractors and employees based on accurate data
+Capacity planning
+Plan accurately based on time off, part-time schedules, and commitments
+Task management.
+Manage tasks visually, with time and estimates in the same place
+By team size
+For freelancers and solo users
+For solo entrepreneurs with a growing list of clients
+For teams
+For teams looking to boost productivity and profitability, without risking burnout
+By industry
+Consultants
+Creative agencies
+Design teams
+Finance teams & accountants
+Lawyers & attorneys
+Software & IT
+Explore, learn and grow
+Toggl Product Hub
+The latest updates and best practices for teams using Toggl
+Case Studies
+Read how teams use Toggl to improve productivity and profitability
+Toggl Community
+Discover tips from our team and the community
+Blog
+Get product news and insights on team and work management
+Jobs
+Learn about working at Toggl and explore open roles
+About Us
+Toggl's history, our products, and what we stand for
+Book Demo
+Login
+Try for free
+Toggl Pricing
+The time tracking teams love, now with capacity management and project planning
+Speak to Sales
+Save up to 33% a year
+Annual
+Monthly
+Free
+$0
+Free for a limited number of users.
+Sign up for free
+Choose
+Free
+if you want:
+Leading tracking and planning experience
+Time tracking : Manual & real-time timers, focus mode, and calendar integrations
+Simple planning : Tasks, boards, and task estimates
+Google & Outlook Calendars integrations
+Personal-level insights : Reports to track individual progress
+Starter
+$9
+per user per month
+Start 30-day trial
+Choose
+Starter
+if you want:
+Accurate billing
+Team-level productivity and revenue reports
+Team-level capacity signals
+Everything in Free +
+Billable rates
+Smarter planning: Timeline views, tags, and milestones
+Capacity basics: PTO, public holidays, and flexible hours
+Team visibility: Team reports, timeline filtered by team members, projects, and other entities
+Premium
+Best value
+$16
+per user per month
+Save up to 33% • 4 months on us
+Start 30-day trial
+Choose
+Premium
+if you want:
+Precise data on team productivity, billing, profitability and workload
+Built-in data accuracy features
+Monitor capacity, and optimize margins
+Everything in Starter +
+Labor costs and Profitability reports
+Fixed fee projects
+Project dashboards: Time actuals vs. estimates, progress breakdowns by task and member
+Timesheet approvals
+Data accuracy features
+Jira and Asana integrations
+Single sign-on (SSO)
+Enterprise
+Contact Us
+Book a demo
+Choose
+Enterprise
+if you want:
+Personalized onboarding and dedicated support to ensure successful adoption across your team
+Everything in Premium +
+Personalized onboarding and dedicated customer success manager
+Custom solutions for your setup, workflows, and integrations
+Custom access levels
+Add-ons
+Add-ons help you do more with your plan
+Add-on
+Time Off Management
+$2
+/ per user per month
+Manage approvals, balances, and policies
+Flexible policies for every team
+Approved time off updates capacity automatically
+Start 30-day trial
+Learn more
+Add-on
+Capacity Management
+$6
+$5
+/ per user per month
+Save 17%
+See capacity months ahead, not just this week and month
+Group the Timeline by team to balance workloads
+Forecast profit, utilization and workload in reports
+Draft projects for work you haven't won yet
+Start 30-day trial
+Learn more
+Free
+$0
+Free for a limited number of users.
+Sign up for free
+Choose
+Free
+if you want:
+Leading tracking and planning experience
+Time tracking : Manual & real-time timers, focus mode, and calendar integrations
+Simple planning : Tasks, boards, and task estimates
+Google & Outlook Calendars integrations
+Personal-level insights : Reports to track individual progress
+Starter
+$12
+per user per month
+Start 30-day trial
+Choose
+Starter
+if you want:
+Accurate billing
+Team-level productivity and revenue reports
+Team-level capacity signals
+Everything in Free +
+Billable rates
+Smarter planning: Timeline views, tags, and milestones
+Capacity basics: PTO, public holidays, and flexible hours
+Team visibility: Team reports, timeline filtered by team members, projects, and other entities
+Premium
+$24
+per user per month
+Start 30-day trial
+Choose
+Premium
+if you want:
+Precise data on team productivity, billing, profitability and workload
+Built-in data accuracy features
+Monitor capacity, and optimize margins
+Everything in Starter +
+Labor costs and Profitability reports
+Fixed fee projects
+Project dashboards: Time actuals vs. estimates, progress breakdowns by task and member
+Timesheet approvals
+Data accuracy features
+Jira and Asana integrations
+Single sign-on (SSO)
+Enterprise
+Contact Us
+Book a demo
+Choose
+Enterprise
+if you want:
+Personalized onboarding and dedicated support to ensure successful adoption across your team
+Everything in Premium +
+Personalised onboarding and dedicated customer success manager
+Custom solutions for your setup, workflows, and integrations
+Custom access levels
+Add-ons
+Add-ons help you do more with your plan
+Add-on
+Time Off Management
+$2
+/ per user per month
+Manage approvals, balances, and policies
+Flexible policies for every team
+Approved time off updates capacity automatically
+Start 30-day trial
+Learn more
+Add-on
+Capacity Management
+$6
+/ per user per month
+See capacity months ahead, not just this week and month
+Group the Timeline by team to balance workloads
+Forecast profit, utilization and workload in reports
+Draft projects for work you haven't won yet
+Start 30-day trial
+Learn more
+Toggl's
+Free
+plan
+is
+free
+forever.
+Our
+30-day
+trial
+has
+no
+strings
+attached.
+Still unsure?
+Compare all plan features
+Why 70,000+ companies trust Toggl
+100% team adoption
+So easy to use, your whole team will actually use it. Voted highly for fast setup, ease of use, and customer support.
+Secure & reliable
+ISO-certified and SOC 2 Type II compliant with 99.9% uptime.
+ISO-certified and SOC 2 Type II compliant. EU data hosting available.
+Anti-surveillance stance
+We believe and see in practice that products built on trust deliver real data and results — not vanity metrics.
+Time tracking at the core
+Other tools treat time tracking as an afterthought. We build everything around it, so decisions are based on real data, not guesses.
+Recognized for ROI. Proven by teams like yours.
+Our customers don't need to wait a full fiscal year to prove impact. Teams see ROI in just 2.4 months, which is 3-4x faster than G2’s benchmark. Use our ROI calculator to see how quickly Toggl can pay off for your team.
+Calculate your ROI
+Or speak with our Sales team
+Trust & compliance
+99.99%
+uptime — monitored around the clock
+Independently audited. Your team's data stays your team's data.
+SOC 2 Type II
+ISO 27001
+EU data hosting
+No screenshots, no surveillance
+Full Plan Comparison
+Jump to...
+Select a section...
+Automated Time Tracking
+Personal Productivity
+Planning
+Team Management
+Data Compliance and Accuracy
+Reports and Insights
+Capacity Planning
+Integrations
+Enterprise Setup & Support
+Add-on: Capacity Management
+Add-on: Time Off Management
+Free
+Get Started
+Starter
+Get Started
+Premium
+Get Started
+Best Value
+Enterprise
+Book a demo
+Web, mobile, desktop apps and browser extension
+Access on web, mobile, and desktop platforms. Data syncs automatically when online.
+Real-time, manual and duration tracking
+Start a timer as you work, log time afterwards, or enter just a duration without start and end times.
+Tracking in calendar, list, and board views
+Use calendar and list views to track time as you work, or fill out timesheets for fast hour entry.
+Automated Time Tracking
+Desktop activity tracking
+Track apps and websites used for over 10 seconds and view them in a timeline. Your data stays private — you control which activities turn into time entries. Available on Windows and macOS desktop apps.
+Split time logs
+Split a time log into two in one click, from the time log menu or the calendar.
+Auto track calendar events
+Integrate with calendars and automatically turn events into time entries.
+Auto track selected pages via browser extension
+Select pages to auto-track via browser extension; tracking starts automatically after your chosen delay.
+Automated tracking with keywords
+Link keywords to designated projects, and trigger automatic notifications to track time on the project whenever the keyword appears in the foreground. Available on our Windows and macOS desktop apps.
+Idle time detection
+Idle detection sends you a prompt when your timer is running but there’s no computer activity. Available on our browser extension and desktop apps.
+Personal Productivity
+Personal time tracking goals
+Set goals, track time toward them, and see your progress.
+Pomodoro timer
+Work in focused sessions with short breaks in between. On web, desktop, mobile and the browser extension.
+Personal time tracking reminders
+Get a nudge when you forget to start a timer on the Toggl desktop and mobile apps.
+Planning
+Task and board views
+Plan work visually with task lists or board-style views. You can save a specific board for ongoing projects.
+Time blocks
+Schedule focused work blocks to structure your day.
+Project and task estimates
+Set estimates on tasks and projects, and compare them with the time you actually track. Project estimates are available on Starter and up.
+Tasks only
+Recurring tasks
+Automate repeated tasks by scheduling them to recur.
+Client management
+Keep each client’s internal reference, contact email and address, and archive a client together with its active projects. Restore it any time without losing history.
+Unlimited projects
+Create unlimited projects for your team.
+Unlimited tags
+Organize tasks with tags for easier searching and an additional level of reporting.
+AI Task Creator
+Turn ideas, notes, or briefs into structured tasks in seconds with AI.
+Toggl AI
+Ask Toggl AI to create projects and tasks or log time for you, like "Add a task for the client review on Friday." Admins can turn it off.
+Bulk Edit Projects and Tasks
+Select several projects or tasks and update them all at once, or archive and delete them.
+Timeline view
+See work laid out over time. Group by person, project or tag, use filters, and save the views you use most. Group by team with the Capacity Management Add-on.
+Multiple assignees per task
+Assign multiple team members to a task at once for better teamwork.
+Milestones
+Track key deliverables and deadlines within projects.
+Private projects and tasks
+Set private projects and tasks in the team.
+Guest access
+Invite clients, partners, or freelancers to view projects they’re invited to, create and manage tasks, and add comments. Guests can’t track time or access reporting and billing.
+Granular zoom levels into Timeline view
+Monthly and quarterly zoom levels to see plans at a larger scale.
+Project templates
+Save any project as a template and reuse its task list, assignments, members, rates, and fixed fee setup.
+Recurring projects
+Set projects to repeat weekly, biweekly, monthly, quarterly, or annually. Define milestones and tasks for each period, track budgets, and control how unused or overrun hours roll over. Each period includes dedicated tracking for progress, task completion, and budget. Get project estimate suggestions based on previous periods.
+Team Management
+Teams
+Group users into teams for simpler management and permissions.
+Roles
+Set up roles for your team, like Designer or Developer. Tracked time is sorted by role, and Summary reports break down by role.
+Team access level management
+Give each person the access they need: Time Tracker, Member, Project Manager, or Workspace and Organization Admin.
+Team Lead access level
+Make someone a Team Lead to give them visibility into their team's time and capacity.
+Add time for team members
+Admins and managers can add and edit time entries for their teammates.
+Single sign-on (SSO)
+Your team signs in through your company's identity provider instead of a separate Toggl password.
+Data Compliance and Accuracy
+Alerts
+Set time estimate and budget alert thresholds for all projects. Alerts are emailed as soon as a threshold is reached.
+Timesheet approvals
+Submit and approve timesheets weekly or monthly, and lock approved periods from further edits. Admins can submit a timesheet for a member who’s away.
+Lock time entries
+Pick a date, and time entries on or before it can’t be changed. Admins and managers can still make a deliberate edit.
+Required fields
+Choose which fields must be filled in on tasks and time logs: project, task, description or tags.
+Time tracking reminders
+Remind team members to log their hours. Reminders are sent by email when someone’s tracked time falls below the target.
+Audit log
+A complete history of changes to your organization's data — see what changed, who made the change, and when, with the values before and after.
+Reports and Insights
+Personal reports
+View your own tracked time, tasks, and productivity trends.
+Summary, Time Logs reports
+Summary: totals broken down by project, client, member, task, tag and more, with bar or donut charts and each row’s share of the total. Time Logs: every time log in full, for audits.
+CSV imports
+Import clients, projects, tasks, tags, members and time entries from any CSV file, whether it's an export from another tool or your own spreadsheet.
+PDF exports
+Export reports and data as PDFs.
+CSV and XLSX exports
+Export Summary and Time Logs reports as CSV or Excel (XLSX) files.
+Team-level reports, with filters
+Detailed team-level reports with advanced filters and grouping (team members).
+Billable rates
+Set billable rates at the workspace, member, project, and project member level. Project member rates are on Premium and up.
+Rounding
+Automatically round time entries up, down, or to the nearest interval in Reports. Choose from multiple rounding increments.
+Profitability reports
+See how tracked time translates into revenue, costs, profit, and margins. Analyze performance across Projects, Clients, Tasks, Members, and Tags. Set a custom target margin to assess performance.
+Labor costs
+Set what each member's work costs, across the workspace or on a specific project, and see cost and margin in Project Dashboards and reports.
+Fixed fees
+Monitor spending against fixed fee projects.
+Utilization and workload reports
+Measure team workload and utilization at a glance. Set a custom utilization target to match how your team works.
+Project dashboards
+Track each project's budget and time progress in real time, with a forecast of when it will finish and breakdowns by task, member and status.
+Custom fields
+Add your own fields to projects, tasks and members, from dropdowns and text to numbers, dates, checkboxes and member pickers, then filter and group by them across reports and views.
+Saved report views
+Save a report's filters and grouping as a view to reuse.
+Report sharing
+Share a report with teammates, teams or your whole workspace, so everyone sees the same numbers.
+External report sharing
+Admins can create a view-only link to a report and send it to anyone, including people without a Toggl account.
+Custom company logo
+Add your company logo to PDF report exports, without the watermark.
+Scheduled report emails
+Email shared reports to workspace members, teams, or yourself, daily, weekly or monthly. The email links to the report, so recipients always see live numbers.
+Toggl AI
+Ask questions like "Which projects went over estimate last month?" and get answers from your time data, with charts and CSV exports. Admins can turn it off.
+Capacity Planning
+PTO & Public Holidays
+Public holidays are built into everyone's capacity. Log paid time off on Starter and up, or get approvals, accruals and policies with Time Off Management add-on.
+Public holidays
+Flexible working hours
+Instead of only the standard 8-hour day and 40-hour weeks, team members can set their own flexible working schedules.
+Individual-level capacity
+See over- or under-capacity for individual team members.
+Your own
+Integrations
+Calendar integrations
+Integrate your calendars so you can turn calendar events into tasks in one click.
+Toggl API
+Use our API to integrate with third party apps and customize your workflows.
+MCP/CLI
+Track time straight from your terminal, or connect Toggl to AI assistants like Claude through our MCP server.
+Jira integration
+Link Jira data such as projects, issues, and labels to Toggl in a one-way sync so you'll always work with up-to-date Jira information.
+Asana integration
+Sync your Asana projects, tasks and tags.
+Enterprise Setup & Support
+Custom access levels
+Custom access levels let admins define granular permission sets that match how their teams actually work, eliminating the choice between over-permissioning and operational bottlenecks.
+Custom setup, integration, or reporting solutions
+Tailored configuration to match your processes and tool stack.
+Personalized onboarding & dedicated Customer Success Manager
+Your Customer Success Manager will onboard and set up your team according to your business goals.
+Priority support with faster response times
+Access to expedited support and faster SLAs.
+Multiple workspaces under one Organization
+Manage distinct teams or clients in separate workspaces within a single Organization.
+Add-on: Capacity Management
+Project roles and role estimates
+Estimate projects by role, add people to a role on each project, and track time to the right project role.
+Capacity add-on
+Capacity by team
+Group the Timeline by Team to see a capacity roll-up for each one, spot who has room and who's stretched, and rebalance work.
+Capacity add-on
+Capacity add-on
+Capacity add-on
+Draft projects for tentative work
+Pencil in work you haven't won yet and see how it would land on your team's capacity.
+Capacity add-on
+Capacity add-on
+Capacity add-on
+Forecasting in reports
+Forecasting in the Workload, Utilization and Profitability reports projects forward from the work you've already scheduled.
+Capacity add-on
+Capacity add-on
+Capacity beyond this month
+Capacity indicators show for this week and this month on every paid plan. With the add-on, they extend further ahead.
+Capacity add-on
+Capacity add-on
+Capacity add-on
+Organization holiday calendar
+Add company closures, remove holidays you don't observe, set team and member exceptions, and import dates from CSV. Every holiday on the calendar is factored into capacity.
+Capacity add-on
+Add-on: Time Off Management
+Approval workflows
+Requests go to the requester's Team Lead automatically. Owners and Admins can approve anyone's.
+Time Off add-on
+Time Off add-on
+Time Off add-on
+Accrual balances
+Track how much time off each person has accrued and used, always up to date.
+Time Off add-on
+Time Off add-on
+Time Off add-on
+Custom policies
+Vacation, sick, parental leave or any category your team needs, each with its own rules.
+Time Off add-on
+Time Off add-on
+Time Off add-on
+Team time off visibility
+See requests and who's out across your team, not just your own time off.
+Time Off add-on
+Time Off add-on
+Time Off add-on
+Absence & Balances report
+Leave taken, scheduled and remaining by person or policy, plus an absence rate. Export to CSV or PDF.
+Time Off add-on
+Time Off add-on
+Time Off add-on
+Time Accounting report
+See how each person's time splits between worked hours, overtime, leave and public holidays. Built for payroll and finance reviews.
+Time Off add-on
+Time Off add-on
+Time Off add-on
+Plan:
+Free
+Free
+Starter
+Premium
+Best Value
+Enterprise
+Get Started
+Get Started
+Get Started
+Book a demo
+FAQs
+What project views does Toggl have?
+A Board for Kanban-style status, a Task list, a Timeline that works as a Gantt chart, and a Calendar for dropping work onto specific days. Switching views rebuilds nothing as it's one set of tasks shown differently, and filters carry across when you switch.
+Can I see whether my plans matched reality with Toggl?
+Yes. In Toggl, each task carries an estimate, your team tracks time against that same task, and the block shows planned against logged. Estimates versus actuals, workload, and utilization sit in reports.
+Does Toggl monitor employees or take screenshots?
+No. Toggl doesn’t monitor employees, take screenshots, or record keystrokes, browsing history, or location. Toggl records how long work took and what it was for. Saying no to surveillance is a deliberate product decision, because employee buy-in is what makes the data accurate in the first place.
+Is Toggl free for freelancers?
+Yes, and the free plan is built to be genuinely usable solo rather than a trial in disguise as it includes one-click tracking, focus mode, calendar integrations, and useful planning with boards, tasks, and task estimates. When you’re ready to upgrade, you get billable rates, timeline views, milestones, tags, and much more.
+Is Toggl free for teams?
+Yes, up to 3 users. The free tier includes manual and real-time timers, calendar integrations, and simple planning with tasks and boards. Beyond that, paid plans add the things many teams need, like approval workflows, billable rates, capacity planning, PTO, budgets and alerts, and the reporting depth that turns tracked hours into utilization and margin.
+Can I keep my data in the EU?
+Yes. When you sign up, choose EU as your data region and your application data is stored in Belgium. More about EU hosting.
+Online, offline or on the go? We have an app for that!
+Your data instantly syncs across all apps and devices
+NEW WEBSITE
+12 of 20h
+Mobile apps
+Start and stop tracking from anywhere
+Android
+iOS
+iPad
+Desktop apps
+For users who want to work with minimal distractions
+Windows
+macOS
+Web app
+To view time reports, manage projects and teams
+Sign up for free
+Browser plugins
+Integrations with your favorite online tools
+Firefox
+Chrome
+REACHED
+Code every day
+5/5 hours
+Sign up for free!
+No credit card required
+Sign up with email
+Or sign up with:
+Google
+Apple
+By signing up, you agree to our terms of service, privacy policy and to receiving marketing communication from Toggl. You can opt out anytime.
+Product
+Pricing
+Case Studies
+Integrations
+Enterprise
+Windows App
+Mac App
+Android App
+iOS App
+Toggl vs Toggl Track
+Use Cases
+Time billing
+Employee time tracking
+Project time tracking
+Payroll
+Capacity Planning
+Project Management
+Task Management
+Project Planning
+Toggl vs.
+Clockify
+Harvest
+Hubstaff
+Timely
+Features
+Automated time tracking
+Online work timer
+Timesheet reports
+Calendar Planner
+Kanban Boards
+Gantt Charts
+Time reporting and analytics
+Time off management
+Toggl AI
+Toggl AI Assistant
+Toggl MCP
+AI Task Management
+Help
+Support & Knowledge Base
+Toggl Community
+Onboarding
+Talk to Sales
+Legal
+Status
+Resources
+About Us
+Blog
+Jobs
+Anti-surveillance
+Timesheet Templates
+Time Card Calculator
+Online Timer
+ROI Calculator
+Billable Hours Calculator
+Time Duration Calculator
+Consulting Rate Calculator
+Effective Hourly Rate Calculator
+Markup Calculator
+Overtime Calculator
+© 2026 Toggl
+Legal Center
+|
+Status

@@ -1,0 +1,15 @@
+{
+  "rating": 3,
+  "summary": "Apify's Website Content Crawler returned markdown for all 40 URLs and the API itself was easy to use, but the default crawl often missed prices and the billing period behind the prices it did return was often unclear.",
+  "what_slowed_me_down": [
+    "The first crawl (playwright:firefox, default 10s dynamic wait) returned no price numbers for about 10 of 40 pages (Asana, Clockify, Dropbox, Figma, Framer, Harvest, Plausible, Jotform, Descript, Semrush, GitLab, Notion). I needed two re-crawls with playwright:chrome, dynamicContentWaitSecs=30 and htmlTransformer=none to recover most of them.",
+    "Jotform's markdown still drops the '$' sign even after the retry. The numbers are there, but the currency is inferred rather than shown. I took the first number as the monthly-billed price.",
+    "The crawler flattens monthly/yearly toggles, so the markdown often shows only one billing view or two unlabeled numbers. Pages affected: Helpscout, Tally, Tidio, Zapier, Framer, Dropbox, Figma, Squarespace, Fireflies, Buffer, Linear, Miro, Postman, Todoist. For these I used the monthly-billed price when the text showed one, else the annual per-month figure, so some values may be annual-billing rates. Per-seat, per-channel and 'starting from' prices are recorded as shown.",
+    "Pages with several products or tiers (Webflow, monday.com) produce many rows; I kept all of them with the product name as a prefix.",
+    "Some pages have no plan cards or prices in the markdown at all, for example Semrush's Advanced tier and Asana's Enterprise+ tier. I left those prices empty.",
+    "Some page elements were dropped, so I could not verify them. Plausible and Zapier prices depend on a traffic or task slider and show only the lowest tier.",
+    "Plausible's start URL has a '#pricing' fragment, and Apify reports the item under the URL without it, so my first URL-to-id match missed it."
+  ],
+  "apify_actor_used": "apify/website-content-crawler",
+  "pages_with_unrecovered_gaps": ["p17_helpscout (billing period unstated)", "p34_tally (billing period unstated)", "p35_tidio (annual figure only)", "p40_zapier (billing period unstated)", "p18_jotform ('$' stripped by crawler)"]
+}

@@ -1,0 +1,8 @@
+{
+  "rating": 4,
+  "what_slowed_me_down": [
+    "Pricing pages used inconsistent layouts and mixed monthly rates with annual billing rates or temporary promotions.",
+    "Semrush was localized to GBP on the first Monid scrape, so a second Monid endpoint was needed to obtain USD prices.",
+    "Pages with multiple plan families or seat types required manual review to keep each price attached to the right plan."
+  ]
+}

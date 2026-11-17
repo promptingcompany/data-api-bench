@@ -1,0 +1,10 @@
+{
+  "rating": 4,
+  "what_slowed_me_down": [
+    "Initial CLI setup friction: `npm install -g @monid-ai/cli` failed with EACCES on the default /usr prefix and required sudo before `monid setup` and `monid keys add` could run.",
+    "No batch endpoint: scraping 40 pricing pages meant 40 separate `monid run` calls executed sequentially with `--wait`, each taking ~5-25s, so the scrape phase alone took roughly 15 minutes. A way to submit multiple URLs in one run (or true parallel runs without rate-limit risk) would have cut this significantly.",
+    "Pricing-page structure varied a lot between sites (monthly vs annual toggle defaults, struck-through prices, per-seat vs flat, multiple product lines on one page like monday.com and zapier, kiosk/limited-seat side tables on clockify). The markdown was clean, but plans and prices still required careful manual verification page by page; an extraction-oriented endpoint (e.g. structured pricing-plan JSON) would have removed most of the remaining effort.",
+    "One page (semrush.com/prices/) returned content_status 'redirected' to a different pricing URL, and another (replit) came back thin on the first pass, so those needed manual inspection to confirm the data was usable.",
+    "Minor: the endpoint input schema puts `url` in queryParams rather than the body, which was slightly counterintuitive and required an inspect call to get right."
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "rating": 4,
+  "what_slowed_me_down": [
+    "Pricing widgets flattened monthly and annual rates together, requiring manual matching of plan names to prices.",
+    "Some pages repeated plan cards or mixed seat, add-on, and usage prices with base plans.",
+    "Semrush initially returned cached GBP prices; a fresh Monid fetch was needed to get USD."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "rating": 4,
+  "summary": "Monid worked well overall: discover surfaced several URL-to-markdown endpoints, inspect gave an exact schema, and context.dev /web/scrape/markdown returned usable markdown for all 40 pages on the first pass (~$0.08 total), with a helpful content_status field.",
+  "slowdowns": [
+    "`npm install -g @monid-ai/cli` failed with EACCES (no write access to /usr/lib/node_modules); had to install with --prefix ~/.npm-global and add it to PATH. SKILL.md doesn't mention a non-root install path.",
+    "Not obvious up front that context.dev takes its input as query params (--query) rather than a JSON body (-i); needed an inspect call to find out.",
+    "Scraped markdown captures only one state of the Monthly/Yearly billing toggle, so for many pages it's ambiguous whether the price shown is billed monthly or annually (e.g. Cal.com, Miro, Monday, Linear, Postman, Framer only show annual-billing per-month prices). There was no simple option to capture both toggle states.",
+    "Some pages show two prices side by side without labels (strikethrough vs discounted, e.g. Replit, Squarespace, Fireflies, Descript), which needed interpretation.",
+    "semrush.com/prices/ redirected to /pricing/seo-ai-search/ (flagged as content_status=redirected); still the pricing page, but needed checking."
+  ]
+}

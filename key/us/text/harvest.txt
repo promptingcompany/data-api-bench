@@ -1,0 +1,466 @@
+Time Management & Invoicing at Cost Effective Pricing | Harvest
+Skip to content
+Features
+Features
+Time tracking
+Reporting & Analysis
+Invoicing & Payments
+Harvest Forecast
+Features overview
+Apps & integrations
+Asana
+Slack
+Stripe
+All integrations
+Desktop & Mobile apps
+Solutions
+Industries
+Advertising & Marketing
+Architecture
+Construction
+Law Firms
+Accounting & Finance
+Consulting & IT
+Design Teams
+Software Development
+Solutions overview
+Explore Harvest
+Customer stories
+Join a webinar
+Onboarding a 50+ person team?
+Contact sales
+Resources
+Resources
+Blog
+Webinars
+Guides & Templates
+Help Center
+Developer Documentation
+Invoice Template
+Hubs
+Calculate pay and work hours
+Time tracking and timesheets
+Invoices and receipts
+Expenses
+Deliver and coordinate projects
+Software comparisons
+See all hubs
+Report
+The State of Professional Service
+Learn how firms are navigating growth, efficiency, and profitability in today's landscape.
+Get the report
+Pricing
+Log in
+Contact sales
+Try Harvest free
+Features
+Time tracking
+Reporting & Analysis
+Invoicing & Payments
+Harvest Forecast
+Features overview
+Asana
+Slack
+Stripe
+All integrations
+Desktop & Mobile apps
+Solutions
+Advertising & Marketing
+Architecture
+Construction
+Law Firms
+Accounting & Finance
+Consulting & IT
+Design Teams
+Software Development
+Solutions overview
+Customer stories
+Join a webinar
+Resources
+Blog
+Webinars
+Guides & Templates
+Help Center
+Developer Documentation
+Invoice Template
+Calculate pay and work hours
+Time tracking and timesheets
+Invoices and receipts
+Expenses
+Deliver and coordinate projects
+Software comparisons
+See all hubs
+Pricing
+Log in
+Contact sales
+Try Harvest free
+Simple & flexible pricing
+Get started on any plan with a free trial. No credit card required.
+Monthly
+Annual
+20% off
+Free
+Built for
+individual freelancers
+starting from
+$0 forever
+Get
+started
+Free includes:
+1 seat
+2 projects
+Time tracking
+Invoicing
+Expense tracking
+Mac & iOS apps
+Perfect for getting started. Need more projects or team members? Upgrade anytime, your data carries over.
+The usage of some features may require the payment of fees. See our Help Center
+.
+Teams
+Built for teams that need to track, analyze, and invoice their time
+starting from
+$9 seat/month
+$108 per seat, billed annually
+starting from
+$11 seat/month
+30-day
+free trial
+All Free features, and:
+Teams includes:
+Unlimited seats
+Time tracking
+Team reporting
+Track
+team capacity
+Invoicing
+Accounting and payment integrations
+Integrate with Stripe, QuickBooks Online, Xero, Deel, and others
+Your base rate includes core features. As your team grows, additional invoices, projects, clients, and tasks are billed based on what you use, so you're never overpaying.
+Enterprise
+Built for teams with advanced reporting and administrative needs
+starting from
+$14 seat/month
+$168 per seat, billed annually
+starting from
+$17. 50
+seat/month
+30-day
+free trial
+All Teams features, and:
+Unlimited custom reports
+Build and save flexible reports for your team’s unique needs.
+Profitability reporting
+Track profitability for specific clients, projects, tasks, and teams
+Timesheet approvals
+Activity log
+Review all
+time entries and changes
+SAML-based SSO
+Require notes
+Require
+your team to add notes for all time entries
+Your base rate includes core features. As your team grows, additional invoices, projects, clients, and tasks are billed based on what you use, so you're never overpaying.
+Enterprise Plus
+Built for organizations that need Harvest tailored to their business
+starting from
+Custom pricing
+Contact
+Sales
+All Enterprise features, and:
+Custom integrations with your existing tools
+Product customization
+Dedicated Customer Success Manager
+Custom onboarding support and training
+Assisted data migration
+White labelling
+Privileged access to product development
+Work with our team to shape Harvest around how your organization operates, with integrations, onboarding, and support tailored to your business needs.
+All prices in USD
+Compare all features
+Pricing FAQs
+What happens at the end of my trial?
+You can upgrade to a paid plan any time during your 30-day trial period. If you haven’t upgraded at the end of 30 days, your trial account will be automatically deactivated. We don’t collect credit card info when you start a trial, so you don’t need to worry about being charged.
+Even though your trial account will be deactivated, we won’t delete your data. If you ever want to try Harvest again in the future, your data will be waiting for you.
+If you’re looking to switch to the free plan, you can do that any time during your trial as well. You’ll see that option during the upgrade process as long as your account meets the free plan’s requirements.
+Do you offer any discounts?
+When you pay for the year up front, you get a 20% discount that’s automatically applied to your account. Contact our support team
+for more information.
+What are our payment options?
+You can pay for Harvest via credit card either monthly or yearly. If you pay for the year in advance, you’ll get a 20% discount on your bill ! If you have 10 or more seats and pay for the year in advance, you can also request an invoice when you upgrade and pay for your subscription via ACH or bank transfer.
+What happens if my team size changes?
+You can add seats at any time and will be charged a prorated amount based on the number of days left in your billing cycle. While you can’t remove seats during your current billing cycle, you can indicate inside your account if you’d like your yearly or monthly plan to renew with fewer seats.
+Keep in mind that yearly accounts receive a 20% discount, so if your seat requirements don’t change from month to month, yearly is probably the best option for you.
+Will I have access to Premium features during my trial?
+Yes! The Harvest free trial allows you to try out many Premium features like profitability reporting and timesheet approvals. However, you will not be able to enable SAML-based single-sign-on during your trial.
+Can I change my plan after subscribing?
+Yes, you can change your plan at any time. To change your plan, your account admin will need to go to the settings page and, next to current plan, click change plan . From there, you can choose to either immediately upgrade to the premium plan, or schedule a downgrade to the pro plan.
+How do I sign up for the free plan?
+When your trial account meets the free plan’s requirements
+, you can sign up for the free version during the upgrade process. On the Upgrade Your Harvest Plan page, click the switch to the free version link below the plan options.
+Onboarding a large team? Let us show you around!
+Get a personalized Harvest consultation for teams with 50+ seats.
+Book a consultation
+Integrations that simplify complex workflows
+Powerful visual reporting across all projects
+Customizable permissions for robust teams
+Automatic insights into budgets, team capacity, forecasting
+Compare features
+Monthly
+Annual 20%
+off
+Free
+starting from
+$0 forever
+Get
+started
+Teams
+starting from
+$9 seat/month
+starting from
+$11 seat/month
+30-day
+free trial
+Enterprise
+starting from
+$14 seat/month
+starting from
+$17. 50
+seat/month
+30-day
+free trial
+Seats
+1 seat
+Unlimited
+Unlimited
+Web, desktop, and mobile apps
+yes
+yes
+yes
+Supports both Time & Materials and Fixed Fee projects
+?
+Bill hourly or at a flat rate per project.
+yes
+yes
+yes
+Time tracking
+?
+One-click timers, weekly/daily timesheets, calendar imports.
+yes
+yes
+yes
+Expense tracking
+?
+Log receipts and reimbursable costs alongside time.
+yes
+yes
+yes
+Invoicing
+?
+Generate, send, and track polished invoices.
+yes
+yes
+yes
+Project estimates
+?
+Forecast project hours and cost before kickoff.
+yes
+yes
+yes
+Reporting basics
+?
+Time and project reports out of the box.
+yes
+yes
+yes
+Custom reports
+?
+Build and save flexible reports for your team’s unique needs.
+Up to 4
+Up to 4
+Unlimited
+50+ core integrations
+?
+Asana, Slack, Stripe, QuickBooks, Xero, and more.
+yes
+yes
+yes
+Forecast integration
+?
+Connect with Harvest Forecast for resource planning.
+yes
+yes
+yes
+Billable and cost rates for teams
+?
+Set what each person bills and what they cost.
+yes
+yes
+Team reporting
+?
+See team capacity, utilization, and workload.
+yes
+yes
+Project and people import
+?
+Bulk-import projects and team members from CSV.
+yes
+yes
+Accounting and payment integrations
+?
+Sync invoices/payments with QuickBooks, Xero, Stripe.
+yes
+yes
+Scheduled phone support
+?
+Book a call with our support team.
+yes
+yes
+Profitability reporting
+?
+Track margins by client, project, task, or team.
+yes
+Timesheet approval
+?
+Review and approve hours before they're billed.
+yes
+Activity log
+?
+Audit trail of every time entry and edit.
+yes
+SAML-based SSO
+?
+Sign in via your identity provider (Okta, Azure AD…).
+yes
+Custom exports
+?
+Export to CSV with your own column selection.
+yes
+Require Notes
+?
+Force the team to add a note on every entry.
+yes
+LOVED BY THOUSANDS OF BUSINESSES
+4.3
+1,500+ reviews on G2
+4.6
+4,200+ reviews on Capterra
+4.8
+12,000+ reviews on App Store
+70K+
+Businesses Trust Us
+10M+
+Invoices Created
+$50B+
+Payments Processed
+“I like how you can access from anywhere, mobile app, desktop app, website, many easy options for quickly tracking time spent on projects.”
+Rebecca B.
+“Harvest is great. It has LITERALLY changed the way we work. Makes our staffing and budgeting estimates VERY easy.”
+Brock P.
+“I've tried numerous other invoicing tools but none compare to the stability, quality, and reliability of Harvest. You just can't beat it.”
+Jonathan S.
+“We’ve tried using other solutions and end up coming back to Harvest. Exceptionally easy to use and does its job extremely well.”
+Matthew T.
+“Harvest is super simple and easy to use. I love that you can set a time limit on specific projects and visually see how much you've gone over.”
+Anna A.
+“I like how you can access from anywhere, mobile app, desktop app, website, many easy options for quickly tracking time spent on projects.”
+Rebecca B.
+“Harvest is great. It has LITERALLY changed the way we work. Makes our staffing and budgeting estimates VERY easy.”
+Brock P.
+“I've tried numerous other invoicing tools but none compare to the stability, quality, and reliability of Harvest. You just can't beat it.”
+Jonathan S.
+“We’ve tried using other solutions and end up coming back to Harvest. Exceptionally easy to use and does its job extremely well.”
+Matthew T.
+“Harvest is super simple and easy to use. I love that you can set a time limit on specific projects and visually see how much you've gone over.”
+Anna A.
+“I like how you can access from anywhere, mobile app, desktop app, website, many easy options for quickly tracking time spent on projects.”
+Rebecca B.
+“Harvest is great. It has LITERALLY changed the way we work. Makes our staffing and budgeting estimates VERY easy.”
+Brock P.
+“I've tried numerous other invoicing tools but none compare to the stability, quality, and reliability of Harvest. You just can't beat it.”
+Jonathan S.
+“We’ve tried using other solutions and end up coming back to Harvest. Exceptionally easy to use and does its job extremely well.”
+Matthew T.
+“Harvest is super simple and easy to use. I love that you can set a time limit on specific projects and visually see how much you've gone over.”
+Anna A.
+“I like how you can access from anywhere, mobile app, desktop app, website, many easy options for quickly tracking time spent on projects.”
+Rebecca B.
+“Harvest is great. It has LITERALLY changed the way we work. Makes our staffing and budgeting estimates VERY easy.”
+Brock P.
+Ready to turn hours into profit?
+See if Harvest is right for your business with a free, fully functional 30-day trial.
+Try Harvest free
+Desktop app
+macOS
+Windows
+Mobile app
+iOS
+Android
+Harvest
+Home
+Why Harvest?
+Features
+Pricing
+Integrations
+Apps
+Community
+Customer stories
+Resources
+Webinars
+Help & support
+Integrate with Harvest
+Time Well Spent
+Time in This Time
+Company
+About us
+Blog
+Careers
+Schedule a consultation
+Contact us
+Explore
+Harvest Forecast
+The fast and simple way to schedule your team across projects.
+Learn more
+Privacy
+Legal
+Security
+Status
+Cookie Preferences
+Do Not Sell or Share My Personal Information
+Information for Law Enforcement Authorities
+© Bending Spoons Operations S.p.A.
+Harvest uses cookies as described in our Privacy Policy
+to ensure you get the best experience on our website.
+Accept Cookies
+Cookie Preferences
+More information about your privacy rights
+Harvest uses cookies as described in our Privacy Policy linked below to ensure you get the best experience on our website.
+Privacy Policy
+Allow All
+Manage Cookie Preferences
+Strictly Necessary Cookies
+Always Active
+These cookies are necessary for the website to function. You may set your browser to block or alert you about these cookies, but parts of the website may not function properly.
+Performance Cookies
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.
+Functional Cookies
+Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+Targeting Cookies
+Targeting Cookies
+These cookies may be set through our website by third-party advertisers. These cookies may be used to show you relevant advertising on other third-party sites.
+Cookie List
+Clear
+checkbox label
+label
+Apply
+Cancel
+Consent
+Leg.Interest
+checkbox label
+label
+checkbox label
+label
+checkbox label
+label
+Confirm My Choices

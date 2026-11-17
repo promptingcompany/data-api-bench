@@ -1,0 +1,10 @@
+{
+  "rating": 4,
+  "summary": "Apify's apify/website-content-crawler (playwright:firefox, saveMarkdown) returned markdown for all 40 pricing pages in a single run (40/40 succeeded, no retries needed). Plans were then extracted from the saved markdown into plans.csv (180 rows).",
+  "what_slowed_me_down": [
+    "Markdown pages are large (up to ~144 KB for Postman, ~93 KB for Clockify) and full of nav, FAQ and comparison-table text, so finding the real plan cards took parallel agents and manual spot-checks.",
+    "The crawler output does not record which billing toggle (monthly vs annual) was active. Several pages (Figma, Help Scout, Loom, Notion, Tally, Tidio, Webflow, Miro, monday, Postman, Dropbox) show a single price whose billing term cannot be determined from the markdown, so those prices are as displayed and may be annual-billed per-month.",
+    "Some pages list multiple product lines (Webflow, Zapier, monday, GitLab) and the page markdown does not make plan-vs-add-on boundaries obvious, so inclusion was a judgment call.",
+    "Result URLs differ from input URLs (e.g. Plausible '#pricing' became the home page, trailing slashes, www), so mapping dataset items back to ids needed URL normalization."
+  ]
+}

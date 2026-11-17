@@ -1,0 +1,47 @@
+{
+ "id": "p36_tidio",
+ "main_plan_aliases": {
+  "Starter": [
+   "Tidio Starter"
+  ],
+  "Growth": [
+   "Tidio Growth"
+  ],
+  "Plus": [
+   "Tidio Plus"
+  ],
+  "Premium": [
+   "Tidio Premium"
+  ],
+  "Free Plan": [
+   "Free",
+   "Tidio Free"
+  ]
+ },
+ "optional": [
+  {
+   "name": "Lyro AI Agent",
+   "aliases": [
+    "Lyro",
+    "Lyro AI",
+    "Add-on Lyro AI Agent"
+   ],
+   "price_kind": "number",
+   "price_monthly_billing": 39,
+   "price_annual_billing_per_month": 32.5,
+   "quote": "Available as a stand-alone product\nStarts at\n$\n32.50\n/mo.\nFrom 50 Lyro AI conversations"
+  },
+  {
+   "name": "Flows",
+   "aliases": [
+    "Tidio Flows",
+    "Add-on Flows"
+   ],
+   "price_kind": "number",
+   "price_monthly_billing": 29,
+   "price_annual_billing_per_month": 24.17,
+   "quote": "Starts at\n$\n24.17\n/mo.\nFrom 2 000 visitors reached"
+  }
+ ],
+ "notes": "Snapshot is on Annually (2 months free). Monthly-billing starting prices for Lyro ($39 for 50 conversations) and Flows ($29 for 2,000 visitors) come from automationsData in the HTML (price 3900/2900, US variants); annual = monthly x10/12. Both are 'Starts at' prices for add-ons also sold stand-alone. Free tiers of Lyro/Flows inside the Free Plan calculator ($0) not added as separate plans."
+}

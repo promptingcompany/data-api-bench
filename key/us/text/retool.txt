@@ -1,0 +1,809 @@
+Pricing | Retool
+Skip to main content
+New Report: Governing the Agentic Workplace
+Get the data
+↗
+Back
+Solution
+Audience
+Resources
+Use cases
+Pricing
+Ask Retool
+Ctrl K
+Sign in
+Sign in
+Book a demo
+Book a demo
+Start for free
+Start for free
+Book a demo
+Book a demo
+AI app security
+Ship vibe-coded apps securely
+Platform
+Build
+Launch
+Scale
+Govern
+Capabilities
+Agents
+App builder
+AI primitives
+Workflows
+Database
+External apps
+Mobile apps
+Self-hosting
+Team
+Data
+Engineering
+Operations
+Industry
+Financial services
+Manufacturing
+Type
+Enterprise
+Startups
+Discover
+App gallery New
+Integrations
+Templates
+Utilities
+Blog
+Blog New
+Customer stories
+Videos
+Resource hub
+Developers
+Documentation
+Community
+Retool University
+API reference
+CLI reference
+MCP server
+Company
+About
+Careers
+Partners
+Support
+Newsroom
+Solution
+Audience
+Resources
+Use cases
+Pricing
+Ask Retool
+Sign in
+Sign in
+Book a demo
+Book a demo
+Start for free
+Start for free
+Find the plan that works for you
+Plans
+Free
+Free for everyone
+$
+0
+/ mo
+per builder
+Builder: A user who created or edited an app or workflow this billing cycle. You're billed per builder, per month.
+$
+0
+/ mo
+per internal user
+Employees in your organization who use apps for daily work.
+Get started for free
+Get started for free
+Included:
+Up to 5 users
+Included:
+250 pooled AI credits per month
+250 credits shared across your account for app building and AI Actions. Renews monthly, doesn't roll over. Upgrade to Team for additional packs.
+Included:
+Retool Cloud
+Included:
+Production only
+Not included:
+External users + embedded apps
+Not included:
+Audit logs
+Not included:
+Rich permissions
+Not included:
+Bring your own AI provider key
+Not included:
+Granular roles
+Not included:
+Git source control
+Not included:
+SSO, SCIM, 2FA
+View all
+Team
+Billed annually
+Save 20% with annual billing
+$
+10
+/ mo
+per builder
+Builder: A user who created or edited an app or workflow this billing cycle. You're billed per builder, per month.
+$
+5
+/ mo
+per internal user
+Employees in your organization who use apps for daily work.
+Start free trial
+Start free trial
+Included:
+Unlimited users
+Included:
+1,000 pooled AI credits per month
+1,000 credits shared across your account for app building and AI Actions. Renews monthly, doesn't roll over. Need more? Additional packs are available for purchase.
+Included:
+Retool Cloud
+Included:
+Staging + production
+Not included:
+External users + embedded apps
+Not included:
+Audit logs
+Not included:
+Rich permissions
+Not included:
+Bring your own AI provider key
+Not included:
+Granular roles
+Not included:
+Git source control
+Not included:
+SSO, SCIM, 2FA
+View all
+Business
+Billed annually
+Save 20% with annual billing
+$
+50
+/ mo
+per builder
+Builder: A user who created or edited an app or workflow this billing cycle. You're billed per builder, per month.
+$
+15
+/ mo
+per internal user
+Employees in your organization who use apps for daily work.
+Start free trial
+Start free trial
+Included:
+Unlimited users + metered external
+Included:
+3,000 pooled AI credits per month
+3,000 credits shared across your account for app building and AI Actions. Renews monthly, doesn't roll over. Additional packs are available for purchase.
+Included:
+Retool Cloud
+Included:
+Unlimited environments
+Included:
+External users + embedded apps
+Included:
+Audit logs
+Included:
+Rich permissions
+Not included:
+Bring your own AI provider key
+Not included:
+Granular roles
+Not included:
+Git source control
+Not included:
+SSO, SCIM, 2FA
+View all
+For organizations running Retool as a platform
+Enterprise
+Billed annually
+Custom pricing that works with your business
+Get pricing
+Get pricing
+Included:
+Unlimited users + unlimited external
+Included:
+10,000 pooled AI credits per month
+10,000 credits shared across your account for app building and AI Actions. Renews monthly, doesn't roll over. Bring your own API key to run AI calls outside this pool.
+Included:
+Retool Cloud, self-hosted, or air-gapped
+Included:
+Unlimited environments + up to 6 instances
+Included:
+External users + embedded apps
+Included:
+Audit logs + streaming
+Included:
+Rich permissions
+Included:
+Bring your own AI provider key
+Included:
+Granular roles
+Included:
+Git source control
+Included:
+SSO, SCIM, 2FA
+View all
+Are you an AI agent?
+See pricing markdown
+Compare features
+Free
+Team
+Business
+Enterprise
+Free
+Team
+Billed annually
+Save 20% with annual billing
+Business
+Billed annually
+Save 20% with annual billing
+Enterprise
+Users
+Feature
+Free
+Team
+Business
+Enterprise
+Builder
+Users with full access to create, edit, and deploy apps and workflows.
+Free
+$10/month
+$50/month
+Custom
+Get pricing
+(opens in a new tab)
+AI Credits 250 AI credits/month
+250 credits shared across your account for app building and AI Actions. Renews monthly, doesn't roll over. Upgrade to Team for additional packs.
+1,000 AI credits/month
+1,000 credits shared across your account for app building and AI Actions. Renews monthly, doesn't roll over. Need more? Additional packs are available for purchase.
+3,000 AI credits/month
+3,000 credits shared across your account for app building and AI Actions. Renews monthly, doesn't roll over. Additional packs are available for purchase.
+10,000 AI credits/month
+10,000 credits shared across your account for app building and AI Actions. Renews monthly, doesn't roll over. Bring your own API key to run AI calls outside this pool.
+Get pricing
+(opens in a new tab)
+Internal user
+Employees in your organization who use apps for daily work.
+Free
+$5/month
+$15/month
+Custom
+Get pricing
+(opens in a new tab)
+External user
+Partners, clients, or vendors outside your organization. Supports both secure login portals and public (unauthenticated) app access.
+—
+—
+0-50 Free
+51-250 $8/month
+251-500 $6/month
+Over 500 $4/month
+Bulk discounts
+Per-use-case pricing available.
+User Limits Up to 5 —
+—
+—
+Web apps
+Feature
+Free
+Team
+Business
+Enterprise
+Web apps Unlimited Unlimited Unlimited Unlimited
+Authenticated, embedded apps
+Embed authenticated apps into your business software.
+—
+—
+Included
+Included
+External applications
+Deploy branded customer-facing portals with built-in user management and permissions. Applications with external user pricing require a custom annual plan for self-hosted deployments
+—
+—
+Included
+Included
+Modules
+Reuse groups of components and queries between Retool applications.
+Up to 5 Up to 5 Unlimited Unlimited
+App themes
+Keep apps consistent with visual themes.
+—
+—
+Included
+Included
+Branding
+Customize headers, sign-up and login pages, email invites, and more, in app presentation mode and for internal users.
+—
+—
+Included
+Full white-labeling
+Mobile apps
+Feature
+Free
+Team
+Business
+Enterprise
+Mobile apps
+Build native mobile apps and deploy on iOS, Android, or as a PWA.
+Unlimited Unlimited Unlimited Unlimited
+App themes
+Keep apps consistent with visual themes.
+Included
+Included
+Included
+Included
+Offline mode
+Read and write data, even when you're not connected to the internet.
+—
+—
+Included
+Included
+Push notifications
+Get built-in support for writing, customizing, and subscribing mobile users to push notifications.
+—
+—
+Included
+Included
+White-label apps
+Launch your own branded app to iOS and Android app stores.
+—
+—
+—
+Included
+Biometric authentication
+Protect access to your app using on-device facial or fingerprint recognition.
+—
+—
+—
+Included
+Workflows
+Feature
+Free
+Team
+Business
+Enterprise
+Workflows runs
+Every time a workflow successfully executes when triggered counts as a run.
+500/month 5,000/month
+Additional runs are available at $75 per 5,000 runs per month.
+5,000/month
+Additional runs are available at $75 per 5,000 runs per month.
+Custom
+Get pricing
+(opens in a new tab)
+Workflows steps
+Each block on the canvas that transforms, reads from, or writes to your data represents a step in your workflow.
+Unlimited Unlimited Unlimited Unlimited
+Schedule trigger
+Run your workflow on a set schedule.
+Included
+Included
+Included
+Included
+Webhook trigger
+Trigger event-based workflows with a webhook event or API call.
+Included
+Included
+Included
+Included
+Custom error handling
+Trigger custom error messages and set automatic retry policies in the event of a workflow failure.
+Included
+Included
+Included
+Included
+Agents
+Feature
+Free
+Team
+Business
+Enterprise
+Observability
+Monitor and track agent behavior
+Included
+Included
+Included
+Included
+Evaluations
+Evaluate and test agents to optimize
+Included
+Included
+Included
+Included
+Tuning
+Control parameters like temperature and max iterations of a wide array of model choices
+Included
+Included
+Included
+Included
+Access
+Control agent and tool access with robust RBAC
+—
+—
+Included
+Included
+Free Hours
+Useful for experimentation and light automation. Upgrade for larger use cases.
+Up to 20/month
+Additional capacity is available in Team, Business, or Enterprise plans.
+Up to 20/month
+Additional capacity scales based on model capability.
+Up to 20/month
+Additional capacity scales based on model capability.
+Up to 20/month
+Additional capacity scales based on model capability.
+Hourly Rates
+Pricing varies by model capability
+See docs
+(opens in a new tab)
+See docs
+(opens in a new tab)
+See docs
+(opens in a new tab)
+See docs
+(opens in a new tab)
+Database
+Feature
+Free
+Team
+Business
+Enterprise
+Rows and tables
+Up to 5GB of stored data.
+Unlimited Unlimited Unlimited Unlimited
+Database editor UI
+Manage data and schema with filters, sorts, searches, edits, and more.
+Included
+Included
+Included
+Included
+Connection strings
+Get external access to the PostgreSQL database.
+Included
+Included
+Included
+Included
+Environments & schema migrations
+Get isolated tables for each environment in your Retool instance. Migrate schema changes between environments.
+—
+Staging & Production Unlimited environments Unlimited environments
+Resources
+Feature
+Free
+Team
+Business
+Enterprise
+Connect to all databases and APIs Included
+Included
+Included
+Included
+Query library
+Build, share, and reuse queries for any database or API with Retool's IDE.
+Included
+Included
+Included
+Included
+Staging & production resources
+Test your app against a staging resource (database or API). Switch seamlessly to production resources when in user mode.
+—
+Staging & Production Unlimited Unlimited
+Resource environment permissions
+Restrict and manage user access to dev/staging/prod environments.
+—
+—
+Included
+Included
+Security & Support
+Feature
+Free
+Team
+Business
+Enterprise
+Version release & history
+Create and manage releases for your app. Revert to any previous state in its history.
+Included
+Included
+Included
+Included
+Rich permission controls
+Grant data-level and role-based permissions for granular control over app and data access.
+—
+—
+Included
+Included
+Audit logs
+Track every query run against your databases and APIs, as well as user actions taken in Retool.
+—
+—
+Included
+Included
+Usage analytics
+Monitor usage across all apps and users.
+—
+—
+—
+Included
+Source control
+Use branch-based editing processes that are compatible with Git.
+—
+—
+—
+Included
+Custom SSO
+Integrate with Okta, Active Directory, or any other SAML or OpenID SSO provider.
+—
+—
+—
+Included
+Connect to analytics vendors
+Send analytics data to Segment, Google Analytics, and other analytics trackers.
+—
+—
+—
+Included
+Environmental configuration variables
+Easily define and reference environment-specific values and secrets across Retool.
+—
+Included
+Included
+Included
+Flexible spaces
+Set up independent Workspaces for teams to manage their own apps, permissions, resources, connections, and Git repos.
+—
+—
+—
+Included
+Versatile platform APIs
+Programmatically manage your Retool projects.
+—
+—
+Limited access Full access to all API scopes
+Orchestrated governance
+Trigger custom logic in response to events in Retool, like org invitations or password reset requests.
+—
+—
+—
+Included
+Account Resources and Support
+Feature
+Free
+Team
+Business
+Enterprise
+Access to a technical advisor
+Get help onboarding and training new teams, and guidance on how to get the most out of Retool.
+—
+—
+—
+Included
+Technical support
+Retool's Support Engineering team is here to help.
+—
+—
+—
+Included
+Access to professional services
+Hire a pro to build Retool apps, integrate systems, or do other development work on your behalf.
+—
+Included
+Included
+Included
+Get started for free
+Get started for free
+Get started for free
+Get started for free
+Start free trial
+Start free trial
+Start free trial
+Start free trial
+Get pricing
+Get pricing
+How our pricing works
+Built for developers
+Every plan includes features devs love and the platform capabilities you need to connect data, build apps, create custom logic, and manage data storage.
+Differentiated pricing
+Build and share apps with everyone who needs them, in a cost-effective way, thanks to lower rates for end users.
+Room to grow
+Upgrade your plan as your business needs change to unlock additional capabilities for user management, scaling, and security.
+Trusted by 10,000+ teams to generate production-ready AI applications
+FAQ
+General questions about Retool
+What can I build in Retool?
+Apps and automations for the work your business actually runs on, connected to your own data, deployed in your own infrastructure, and governed by your own rules. Most teams use Retool to replace the internal tools they'd otherwise wait months for engineering to build.
+Who can build in Retool?
+Anyone who works closely with data and systems: developers, business engineers, analysts, and ops teams. Describe what you need, and the app builder generates a working starting point. Developers can go deeper from there with custom logic, integrations, and component-level control. The builder meets you where you are.
+What's the difference between builders, internal users, and external users?
+Enterprise plans can allocate different seat types to reflect how someone uses Retool. Builders are explicitly assigned by admins and can create, edit, and publish apps, workflows, and agents. Internal users are employees who use apps but don't publish changes—they can explore and draft freely without consuming a builder seat. External users are people outside your organization, like partners or clients, who access apps you've built.
+What's new in Retool's app builder?
+Retool has entirely rebuilt the app builder from the ground up. The new builder is AI-native: describe what you need, and it generates a working app, connected to your data, that you can refine from there. Apps built in the previous builder continue to work. When you need to distinguish between them, the previous experience is referred to as the classic app builder.
+How can I deploy Retool? Can I self-host Retool?
+Retool runs in the cloud or self-hosted in your own VPC. Self-hosted setup takes about 15 minutes via Docker. If your data can't leave your infrastructure, self-hosting is the answer. Enterprise plans support both options.
+Is Retool secure? Where's my data stored?
+Retool meets the security and compliance requirements of the most regulated enterprises: role-based access controls, audit logging, SSO, independent workspaces, and full self-hosting. Your queries run against your own data sources. Retool doesn't store your data. See our security documentation
+for specifics.
+Do you offer special pricing or discounts for students, educators, or non-profits?
+Yes, students and educators
+can apply for a free Business account. Nonprofits can apply for 25 free seats
+. Both apply to cloud-hosted and self-hosted plans.
+FAQ
+Frequent questions about AI credits
+What are AI credits?
+Every Retool plan includes a monthly pool of AI credits, and paid plans can buy more as credit packs. Credits are shared across your organization and cover all app building and AI actions.
+How many apps can I build?
+Enough for real work. A Business plan includes credits for 36–84 apps per month. If it helps to think in prompts: each AI prompt uses about 12 credits, and a typical app takes 3–6 prompts to build. Credits cover all app building and AI actions. The pool works across however your team builds.
+Do credits roll over?
+Credits renew each billing cycle. The base credits included in your plan are permanent. Bonus credits are included now and may change over time.
+What happens if we need more credits?
+Upgrade to a higher tier for more monthly capacity. Additional credit packs are available for purchase to customers on paid plans. Enterprise plan customers can also use their own API key, which does not draw from this pool.
+FAQ
+Frequent questions about agents
+What are agents?
+Agents are AI-powered workers that use large language models to complete tasks, make decisions, and automate workflows autonomously. They are billed hourly and do not draw from the AI credit pool.
+Why does Retool use hourly pricing for agents?
+It mirrors how teams already value labor: you pay for productive time, not tokens or runs. Hourly pricing scales with real business value and stays transparent.
+Why do hourly rates vary by model?
+Different models have different capabilities. More sophisticated models handle complex reasoning and multi-step execution; lighter models handle simpler tasks efficiently. You choose what matches the job.
+What types of tasks are best suited for agents?
+Repetitive, multi-step work: support ticket triage, data analysis and reporting, sales follow-up, security alert handling, research, and workflow orchestration.
+What counts as agent runtime?
+Wall-clock time from when an agent starts a task to when it finishes, including executing steps, waiting on API responses, and model processing. Idle time waiting for human input is excluded.
+What if I’m not sure how many hours I need?
+Start with the free allocation and use the usage dashboard to track consumption over a few weeks before committing to a paid tier.
+Can I use my own model provider keys? Will I pay separately for LLM usage?
+Yes. You can connect your own API key. When active, AI calls route through your key, and Retool credits are not consumed—you pay your model provider directly. If you use models provided through Retool, LLM costs are included in your hourly rate.
+What happens when I use all my free agent hours?
+Agent execution pauses. You can upgrade to a paid plan to continue without interruption.
+Secure your vibe-coded apps
+Try Retool for free
+Try Retool for free
+Book a demo
+Book a demo
+Platform
+Build
+Launch
+Scale
+Govern
+Capabilities
+AI app security
+AppGen
+Agents
+AI primitives
+App builder
+Mobile apps
+Workflows
+Database
+External apps
+Self-hosting
+Audience
+Data
+Engineering
+Operations
+Financial services
+Manufacturing
+Enterprise
+Startups
+Resources
+Use cases
+App gallery
+Integrations
+Templates
+Utilities
+Blog
+Customer stories
+Videos
+Resource hub
+Documentation
+Retool University
+Company
+About
+Careers
+Partners
+Newsroom
+Start for free
+Start for free
+Book a demo
+Book a demo
+Terms of use
+Privacy policy
+Security
+Trust Center
+Report abuse
+Changelog
+Status
+Site map
+© Retool 2026
+Company
+About
+Careers
+Partners
+Newsroom
+Start for free
+Start for free
+Book a demo
+Book a demo
+Terms of use
+Privacy policy
+Security
+Trust Center
+Report abuse
+Changelog
+Status
+Site map
+© Retool 2026
+Loaded without JS
+Builder: A user who created or edited an app or workflow this billing cycle. You're billed per builder, per month.
+Employees in your organization who use apps for daily work.
+250 credits shared across your account for app building and AI Actions. Renews monthly, doesn't roll over. Upgrade to Team for additional packs.
+Save 20% with annual billing
+Builder: A user who created or edited an app or workflow this billing cycle. You're billed per builder, per month.
+Employees in your organization who use apps for daily work.
+1,000 credits shared across your account for app building and AI Actions. Renews monthly, doesn't roll over. Need more? Additional packs are available for purchase.
+Save 20% with annual billing
+Builder: A user who created or edited an app or workflow this billing cycle. You're billed per builder, per month.
+Employees in your organization who use apps for daily work.
+3,000 credits shared across your account for app building and AI Actions. Renews monthly, doesn't roll over. Additional packs are available for purchase.
+10,000 credits shared across your account for app building and AI Actions. Renews monthly, doesn't roll over. Bring your own API key to run AI calls outside this pool.
+Save 20% with annual billing
+Save 20% with annual billing
+Users with full access to create, edit, and deploy apps and workflows.
+250 credits shared across your account for app building and AI Actions. Renews monthly, doesn't roll over. Upgrade to Team for additional packs.
+1,000 credits shared across your account for app building and AI Actions. Renews monthly, doesn't roll over. Need more? Additional packs are available for purchase.
+3,000 credits shared across your account for app building and AI Actions. Renews monthly, doesn't roll over. Additional packs are available for purchase.
+10,000 credits shared across your account for app building and AI Actions. Renews monthly, doesn't roll over. Bring your own API key to run AI calls outside this pool.
+Employees in your organization who use apps for daily work.
+Partners, clients, or vendors outside your organization. Supports both secure login portals and public (unauthenticated) app access.
+Per-use-case pricing available.
+Embed authenticated apps into your business software.
+Deploy branded customer-facing portals with built-in user management and permissions. Applications with external user pricing require a custom annual plan for self-hosted deployments
+Reuse groups of components and queries between Retool applications.
+Keep apps consistent with visual themes.
+Customize headers, sign-up and login pages, email invites, and more, in app presentation mode and for internal users.
+Build native mobile apps and deploy on iOS, Android, or as a PWA.
+Keep apps consistent with visual themes.
+Read and write data, even when you're not connected to the internet.
+Get built-in support for writing, customizing, and subscribing mobile users to push notifications.
+Launch your own branded app to iOS and Android app stores.
+Protect access to your app using on-device facial or fingerprint recognition.
+Every time a workflow successfully executes when triggered counts as a run.
+Additional runs are available at $75 per 5,000 runs per month.
+Additional runs are available at $75 per 5,000 runs per month.
+Each block on the canvas that transforms, reads from, or writes to your data represents a step in your workflow.
+Run your workflow on a set schedule.
+Trigger event-based workflows with a webhook event or API call.
+Trigger custom error messages and set automatic retry policies in the event of a workflow failure.
+Monitor and track agent behavior
+Evaluate and test agents to optimize
+Control parameters like temperature and max iterations of a wide array of model choices
+Control agent and tool access with robust RBAC
+Useful for experimentation and light automation. Upgrade for larger use cases.
+Additional capacity is available in Team, Business, or Enterprise plans.
+Additional capacity scales based on model capability.
+Additional capacity scales based on model capability.
+Additional capacity scales based on model capability.
+Pricing varies by model capability
+Up to 5GB of stored data.
+Manage data and schema with filters, sorts, searches, edits, and more.
+Get external access to the PostgreSQL database.
+Get isolated tables for each environment in your Retool instance. Migrate schema changes between environments.
+Build, share, and reuse queries for any database or API with Retool's IDE.
+Test your app against a staging resource (database or API). Switch seamlessly to production resources when in user mode.
+Restrict and manage user access to dev/staging/prod environments.
+Create and manage releases for your app. Revert to any previous state in its history.
+Grant data-level and role-based permissions for granular control over app and data access.
+Track every query run against your databases and APIs, as well as user actions taken in Retool.
+Monitor usage across all apps and users.
+Use branch-based editing processes that are compatible with Git.
+Integrate with Okta, Active Directory, or any other SAML or OpenID SSO provider.
+Send analytics data to Segment, Google Analytics, and other analytics trackers.
+Easily define and reference environment-specific values and secrets across Retool.
+Set up independent Workspaces for teams to manage their own apps, permissions, resources, connections, and Git repos.
+Programmatically manage your Retool projects.
+Trigger custom logic in response to events in Retool, like org invitations or password reset requests.
+Get help onboarding and training new teams, and guidance on how to get the most out of Retool.
+Retool's Support Engineering team is here to help.
+Hire a pro to build Retool apps, integrate systems, or do other development work on your behalf.

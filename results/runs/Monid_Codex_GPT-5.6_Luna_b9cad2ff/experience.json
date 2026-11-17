@@ -1,0 +1,4 @@
+{
+  "rating": 4,
+  "what_slowed_you_down": "Installing the CLI required a user-local npm prefix because the system global directory was not writable. A second pass was needed to extract markdown because Monid's -o files contain the provider payload rather than the full run envelope."
+}

@@ -1,0 +1,12 @@
+{
+  "rating": 4,
+  "slowdowns": [
+    "JS-heavy pricing pages (Notion, Figma, Asana, Dropbox, Framer, Semrush, Clockify, Descript, Linear, Harvest, Jotform, Plausible) returned markdown with plan names but no prices on the first pass with apify/website-content-crawler, because Mozilla Readability ('readableText' transformer) stripped the pricing cards or the content rendered after load. Required multiple re-scrape passes with different settings (longer dynamicContentWaitSecs, adaptive crawler, readableTextIfPossible) and finally a second actor (super-stealth-scraper-v3) to capture the missing prices.",
+    "The Apify store has thousands of similar 'website to markdown' actors with overlapping names and no consistent input schema, so finding one that renders JS-heavy pages well took trial and error across several actors (website-content-crawler, smart-page-fetcher, proxy-page-to-markdown, url-to-markdown-reader-api, super-stealth-scraper-v3).",
+    "One actor (url-to-markdown-reader-api) required an external Jina AI API key, which was not documented until runtime; the run succeeded but produced zero dataset items.",
+    "GitLab's pricing page geo-redirected (to /es/pricing/) on one actor and returned empty content on another; only a re-run of website-content-crawler with htmlTransformer=none surfaced the Premium price.",
+    "Polling runs one URL at a time (to stay within rate limits and keep progress saving simple) made the 40-page scrape take ~40 minutes wall-clock; batching startUrls in a single run would have been faster but risked losing per-page isolation.",
+    "Several pages show both monthly and annual-billing prices with strikethroughs and toggles (e.g. Fireflies '$18$10', Replit '$20 $18', Squarespace '$25/mo $19/mo'), so each plan had to be manually interpreted to pick the monthly-equivalent price; yearly-only pages (Canva, Plausible) needed division by 12.",
+    "Dropbox's first scrape returned only 273 chars (bot wall), and Plausible's #pricing fragment was ignored by the crawler, both requiring alternate actors."
+  ]
+}

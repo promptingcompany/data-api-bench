@@ -1,0 +1,57 @@
+{
+  "id": "mailchimp",
+  "url": "https://mailchimp.com/pricing/marketing/",
+  "usable": true,
+  "unusable_reason": null,
+  "billing_shown": "monthly",
+  "plans": [
+    {
+      "name": "Premium",
+      "price_monthly_billing": 350,
+      "price_annual_billing_per_month": null,
+      "price_kind": "number",
+      "unit": "flat, starts at; default 10,000 contacts",
+      "quotes": [
+        "Premium",
+        "$350",
+        "Plan includes 10,000 contacts. Select your audience size to calculate your price. The monthly email send limit for Premium plans is 15 times your maximum contact count."
+      ]
+    },
+    {
+      "name": "Standard",
+      "price_monthly_billing": 20,
+      "price_annual_billing_per_month": null,
+      "price_kind": "number",
+      "unit": "flat, starts at; default 500 contacts",
+      "quotes": [
+        "Standard",
+        "$20",
+        "Plan includes 500 contacts. Select your audience size to calculate your price. The monthly email send limit for Standard plans is 12 times your maximum contact count."
+      ]
+    },
+    {
+      "name": "Essentials",
+      "price_monthly_billing": 13,
+      "price_annual_billing_per_month": null,
+      "price_kind": "number",
+      "unit": "flat, starts at (contact-based)",
+      "quotes": [
+        "Essentials",
+        "$13"
+      ]
+    },
+    {
+      "name": "Free",
+      "price_monthly_billing": 0,
+      "price_annual_billing_per_month": 0,
+      "price_kind": "free",
+      "unit": "flat",
+      "quotes": [
+        "Free",
+        "Limit of 250 contacts",
+        "Under 250 contacts? It's free."
+      ]
+    }
+  ],
+  "notes": "Prices are 'Then, starts at $X /month' and scale with a contacts selector (Standard default 500 contacts, Premium 10,000). A promo shows 15% off the first 12 months for 10,000+ contacts: Premium $297.50, Standard $17, Essentials $11.05; recorded the regular 'starts at' prices. Only monthly billing is shown (annual plans via sales). A separate calculator block in the snapshot shows Premium '$0' and 'Send up to 0 emails' — a broken/unhydrated widget, ignored."
+}
