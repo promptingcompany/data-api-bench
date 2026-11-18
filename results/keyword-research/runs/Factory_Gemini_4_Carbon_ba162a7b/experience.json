@@ -1,0 +1,9 @@
+{
+  "rating": 4,
+  "what_slowed_me_down": [
+    "Running `monid run ... -w -o vol_labs.json` on `dataforseo /labs/keyword-overview` wrote the `{ \"data\": { \"download_link\": ... } }` wrapper object to the output file rather than downloading the payload body automatically as stated in SKILL.md ('Large responses: -o downloads the body into the file for you'), requiring an extra step to fetch `download_link`.",
+    "Google's first SERP page often contains only 7-8 organic results due to SERP features, and multiple SERP providers (`serpapi /google/search` and `anyapi /google.search`) returned opaque `https://www.google.com/goto?url=...` redirect URLs without warning in their `monid inspect` summaries (only `dataforseo /serp/google-organic` documented this caveat). Testing providers and configuring `cloro /google/search` with `pages: 2` was needed to reliably get 10 clean destination URLs per keyword.",
+    "`anyapi /google.search`'s schema description referenced `google.search_100` for fetching deeper results in one call, which returned `Not found` on `monid inspect -p anyapi -e /google.search_100`.",
+    "Installing `@monid-ai/cli` via `npm install -g` on a Linux user account where npm's default prefix was `/usr` failed with `EACCES` until setting a user-writable npm prefix (`~/.local`)."
+  ]
+}

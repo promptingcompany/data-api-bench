@@ -1,0 +1,8 @@
+{
+  "rating": 4,
+  "what_slowed_me_down": [
+    "Installing @monid-ai/cli globally via `npm install -g` failed initially with EACCES on /usr/lib/node_modules as a non-root user until setting npm prefix to ~/.local.",
+    "On large responses (such as 50 keywords on dataforseo /labs/keyword-overview), `monid run -w -o <file> -j` wrote the `{ \"data\": { \"download_link\": ... } }` wrapper to `-o` rather than auto-downloading the JSON payload as described in SKILL.md, requiring an extra fetch of `download_link`.",
+    "Evaluating SERP endpoints took a few test calls: serpapi `/google/search` and dataforseo `/serp/google-organic` returned opaque `google.com/goto?url=...` redirect links (and Google's first page only had 8 organic results), whereas cloro `/google/search` with `pages: 2` returned clean destination URLs and at least 10 organic results per keyword, wrapped under `{ \"success\": true, \"result\": { \"organicResults\": [...] } }` (not mentioned in the inspect summary) and taking ~50 single-query runs since no batch SERP endpoint was available."
+  ]
+}
