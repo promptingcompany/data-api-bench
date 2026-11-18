@@ -1,0 +1,4 @@
+{
+  "rating": 4,
+  "what_slowed_me_down": "The system npm directory was not writable, so the CLI needed a user-local install. HeyGen rounded the 9:16 input to a slightly wider frame and added about 0.26 seconds, requiring a crop and trim of each clip."
+}

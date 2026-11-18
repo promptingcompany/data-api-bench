@@ -1,0 +1,13 @@
+{
+  "rating": 4,
+  "what_slowed_me_down": [
+    "In monid discover human-readable table output, tiered pricing shows simply as 'varies', and promotional 50%-off endpoints (such as heygen /promo/v1/video/heygen-video-1-i2v at $0.018/s for 768p) are nested under results[].alternatives in JSON rather than surfaced directly in the default table, requiring inspecting multiple endpoints and JSON output to accurately compare minimum costs.",
+    "Video generation endpoints require public HTTPS URLs rather than local file uploads; while Monid's built-in sfs provider (/put + curl -T + /cat) solves this cleanly for free, it adds three extra steps per local input image compared to automatic local file staging in the CLI.",
+    "Aspect ratio handling for image-to-video varies subtly across providers: several endpoints inherit proportions from the first-frame image without an explicit aspect_ratio parameter, and 768p vertical rendering rounds 720x1280 (9:16 = 0.5625) to 768x1344 (4:7 = 0.5714) due to macroblock alignment, which took an extra verification check against Kling 720p (exact 720x1280 at $0.21/clip).",
+    "Global npm installation failed initially with EACCES because the system npm prefix pointed to /usr, requiring reconfiguring npm's prefix to ~/.local before installing @monid-ai/cli."
+  ],
+  "highlights": [
+    "Fast generation (~13-15 seconds per clip) and predictable $0.09/clip pricing on heygen /promo/v1/video/heygen-video-1-i2v.",
+    "Clear JSON schemas in monid inspect and built-in hints pointing to sfs for hosting local files."
+  ]
+}

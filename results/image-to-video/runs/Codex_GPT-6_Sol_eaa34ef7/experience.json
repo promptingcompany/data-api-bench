@@ -1,0 +1,4 @@
+{
+  "rating": 4,
+  "what_slowed_you_down": "The image-to-video endpoint produced 4:7 frames from 9:16 source photos, so I had to crop and re-encode the clips; uploading the local images through SFS added extra steps."
+}
