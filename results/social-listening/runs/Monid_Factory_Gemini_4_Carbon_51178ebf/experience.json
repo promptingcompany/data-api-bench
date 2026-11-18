@@ -1,0 +1,8 @@
+{
+  "rating": 4,
+  "what_slowed_you_down": [
+    "Installing @monid-ai/cli globally with default npm settings failed with EACCES on /usr/lib/node_modules, requiring a fallback install with --prefix ~/.local.",
+    "anyapi /tiktok.search_keyword rejected sortBy=\"date-posted\" on its default route (giraffe) with a 400 source_unknown error even though \"date-posted\" is listed in the schema enum, requiring an inspection of the error and a retry without sortBy.",
+    "YouTube search endpoints (litescrape /youtube/search and anyapi /youtube.search) only return relative publish strings like \"2d ago\" instead of exact timestamps, requiring individual follow-up calls to tikhub /api/v1/youtube/web_v2/get_video_info for each video to get exact ISO publish dates."
+  ]
+}
