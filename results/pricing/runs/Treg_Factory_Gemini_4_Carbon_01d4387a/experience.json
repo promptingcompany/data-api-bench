@@ -1,0 +1,14 @@
+{
+  "rating": 4,
+  "summary": "Treg made multi-provider web scraping straightforward and inexpensive (~$0.28 total across 40 JS-heavy pricing pages plus verification runs) with a single token and consistent JSON CLI wrapper, though the routed web extraction tool stopped early on non-JS partial pages.",
+  "what_slowed_me_down": [
+    "Routed `treg.web.extract` stopped at `tinyfish.web.fetch` (and `crawl4ai.web.scrape`) because any non-empty `pages` payload satisfied `stops_at`, returning static FAQ/footer text while completely missing JavaScript-rendered pricing cards (e.g., on Airtable). We had to bypass the routed endpoint and call JS-rendering providers directly.",
+    "`firecrawl.web.scrape` ($0.005/call) produced the cleanest main-content markdown on 38 of 40 pricing URLs, but failed/returned empty content on 2 URLs (`figma.com/pricing/` and `webflow.com/pricing`), requiring an automated fallback to `litescrape.web.fetch.post` (`engine: \"browser\"`, `respond_timing: \"network-idle\"`).",
+    "Full-page browser markdown from `litescrape.web.fetch.post` included large navigation/footer menus and duplicate responsive pricing blocks (up to ~5,500 lines on Webflow), and interactive billing-cycle toggles (Annual vs. Monthly) required extra care when auditing static markdown snapshots."
+  ],
+  "what_worked_well": [
+    "Single `TREG_TOKEN` authentication across multiple scraping providers (`firecrawl.web.scrape`, `litescrape.web.fetch.post`, `linkup.web.fetch`) with zero per-vendor API key setup.",
+    "`treg --json call` made parallel batch scripting reliable with clear `_treg.charged_micro` and `call_id` metadata on every response.",
+    "Fast catalog discovery (`treg catalog search` / `treg catalog get`) with transparent upfront per-call pricing."
+  ]
+}
