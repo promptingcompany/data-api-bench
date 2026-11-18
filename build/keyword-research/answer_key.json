@@ -1,0 +1,466 @@
+[
+ {
+  "id": "k01",
+  "keyword": "project management software",
+  "volume_ads": 201000,
+  "volume_labs": 201000,
+  "accepted": [
+   201000
+  ]
+ },
+ {
+  "id": "k02",
+  "keyword": "project management tools",
+  "volume_ads": 9900,
+  "volume_labs": 12100,
+  "accepted": [
+   9900,
+   12100
+  ]
+ },
+ {
+  "id": "k03",
+  "keyword": "best project management software",
+  "volume_ads": 2400,
+  "volume_labs": 2400,
+  "accepted": [
+   2400
+  ]
+ },
+ {
+  "id": "k04",
+  "keyword": "project management app",
+  "volume_ads": 4400,
+  "volume_labs": 4400,
+  "accepted": [
+   4400
+  ]
+ },
+ {
+  "id": "k05",
+  "keyword": "free project management software",
+  "volume_ads": 3600,
+  "volume_labs": 3600,
+  "accepted": [
+   3600
+  ]
+ },
+ {
+  "id": "k06",
+  "keyword": "project management software for small business",
+  "volume_ads": 480,
+  "volume_labs": 480,
+  "accepted": [
+   480
+  ]
+ },
+ {
+  "id": "k07",
+  "keyword": "task management software",
+  "volume_ads": 2900,
+  "volume_labs": 2900,
+  "accepted": [
+   2900
+  ]
+ },
+ {
+  "id": "k08",
+  "keyword": "task management app",
+  "volume_ads": 8100,
+  "volume_labs": 8100,
+  "accepted": [
+   8100
+  ]
+ },
+ {
+  "id": "k09",
+  "keyword": "kanban board",
+  "volume_ads": 33100,
+  "volume_labs": 33100,
+  "accepted": [
+   33100
+  ]
+ },
+ {
+  "id": "k10",
+  "keyword": "gantt chart software",
+  "volume_ads": 3600,
+  "volume_labs": 4400,
+  "accepted": [
+   3600,
+   4400
+  ]
+ },
+ {
+  "id": "k11",
+  "keyword": "gantt chart maker",
+  "volume_ads": 3600,
+  "volume_labs": 3600,
+  "accepted": [
+   3600
+  ]
+ },
+ {
+  "id": "k12",
+  "keyword": "agile project management tools",
+  "volume_ads": 1000,
+  "volume_labs": 1000,
+  "accepted": [
+   1000
+  ]
+ },
+ {
+  "id": "k13",
+  "keyword": "scrum software",
+  "volume_ads": 260,
+  "volume_labs": 260,
+  "accepted": [
+   260
+  ]
+ },
+ {
+  "id": "k14",
+  "keyword": "work management software",
+  "volume_ads": 720,
+  "volume_labs": 880,
+  "accepted": [
+   720,
+   880
+  ]
+ },
+ {
+  "id": "k15",
+  "keyword": "resource management software",
+  "volume_ads": 880,
+  "volume_labs": 880,
+  "accepted": [
+   880
+  ]
+ },
+ {
+  "id": "k16",
+  "keyword": "project portfolio management software",
+  "volume_ads": 2900,
+  "volume_labs": 3600,
+  "accepted": [
+   2900,
+   3600
+  ]
+ },
+ {
+  "id": "k17",
+  "keyword": "construction project management software",
+  "volume_ads": 2900,
+  "volume_labs": 2900,
+  "accepted": [
+   2900
+  ]
+ },
+ {
+  "id": "k18",
+  "keyword": "project timeline maker",
+  "volume_ads": 260,
+  "volume_labs": 590,
+  "accepted": [
+   260,
+   590
+  ]
+ },
+ {
+  "id": "k19",
+  "keyword": "collaboration software",
+  "volume_ads": 1300,
+  "volume_labs": 1300,
+  "accepted": [
+   1300
+  ]
+ },
+ {
+  "id": "k20",
+  "keyword": "workflow management software",
+  "volume_ads": 1600,
+  "volume_labs": 1900,
+  "accepted": [
+   1600,
+   1900
+  ]
+ },
+ {
+  "id": "k21",
+  "keyword": "workflow automation software",
+  "volume_ads": 2400,
+  "volume_labs": 2400,
+  "accepted": [
+   2400
+  ]
+ },
+ {
+  "id": "k22",
+  "keyword": "asana alternatives",
+  "volume_ads": 480,
+  "volume_labs": 480,
+  "accepted": [
+   480
+  ]
+ },
+ {
+  "id": "k23",
+  "keyword": "trello alternatives",
+  "volume_ads": 880,
+  "volume_labs": 880,
+  "accepted": [
+   880
+  ]
+ },
+ {
+  "id": "k24",
+  "keyword": "jira alternatives",
+  "volume_ads": 880,
+  "volume_labs": 880,
+  "accepted": [
+   880
+  ]
+ },
+ {
+  "id": "k25",
+  "keyword": "monday.com alternatives",
+  "volume_ads": 390,
+  "volume_labs": 390,
+  "accepted": [
+   390
+  ]
+ },
+ {
+  "id": "k26",
+  "keyword": "asana vs trello",
+  "volume_ads": 1600,
+  "volume_labs": 480,
+  "accepted": [
+   480,
+   1600
+  ]
+ },
+ {
+  "id": "k27",
+  "keyword": "asana vs monday",
+  "volume_ads": 2400,
+  "volume_labs": 2400,
+  "accepted": [
+   2400
+  ]
+ },
+ {
+  "id": "k28",
+  "keyword": "jira vs asana",
+  "volume_ads": 1000,
+  "volume_labs": 1000,
+  "accepted": [
+   1000
+  ]
+ },
+ {
+  "id": "k29",
+  "keyword": "clickup vs asana",
+  "volume_ads": 720,
+  "volume_labs": 590,
+  "accepted": [
+   590,
+   720
+  ]
+ },
+ {
+  "id": "k30",
+  "keyword": "notion vs asana",
+  "volume_ads": 390,
+  "volume_labs": 390,
+  "accepted": [
+   390
+  ]
+ },
+ {
+  "id": "k31",
+  "keyword": "smartsheet alternatives",
+  "volume_ads": 480,
+  "volume_labs": 590,
+  "accepted": [
+   480,
+   590
+  ]
+ },
+ {
+  "id": "k32",
+  "keyword": "asana pricing",
+  "volume_ads": 5400,
+  "volume_labs": 5400,
+  "accepted": [
+   5400
+  ]
+ },
+ {
+  "id": "k33",
+  "keyword": "monday.com pricing",
+  "volume_ads": 3600,
+  "volume_labs": 3600,
+  "accepted": [
+   3600
+  ]
+ },
+ {
+  "id": "k34",
+  "keyword": "clickup pricing",
+  "volume_ads": 3600,
+  "volume_labs": 3600,
+  "accepted": [
+   3600
+  ]
+ },
+ {
+  "id": "k35",
+  "keyword": "jira pricing",
+  "volume_ads": 2900,
+  "volume_labs": 2900,
+  "accepted": [
+   2900
+  ]
+ },
+ {
+  "id": "k36",
+  "keyword": "trello pricing",
+  "volume_ads": 2400,
+  "volume_labs": 2400,
+  "accepted": [
+   2400
+  ]
+ },
+ {
+  "id": "k37",
+  "keyword": "project management certification",
+  "volume_ads": 49500,
+  "volume_labs": 49500,
+  "accepted": [
+   49500
+  ]
+ },
+ {
+  "id": "k38",
+  "keyword": "pmp certification",
+  "volume_ads": 165000,
+  "volume_labs": 165000,
+  "accepted": [
+   165000
+  ]
+ },
+ {
+  "id": "k39",
+  "keyword": "project management methodology",
+  "volume_ads": 6600,
+  "volume_labs": 6600,
+  "accepted": [
+   6600
+  ]
+ },
+ {
+  "id": "k40",
+  "keyword": "waterfall vs agile",
+  "volume_ads": 1900,
+  "volume_labs": 2400,
+  "accepted": [
+   1900,
+   2400
+  ]
+ },
+ {
+  "id": "k41",
+  "keyword": "what is a gantt chart",
+  "volume_ads": 9900,
+  "volume_labs": 8100,
+  "accepted": [
+   8100,
+   9900
+  ]
+ },
+ {
+  "id": "k42",
+  "keyword": "project plan template",
+  "volume_ads": 4400,
+  "volume_labs": 12100,
+  "accepted": [
+   4400,
+   12100
+  ]
+ },
+ {
+  "id": "k43",
+  "keyword": "project charter template",
+  "volume_ads": 4400,
+  "volume_labs": 4400,
+  "accepted": [
+   4400
+  ]
+ },
+ {
+  "id": "k44",
+  "keyword": "raci chart template",
+  "volume_ads": 3600,
+  "volume_labs": 3600,
+  "accepted": [
+   3600
+  ]
+ },
+ {
+  "id": "k45",
+  "keyword": "work breakdown structure template",
+  "volume_ads": 1300,
+  "volume_labs": 1300,
+  "accepted": [
+   1300
+  ]
+ },
+ {
+  "id": "k46",
+  "keyword": "project status report template",
+  "volume_ads": 1300,
+  "volume_labs": 1300,
+  "accepted": [
+   1300
+  ]
+ },
+ {
+  "id": "k47",
+  "keyword": "time tracking software",
+  "volume_ads": 9900,
+  "volume_labs": 9900,
+  "accepted": [
+   9900
+  ]
+ },
+ {
+  "id": "k48",
+  "keyword": "time tracking app",
+  "volume_ads": 4400,
+  "volume_labs": 5400,
+  "accepted": [
+   4400,
+   5400
+  ]
+ },
+ {
+  "id": "k49",
+  "keyword": "okr software",
+  "volume_ads": 480,
+  "volume_labs": 480,
+  "accepted": [
+   480
+  ]
+ },
+ {
+  "id": "k50",
+  "keyword": "roadmap software",
+  "volume_ads": 320,
+  "volume_labs": 390,
+  "accepted": [
+   320,
+   390
+  ]
+ }
+]

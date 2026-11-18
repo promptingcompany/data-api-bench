@@ -1,0 +1,50 @@
+k01|project management software
+k02|project management tools
+k03|best project management software
+k04|project management app
+k05|free project management software
+k06|project management software for small business
+k07|task management software
+k08|task management app
+k09|kanban board
+k10|gantt chart software
+k11|gantt chart maker
+k12|agile project management tools
+k13|scrum software
+k14|work management software
+k15|resource management software
+k16|project portfolio management software
+k17|construction project management software
+k18|project timeline maker
+k19|collaboration software
+k20|workflow management software
+k21|workflow automation software
+k22|asana alternatives
+k23|trello alternatives
+k24|jira alternatives
+k25|monday.com alternatives
+k26|asana vs trello
+k27|asana vs monday
+k28|jira vs asana
+k29|clickup vs asana
+k30|notion vs asana
+k31|smartsheet alternatives
+k32|asana pricing
+k33|monday.com pricing
+k34|clickup pricing
+k35|jira pricing
+k36|trello pricing
+k37|project management certification
+k38|pmp certification
+k39|project management methodology
+k40|waterfall vs agile
+k41|what is a gantt chart
+k42|project plan template
+k43|project charter template
+k44|raci chart template
+k45|work breakdown structure template
+k46|project status report template
+k47|time tracking software
+k48|time tracking app
+k49|okr software
+k50|roadmap software

@@ -1,0 +1,4 @@
+{
+  "rating": 4,
+  "what_slowed_you_down": "The system-wide npm install lacked write permission, so I installed the Monid CLI in the user directory. I also checked an alternate route and page behavior after Monid returned fewer than 10 organic results for some queries."
+}

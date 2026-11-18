@@ -1,0 +1,538 @@
+[
+  {
+    "keyword": "time tracking app",
+    "type": "organic",
+    "se_domain": "google.com",
+    "location_code": 2840,
+    "language_code": "en",
+    "check_url": "https://www.google.com/search?q=time%20tracking%20app&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+    "datetime": "2026-11-16 21:47:40 +00:00",
+    "spell": null,
+    "refinement_chips": null,
+    "item_types": [
+      "ai_overview",
+      "organic",
+      "people_also_ask",
+      "related_searches"
+    ],
+    "se_results_count": 130,
+    "pages_count": 1,
+    "items_count": 12,
+    "items": [
+      {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": true,
+        "markdown": null,
+        "items": null,
+        "references": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "17 Best Time Tracking Apps for 2026",
+        "url": "https://google.com/goto?url=CAESaAHEIkXXnamf6zmOfDadRPDV7msitob-5mwzo_kmIezrE5mWA75swsFZNOq_P06Jh7fLE9xwCwhbncS-tPej9Hq3qtaYuamJ09h6qxZ7rqqnR5vdKhiRM-fbLF6p4SZCT6Rg4VudLFOJ&gsessionid=TMYnKf1w7KtLMh4wq0Pt2XzRgCNzD5wNvub5ErZ0-EWLb-GDgssdcQ",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://myhours.com › best-time-tracking-apps",
+        "website_name": "My Hours",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "The Best Time Tracking Apps: 1. My Hours, 2. Timely, 3. Scoro, 4. QuickBooks Time, 5. Harvest, 6. Replicon. In short a great start for any project manager ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "My Hours"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "Clockify™ - Time Tracking Software",
+        "url": "https://google.com/goto?url=CAESUQHEIkXXPu-Rm-_H59cMp_Djudbz4uFTH07S6Cuhmp3hIIVNy2Xlhn6eC7ZMG0q0GLcwjwFHrYXywxSerF234Nk95pEWp1UqQVj6ZbeuwAsKLQ&gsessionid=TMYnKf1w7KtLMh4wq0Pt2XzRgCNzD5wNvub5ErZ0-EWLb-GDgssdcQ",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://clockify.me",
+        "website_name": "Clockify",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Clockify is a time tracker and timesheet app that lets you track work hours across projects. 4.7 average rating. 4.8 (9,000+ reviews). Start tracking time - ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Clockify is a time tracker and timesheet app"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Read more",
+            "description": null,
+            "url": "https://google.com/goto?url=CAESoQEBxCJF1wb8KT0PSUe4uLQ2yAME6djKZdPQKkw5Tgs04RVmD7kOj-IrWeU6HQLEI5wXPknzu2Xc7V7Jclxu2Ywnsgb0nX2cRo_oOtR2P0dJeW0xeVUIDKPYIQMkpE5BjoVWxBzdJ31eJoF2zcCb2SGBn_tSDzhPTFBgZaUCT98jj3yd02Vj9wIMZj2bTLZJXsWH8etGmd_-tnFkvCpVbjG6og&gsessionid=TMYnKf1w7KtLMh4wq0Pt2XzRgCNzD5wNvub5ErZ0-EWLb-GDgssdcQ",
+            "domain": "google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "Time tracking apps? : r/productivity",
+        "url": "https://google.com/goto?url=CAEShgEBxCJF18k4qWPNf_76qt9gPJEqQv4YT6WHXTnTL7H_aJNRdMQLQrluwBzSXQRgbaFGe2RQ-FD9GLI9KLSxH7QiUiWcePMFUurwHqTv__N0paMl6NsdkAY8Gc78FSDZwbFzjt-gTS8n7G7wI81SRmRgRtLSuyQH-5iA1BGYhENfrrO_m8CYug&gsessionid=TMYnKf1w7KtLMh4wq0Pt2XzRgCNzD5wNvub5ErZ0-EWLb-GDgssdcQ",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "80+ comments  ·  4 years ago",
+        "website_name": "Reddit · r/productivity",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "My girlfriend listened to the Hidden Brain episode about time management, and got the idea that she wants to track her time spent.\n\nEssentially she wants ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+          {
+            "type": "link_element",
+            "title": "I tested 5 free time tracking tools so you don't have ...",
+            "description": null,
+            "url": "https://google.com/goto?url=CAESqAEBxCJF1--Q8HJlnEGSOoT7kJLhwzCIZGe4-dQ5vRYvNhNqToW_QRpzIExbvD6bB9pHX0BZHJBjDr3bgMTEQDacGFlYmEBNicjYmdxoiv3wbCVExdx41aoBwvUyeZRg5xkko3w8L0DldVN_oBQBIJzSR4UVUwdyM2vPtkHWahLgGxN0h0p54rFg46TrmvoJRhHHkwCkcFLddZCoTcqHFKC222hcg9PGgbU&gsessionid=TMYnKf1w7KtLMh4wq0Pt2XzRgCNzD5wNvub5ErZ0-EWLb-GDgssdcQ",
+            "domain": "google.com"
+          },
+          {
+            "type": "link_element",
+            "title": "Suggestions for time tracking apps? : r/productivity",
+            "description": null,
+            "url": "https://google.com/goto?url=CAESlwEBxCJF121fvT0avrDjMHOdhO0r5bDiAXEq07AQdnOpa499oXVG3-bt1PBuVhMcll5PI2Rf9ojm5hIe9gXuYPQmHOncAzC3b9vxUODwOgJSkHQOkmsmVZdfWNbIxGSR8-B7yDXP9qm0gkkhJiF473Bxve8IFylgaFQ3qF1AMICEq_zipnQtv2R5T72dB9149m0dbnd8lEpj&gsessionid=TMYnKf1w7KtLMh4wq0Pt2XzRgCNzD5wNvub5ErZ0-EWLb-GDgssdcQ",
+            "domain": "google.com"
+          },
+          {
+            "type": "link_element",
+            "title": "More results from www.reddit.com",
+            "description": null,
+            "url": "https://www.google.com/search?q=time+tracking+app+site:www.reddit.com&sca_esv=9e40641db8ba5a4c&hl=en&gl=US&sxsrf=AKL5yDirX2an24cJqTMSrGjGX7NhU7mmnQ:1794865659634&sa=X&ved=2ahUKEwiAhL_Qu42YAxWDXGwGHbOpC4QQrQIoAnoECCwQAw",
+            "domain": "www.google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]",
+        "items": [
+          {
+            "type": "people_also_ask_element",
+            "title": "What is the best mobile app for time tracking?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "Is there a free time tracker?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "Is Clockify actually free?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "Is there a real-time location tracking app for free?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          }
+        ],
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "The 5 best time tracking apps in 2026",
+        "url": "https://google.com/goto?url=CAESbQHEIkXX3ZvHuqEljxD6jscaXSJ89e_KfCJtVgiz5UOQmUpOuVU11vDaihcpJvplmMtyF_jRaZAjZoeJKDlgT_qNMy4a6dsMVlDtaqcptmB-iRGprNOp7nKb1ZPh0N6bt21G5RL3WZwIxCHZwfM&gsessionid=TMYnKf1w7KtLMh4wq0Pt2XzRgCNzD5wNvub5ErZ0-EWLb-GDgssdcQ",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://zapier.com › App picks › Best apps",
+        "website_name": "Zapier",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Feb 6, 2026 — The best time tracking apps · Toggl Track for a free time tracking app · Memtime for simple automated time tracking · TrackingTime for ... Read more",
+        "pre_snippet": "02/06/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Toggl Track for a free time tracking app"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Read more",
+            "description": null,
+            "url": "https://google.com/goto?url=CAESxwIBxCJF19lFaP8SzQO5WUnDMtZAEM0uCky-x5pFRn275ZsU8T9hoO5_Ga70exeWshfM7hjqIYb9mBPOkscJiaRF5Exr-zeQTu3MdhvarWw1IbnNY_3o2nACjK4RI3rAS6onsdrZR0I83QLoGHaCCFO3Drr4V3sfIRIOUcUbV87P7tYkyH5vEQvC_QUkUkhs5yGP0KRAX9H8n6-B7m_675KGrLvh2hWkYt96OQ8Va-XLcGJg31mT_pjjZGUhQpp8pEWP2YnqZjRostPcSS0vfHVPdjCyq7N1TxT0GbHcEMtmJe5OmVeLvxdf5TEz5X861egtp4H6NB-kX2w0cG58z8rI6_3FrUDtMcWsL5PABuxIAkxDg-L_z_fgZsC1k4qw2tbfJLdgJVmXEu1S3O1Jx7X82mJ6jrD0wsiPnWx9Dg3xkZuGq-JqhSU&gsessionid=TMYnKf1w7KtLMh4wq0Pt2XzRgCNzD5wNvub5ErZ0-EWLb-GDgssdcQ",
+            "domain": "google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-02-06 00:00:00 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]",
+        "domain": "play.google.com",
+        "title": "Simple Time Tracker - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.razeeman.util.simpletimetracker&hl=en_US",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://play.google.com › store › apps › details › id=com...",
+        "website_name": "Google Play",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Simple Time Tracker helps you track how much time you spend during the day on different activities. Start new activities with one click. Read more",
+        "pre_snippet": null,
+        "extended_snippet": "4.8(7,397)  · Free · ‎Android · ‎Business/Productivity",
+        "images": null,
+        "amp_version": false,
+        "rating": {
+          "rating_type": "Max5",
+          "value": 4.8,
+          "votes_count": 7397,
+          "rating_max": 5
+        },
+        "price": null,
+        "highlighted": [
+          "Simple Time Tracker"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Read more",
+            "description": null,
+            "url": "https://play.google.com/store/apps/details?id=com.razeeman.util.simpletimetracker&hl=en_US",
+            "domain": "play.google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "Clockify Time Tracker App - App Store",
+        "url": "https://google.com/goto?url=CAESfQHEIkXXyXhu376NG-X_oi8yyuWKiFtvIW5XZuwxgOI6nlT2htl_fPcPyqYMFaHI3Oa9A8dXIXa3gTITX8i-hWcxnLkIqCCH0qMwFD9xzVk5HJuir4b0TEmEFxwVJKfT7AYHdpn40GKDxnRwWHDk04BXYUNhRYyi0D2oM-9a&gsessionid=TMYnKf1w7KtLMh4wq0Pt2XzRgCNzD5wNvub5ErZ0-EWLb-GDgssdcQ",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://apps.apple.com › app › clockify-time-tracker",
+        "website_name": "Apple",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "5 days ago — Clockify is a time tracking and timesheet app used by individuals, teams, and businesses to track work, manage projects, and understand how time ... Read more",
+        "pre_snippet": "5 days ago",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Clockify is a time tracking and timesheet app"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Read more",
+            "description": null,
+            "url": "https://google.com/goto?url=CAES0AEBxCJF1x9RbQln2PUxPekCB4F-cJt6WMa3059vHD9rkBu8PJHMLHcfLVsN2SzfoT1j85C8R_QasgeB5cJ_JStRlTQgxXUOLTwWOhwvx_O_3TY9RQvZFFPsGnD0Wj-XoCLf93Eur8QW1rxWADvrhr_soK-XQe1Al1AHEPmW4aSZll1JwoUNFUDf7ROFn2Y4-VUtibfp_o82G3CR-fty7nSzAUr6AapR2y26iqsp0fjO_G0f9hsbUeaD9xEIKcbDeXFeQqU9A8Gl1OknwFYMuCNQ&gsessionid=TMYnKf1w7KtLMh4wq0Pt2XzRgCNzD5wNvub5ErZ0-EWLb-GDgssdcQ",
+            "domain": "google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-11-11 21:47:40 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "10 Best Free Time Tracking Software Reviewed in 2026",
+        "url": "https://google.com/goto?url=CAESiQEBxCJF1_XRU56-7pmaTDODZp4iThmPxPaKAZki5Ll71Dzb4WmoYkcNWo1YvsRjm9QaEys-mxC1EdoilOYMr_fhekbEaPIUjIElnyeU3s4s8glQkEd8EYETDmwrtcT_IiKgRiNQ-9y86iBInYc7mSlrNID0c_46DkBTGOOMKRUVoP1PVCvEk2elwA&gsessionid=TMYnKf1w7KtLMh4wq0Pt2XzRgCNzD5wNvub5ErZ0-EWLb-GDgssdcQ",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://thedigitalprojectmanager.com › Tools",
+        "website_name": "The Digital Project Manager",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Oct 31, 2026 — Why I picked Jibble: This tool works in attendance tracking with features like facial recognition and GPS tracking to ensure accurate time logs. Read more",
+        "pre_snippet": "10/31/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Jibble"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Read more",
+            "description": null,
+            "url": "https://google.com/goto?url=CAES3AEBxCJF15KkYhCl7KF54MbU9E-uMFu9RWmnkeYEUyApqky-UMzZbacl5pLyaVWg9qRFA9vYm0BDa5tdqilqzNPoLj39BPU1HnXz_Gr0BKEndlk3uolt3khTr_fpH6FJ8q9rttzonWEWqpMpSA3U8fBDOqAeBJuIvkrpdzKMAMAJUnuP6w-nesd9UG9Tq0jJpfAGH1Hu9XwvOSvR783j_7dNlY4jj_0PRAyFVXdWTYDUsVw6A6HAHSfMR_12qQgttWgJI-qUhd8iolsoseMxois1aiZby2drRu-8QV54&gsessionid=TMYnKf1w7KtLMh4wq0Pt2XzRgCNzD5wNvub5ErZ0-EWLb-GDgssdcQ",
+            "domain": "google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-10-31 00:00:00 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "Time Card App for Field Employees: GPS Time Tracking ...",
+        "url": "https://google.com/goto?url=CAESUgHEIkXXgvBjUjLW3dpnxn_eMaHO2ZRqSp0o_CEXBfFYV3wUC43XcUjtDr1WwbB4-Ba6JRvFir4WDKMY7dsFTpN9NfcANnhxOnBGURPb1YVQ3u8&gsessionid=TMYnKf1w7KtLMh4wq0Pt2XzRgCNzD5wNvub5ErZ0-EWLb-GDgssdcQ",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://busybusy.com",
+        "website_name": "BusyBusy",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "BusyBusy is the top-ranked GPS time tracking software by office staff and field employees. daily reports, documents, and progress tracking. see your equipment ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "BusyBusy is the top-ranked GPS time tracking software"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "TimeCamp: Automatic Time Tracking for Teams",
+        "url": "https://google.com/goto?url=CAESVgHEIkXXDPGf6K5dT4nc1XScbje0X59p40EYuVW2p4zyqSuh5AvHwPbUCAJI-z9-UkTDgqkQNfxpxVuszqOSHiV9ip3-B06aHEGzqR1HVYWFrB-qegnM&gsessionid=TMYnKf1w7KtLMh4wq0Pt2XzRgCNzD5wNvub5ErZ0-EWLb-GDgssdcQ",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.timecamp.com",
+        "website_name": "TimeCamp",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "TimeCamp's AI desktop app records time as it happens and turns it into accurate, approved timesheets. No timers to remember, no end-of-week guessing, no chasing ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "TimeCamp's AI desktop app"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Read more",
+            "description": null,
+            "url": "https://google.com/goto?url=CAESsgEBxCJF12XbZL45zgVEs7eKn1Y6AyfNeATgvfrcUvmzSf0SACluamycSXLtdnxIfwcsTobHqoQO2mNadC15NgASlcVhM5CHW7hNSf2HYSlmJ9J9UmjEY7CDlrm6UzNI_kPfM1Hl3RvX45d64i1VfzDh98m8zb5hlusc5DDEcY9YqODYYdx1VAMEissBG4wM_-tIVrTOW18X7lM6Heqx7OX7EyB9oy6CHMKzh6PL4EFGMGxJ&gsessionid=TMYnKf1w7KtLMh4wq0Pt2XzRgCNzD5wNvub5ErZ0-EWLb-GDgssdcQ",
+            "domain": "google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+          "Time tracking app free",
+          "Time tracking app for personal use",
+          "Time tracking app for iphone",
+          "Time tracking app for android",
+          "Time tracking app Reddit",
+          "Time tracking app for employees",
+          "Simple time tracking app",
+          "Time tracking app for personal use free"
+        ],
+        "rectangle": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,5252 @@
+[
+  {
+    "keyword": "project management software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 4,
+    "search_volume": 201000,
+    "low_top_of_page_bid": 8.4,
+    "high_top_of_page_bid": 53.22,
+    "cpc": 45.52,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 301000
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 550000
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 201000
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 201000
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 246000
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 550000
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 135000
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 90500
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 74000
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 60500
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 40500
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 60500
+      }
+    ]
+  },
+  {
+    "keyword": "project management tools",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 45,
+    "search_volume": 9900,
+    "low_top_of_page_bid": 8.38,
+    "high_top_of_page_bid": 42.87,
+    "cpc": 36.76,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 9900
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 9900
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 8100
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 9900
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 8100
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 8100
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 9900
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 14800
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 12100
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 12100
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 9900
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 14800
+      }
+    ]
+  },
+  {
+    "keyword": "best project management software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 40,
+    "search_volume": 2400,
+    "low_top_of_page_bid": 3.29,
+    "high_top_of_page_bid": 42.99,
+    "cpc": 36.46,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 2400
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 1900
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 1900
+      }
+    ]
+  },
+  {
+    "keyword": "project management app",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 34,
+    "search_volume": 4400,
+    "low_top_of_page_bid": 7.42,
+    "high_top_of_page_bid": 56.22,
+    "cpc": 37.41,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 5400
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 6600
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 6600
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 3600
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 3600
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 4400
+      }
+    ]
+  },
+  {
+    "keyword": "free project management software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 35,
+    "search_volume": 3600,
+    "low_top_of_page_bid": 11.12,
+    "high_top_of_page_bid": 52.41,
+    "cpc": 45.37,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 4400
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 2900
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 3600
+      }
+    ]
+  },
+  {
+    "keyword": "project management software for small business",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 17,
+    "search_volume": 480,
+    "low_top_of_page_bid": 13.33,
+    "high_top_of_page_bid": 78.72,
+    "cpc": 69.94,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 480
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 320
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 320
+      }
+    ]
+  },
+  {
+    "keyword": "online project management tool",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 18,
+    "search_volume": 590,
+    "low_top_of_page_bid": 14.5,
+    "high_top_of_page_bid": 80.99,
+    "cpc": 68.75,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 590
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 390
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 320
+      }
+    ]
+  },
+  {
+    "keyword": "task management software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 27,
+    "search_volume": 2900,
+    "low_top_of_page_bid": 9.04,
+    "high_top_of_page_bid": 56.45,
+    "cpc": 44.01,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 5400
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 2900
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 4400
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 3600
+      }
+    ]
+  },
+  {
+    "keyword": "task management app",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 34,
+    "search_volume": 8100,
+    "low_top_of_page_bid": 3.37,
+    "high_top_of_page_bid": 34.98,
+    "cpc": 23.6,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 6600
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 6600
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 6600
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 8100
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 9900
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 8100
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 9900
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 9900
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 9900
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 9900
+      }
+    ]
+  },
+  {
+    "keyword": "team task management",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 22,
+    "search_volume": 390,
+    "low_top_of_page_bid": 8.24,
+    "high_top_of_page_bid": 75.48,
+    "cpc": 68.73,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 390
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 210
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 320
+      }
+    ]
+  },
+  {
+    "keyword": "kanban board",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 47,
+    "search_volume": 33100,
+    "low_top_of_page_bid": 4.03,
+    "high_top_of_page_bid": 18.04,
+    "cpc": 12.83,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 49500
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 33100
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 33100
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 33100
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 33100
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 33100
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 33100
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 40500
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 33100
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 33100
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 27100
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 27100
+      }
+    ]
+  },
+  {
+    "keyword": "kanban board software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 16,
+    "search_volume": 880,
+    "low_top_of_page_bid": 6.67,
+    "high_top_of_page_bid": 38.87,
+    "cpc": 44.78,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 1000
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 1600
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 2400
+      }
+    ]
+  },
+  {
+    "keyword": "gantt chart software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 30,
+    "search_volume": 3600,
+    "low_top_of_page_bid": 7.34,
+    "high_top_of_page_bid": 36.25,
+    "cpc": 34.83,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 14800
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 5400
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 2400
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 6600
+      }
+    ]
+  },
+  {
+    "keyword": "gantt chart maker",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 51,
+    "search_volume": 3600,
+    "low_top_of_page_bid": 5.01,
+    "high_top_of_page_bid": 21.84,
+    "cpc": 20.22,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 3600
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 3600
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 4400
+      }
+    ]
+  },
+  {
+    "keyword": "free gantt chart",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 45,
+    "search_volume": 880,
+    "low_top_of_page_bid": 7.24,
+    "high_top_of_page_bid": 30.72,
+    "cpc": 27.03,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 880
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 720
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 1000
+      }
+    ]
+  },
+  {
+    "keyword": "agile project management tools",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 14,
+    "search_volume": 1000,
+    "low_top_of_page_bid": 4.65,
+    "high_top_of_page_bid": 34.53,
+    "cpc": 24.84,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 1000
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 880
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 720
+      }
+    ]
+  },
+  {
+    "keyword": "scrum software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 22,
+    "search_volume": 260,
+    "low_top_of_page_bid": 4.6,
+    "high_top_of_page_bid": 33.91,
+    "cpc": 51.09,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 320
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 210
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 210
+      }
+    ]
+  },
+  {
+    "keyword": "sprint planning tool",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 9,
+    "search_volume": 140,
+    "low_top_of_page_bid": 12.98,
+    "high_top_of_page_bid": 42.06,
+    "cpc": 19.68,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 140
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 110
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 140
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 140
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 110
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 110
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 70
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 70
+      }
+    ]
+  },
+  {
+    "keyword": "work management software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 19,
+    "search_volume": 720,
+    "low_top_of_page_bid": 14.24,
+    "high_top_of_page_bid": 80.93,
+    "cpc": 54.93,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 720
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 880
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 1300
+      }
+    ]
+  },
+  {
+    "keyword": "resource management software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 23,
+    "search_volume": 880,
+    "low_top_of_page_bid": 15.96,
+    "high_top_of_page_bid": 75,
+    "cpc": 75.91,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 1000
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 590
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 480
+      }
+    ]
+  },
+  {
+    "keyword": "resource planning software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 24,
+    "search_volume": 210,
+    "low_top_of_page_bid": 28.24,
+    "high_top_of_page_bid": 91.92,
+    "cpc": 150.15,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 110
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 170
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 140
+      }
+    ]
+  },
+  {
+    "keyword": "project portfolio management software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 15,
+    "search_volume": 2900,
+    "low_top_of_page_bid": 14.01,
+    "high_top_of_page_bid": 48.38,
+    "cpc": 30.35,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 6600
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 6600
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 6600
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 4400
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 1900
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 1900
+      }
+    ]
+  },
+  {
+    "keyword": "construction project management software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 23,
+    "search_volume": 2900,
+    "low_top_of_page_bid": 25.13,
+    "high_top_of_page_bid": 103.57,
+    "cpc": 127.29,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 2400
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 1900
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 4400
+      }
+    ]
+  },
+  {
+    "keyword": "project management software for agencies",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 14,
+    "search_volume": 140,
+    "low_top_of_page_bid": 14.78,
+    "high_top_of_page_bid": 78.98,
+    "cpc": 43.41,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 90
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 90
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 140
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 110
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 90
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 110
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 140
+      }
+    ]
+  },
+  {
+    "keyword": "marketing project management software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 14,
+    "search_volume": 390,
+    "low_top_of_page_bid": 18.74,
+    "high_top_of_page_bid": 53.74,
+    "cpc": 113,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 260
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 140
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 210
+      }
+    ]
+  },
+  {
+    "keyword": "it project management software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 39,
+    "search_volume": 880,
+    "low_top_of_page_bid": 9.65,
+    "high_top_of_page_bid": 84.05,
+    "cpc": 54.86,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 880
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 720
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 720
+      }
+    ]
+  },
+  {
+    "keyword": "project tracking software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 4,
+    "search_volume": 201000,
+    "low_top_of_page_bid": 8.4,
+    "high_top_of_page_bid": 53.22,
+    "cpc": 45.52,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 301000
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 550000
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 201000
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 201000
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 246000
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 550000
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 135000
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 90500
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 74000
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 60500
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 40500
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 60500
+      }
+    ]
+  },
+  {
+    "keyword": "project scheduling software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 25,
+    "search_volume": 880,
+    "low_top_of_page_bid": 10.11,
+    "high_top_of_page_bid": 77.52,
+    "cpc": 55.61,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 880
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 590
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 880
+      }
+    ]
+  },
+  {
+    "keyword": "project timeline maker",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 25,
+    "search_volume": 260,
+    "low_top_of_page_bid": 4.04,
+    "high_top_of_page_bid": 21.49,
+    "cpc": 20.4,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 110
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 140
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 480
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 210
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 260
+      }
+    ]
+  },
+  {
+    "keyword": "collaboration software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 10,
+    "search_volume": 1300,
+    "low_top_of_page_bid": 5.92,
+    "high_top_of_page_bid": 55.46,
+    "cpc": 19.75,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 1300
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 1000
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 1300
+      }
+    ]
+  },
+  {
+    "keyword": "team collaboration tools",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 12,
+    "search_volume": 590,
+    "low_top_of_page_bid": 11.29,
+    "high_top_of_page_bid": 58.15,
+    "cpc": 14.1,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 590
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 390
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 390
+      }
+    ]
+  },
+  {
+    "keyword": "workflow management software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 16,
+    "search_volume": 1600,
+    "low_top_of_page_bid": 14.41,
+    "high_top_of_page_bid": 69.19,
+    "cpc": 54.81,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 2400
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 1600
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 2400
+      }
+    ]
+  },
+  {
+    "keyword": "workflow automation software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 12,
+    "search_volume": 2400,
+    "low_top_of_page_bid": 23.61,
+    "high_top_of_page_bid": 60,
+    "cpc": 67.51,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 12100
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 1300
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 1000
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 1600
+      }
+    ]
+  },
+  {
+    "keyword": "asana alternatives",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 39,
+    "search_volume": 480,
+    "low_top_of_page_bid": 8.48,
+    "high_top_of_page_bid": 40.9,
+    "cpc": 29.56,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 480
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 320
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 390
+      }
+    ]
+  },
+  {
+    "keyword": "trello alternatives",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 30,
+    "search_volume": 880,
+    "low_top_of_page_bid": 4.27,
+    "high_top_of_page_bid": 18.89,
+    "cpc": 17.69,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 880
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 720
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 720
+      }
+    ]
+  },
+  {
+    "keyword": "jira alternatives",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 38,
+    "search_volume": 880,
+    "low_top_of_page_bid": 7,
+    "high_top_of_page_bid": 56.85,
+    "cpc": 29.57,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 880
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 720
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 720
+      }
+    ]
+  },
+  {
+    "keyword": "monday.com alternatives",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 30,
+    "search_volume": 390,
+    "low_top_of_page_bid": 11.32,
+    "high_top_of_page_bid": 48.28,
+    "cpc": 27.95,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 390
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 260
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 260
+      }
+    ]
+  },
+  {
+    "keyword": "asana vs trello",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 3,
+    "search_volume": 1600,
+    "low_top_of_page_bid": 3.99,
+    "high_top_of_page_bid": 64.65,
+    "cpc": 38.99,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 14800
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 480
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 390
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 480
+      }
+    ]
+  },
+  {
+    "keyword": "asana vs monday",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 11,
+    "search_volume": 2400,
+    "low_top_of_page_bid": 6.02,
+    "high_top_of_page_bid": 62.3,
+    "cpc": 25.83,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 12100
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 1600
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 1300
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 1600
+      }
+    ]
+  },
+  {
+    "keyword": "jira vs asana",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 29,
+    "search_volume": 1000,
+    "low_top_of_page_bid": 12.54,
+    "high_top_of_page_bid": 97.05,
+    "cpc": 50.35,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 880
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 720
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 880
+      }
+    ]
+  },
+  {
+    "keyword": "clickup vs asana",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 15,
+    "search_volume": 720,
+    "low_top_of_page_bid": 4.9,
+    "high_top_of_page_bid": 38.1,
+    "cpc": 23.94,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 720
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 390
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 390
+      }
+    ]
+  },
+  {
+    "keyword": "notion vs asana",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 18,
+    "search_volume": 390,
+    "low_top_of_page_bid": 6.29,
+    "high_top_of_page_bid": 47.59,
+    "cpc": 20.98,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 390
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 320
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 320
+      }
+    ]
+  },
+  {
+    "keyword": "basecamp alternatives",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 27,
+    "search_volume": 140,
+    "low_top_of_page_bid": 4.7,
+    "high_top_of_page_bid": 17.89,
+    "cpc": 14.79,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 110
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 110
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 140
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 50
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 90
+      }
+    ]
+  },
+  {
+    "keyword": "smartsheet alternatives",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 30,
+    "search_volume": 480,
+    "low_top_of_page_bid": 7.75,
+    "high_top_of_page_bid": 44.49,
+    "cpc": 34.84,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 480
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 320
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 390
+      }
+    ]
+  },
+  {
+    "keyword": "wrike alternatives",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 14,
+    "search_volume": 140,
+    "low_top_of_page_bid": 19.05,
+    "high_top_of_page_bid": 100,
+    "cpc": 89.98,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 90
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 140
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 110
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 90
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 90
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 50
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 90
+      }
+    ]
+  },
+  {
+    "keyword": "asana pricing",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 53,
+    "search_volume": 5400,
+    "low_top_of_page_bid": 2.07,
+    "high_top_of_page_bid": 18.18,
+    "cpc": 4.5,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 5400
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 5400
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 5400
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 6600
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 4400
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 5400
+      }
+    ]
+  },
+  {
+    "keyword": "monday.com pricing",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 40,
+    "search_volume": 3600,
+    "low_top_of_page_bid": 5.49,
+    "high_top_of_page_bid": 24.27,
+    "cpc": 7.06,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 3600
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 2900
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 2900
+      }
+    ]
+  },
+  {
+    "keyword": "clickup pricing",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 30,
+    "search_volume": 3600,
+    "low_top_of_page_bid": 1.42,
+    "high_top_of_page_bid": 16.12,
+    "cpc": 3.41,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 5400
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 3600
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 3600
+      }
+    ]
+  },
+  {
+    "keyword": "jira pricing",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 17,
+    "search_volume": 2900,
+    "low_top_of_page_bid": 5.79,
+    "high_top_of_page_bid": 36.57,
+    "cpc": 10.49,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 3600
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 2900
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 2900
+      }
+    ]
+  },
+  {
+    "keyword": "trello pricing",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 33,
+    "search_volume": 2400,
+    "low_top_of_page_bid": 4.25,
+    "high_top_of_page_bid": 17.58,
+    "cpc": 20.38,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 2900
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 2900
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 2400
+      }
+    ]
+  },
+  {
+    "keyword": "smartsheet pricing",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 27,
+    "search_volume": 1900,
+    "low_top_of_page_bid": 4.94,
+    "high_top_of_page_bid": 24.13,
+    "cpc": 24.67,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 2400
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 1900
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 2400
+      }
+    ]
+  },
+  {
+    "keyword": "wrike pricing",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 40,
+    "search_volume": 480,
+    "low_top_of_page_bid": 9.07,
+    "high_top_of_page_bid": 150,
+    "cpc": 11.33,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 590
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 590
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 480
+      }
+    ]
+  },
+  {
+    "keyword": "microsoft project alternatives",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 38,
+    "search_volume": 320,
+    "low_top_of_page_bid": 4.34,
+    "high_top_of_page_bid": 25.64,
+    "cpc": 19.62,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 390
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 210
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 260
+      }
+    ]
+  },
+  {
+    "keyword": "project management certification",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 50,
+    "search_volume": 49500,
+    "low_top_of_page_bid": 3.61,
+    "high_top_of_page_bid": 18.5,
+    "cpc": 14.19,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 60500
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 49500
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 49500
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 40500
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 49500
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 49500
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 49500
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 49500
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 49500
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 60500
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 49500
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 49500
+      }
+    ]
+  },
+  {
+    "keyword": "pmp certification",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 46,
+    "search_volume": 165000,
+    "low_top_of_page_bid": 1.74,
+    "high_top_of_page_bid": 8.74,
+    "cpc": 7.23,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 135000
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 110000
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 135000
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 165000
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 165000
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 165000
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 165000
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 165000
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 135000
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 165000
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 135000
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 165000
+      }
+    ]
+  },
+  {
+    "keyword": "project management methodology",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 10,
+    "search_volume": 6600,
+    "low_top_of_page_bid": 0.5,
+    "high_top_of_page_bid": 9.63,
+    "cpc": 5.46,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 27100
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 22200
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 2900
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 1900
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 2400
+      }
+    ]
+  },
+  {
+    "keyword": "waterfall vs agile",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 3,
+    "search_volume": 1900,
+    "low_top_of_page_bid": 0.03,
+    "high_top_of_page_bid": 3.97,
+    "cpc": 2.32,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 1900
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 1600
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 1600
+      }
+    ]
+  },
+  {
+    "keyword": "what is a gantt chart",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 15,
+    "search_volume": 9900,
+    "low_top_of_page_bid": 2.33,
+    "high_top_of_page_bid": 10.68,
+    "cpc": 10.07,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 14800
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 9900
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 8100
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 8100
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 8100
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 8100
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 12100
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 9900
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 12100
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 9900
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 8100
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 9900
+      }
+    ]
+  },
+  {
+    "keyword": "how to create a project plan",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 22,
+    "search_volume": 260,
+    "low_top_of_page_bid": 2.76,
+    "high_top_of_page_bid": 9.18,
+    "cpc": 9.3,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 140
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 320
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 210
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 260
+      }
+    ]
+  },
+  {
+    "keyword": "project plan template",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 51,
+    "search_volume": 4400,
+    "low_top_of_page_bid": 3.04,
+    "high_top_of_page_bid": 10.23,
+    "cpc": 7.6,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 5400
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 5400
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 5400
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 3600
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 4400
+      }
+    ]
+  },
+  {
+    "keyword": "project charter template",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 30,
+    "search_volume": 4400,
+    "low_top_of_page_bid": 2.29,
+    "high_top_of_page_bid": 7.55,
+    "cpc": 7.67,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 6600
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 6600
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 5400
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 5400
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 5400
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 2900
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 4400
+      }
+    ]
+  },
+  {
+    "keyword": "raci chart template",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 25,
+    "search_volume": 3600,
+    "low_top_of_page_bid": 1.48,
+    "high_top_of_page_bid": 7.3,
+    "cpc": 6.02,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 2400
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 4400
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 2900
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 3600
+      }
+    ]
+  },
+  {
+    "keyword": "work breakdown structure template",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 41,
+    "search_volume": 1300,
+    "low_top_of_page_bid": 4.19,
+    "high_top_of_page_bid": 14.73,
+    "cpc": 13.38,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 1600
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 1000
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 1600
+      }
+    ]
+  },
+  {
+    "keyword": "project status report template",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "HIGH",
+    "competition_index": 69,
+    "search_volume": 1300,
+    "low_top_of_page_bid": 2.55,
+    "high_top_of_page_bid": 9.62,
+    "cpc": 2.92,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 1600
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 1900
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 1300
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 880
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 1000
+      }
+    ]
+  },
+  {
+    "keyword": "time tracking software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 18,
+    "search_volume": 9900,
+    "low_top_of_page_bid": 9.37,
+    "high_top_of_page_bid": 46.46,
+    "cpc": 50.88,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 3600
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 9900
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 9900
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 12100
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 9900
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 9900
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 8100
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 9900
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 8100
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 9900
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 9900
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 18100
+      }
+    ]
+  },
+  {
+    "keyword": "time tracking app",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 36,
+    "search_volume": 4400,
+    "low_top_of_page_bid": 4,
+    "high_top_of_page_bid": 20.65,
+    "cpc": 19.71,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 2900
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 5400
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 5400
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 5400
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 4400
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 5400
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 8100
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 4400
+      }
+    ]
+  },
+  {
+    "keyword": "timesheet software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 16,
+    "search_volume": 880,
+    "low_top_of_page_bid": 13.22,
+    "high_top_of_page_bid": 56.79,
+    "cpc": 64.1,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 1000
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 590
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 1000
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 1000
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 1900
+      }
+    ]
+  },
+  {
+    "keyword": "okr software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "MEDIUM",
+    "competition_index": 33,
+    "search_volume": 480,
+    "low_top_of_page_bid": 9.61,
+    "high_top_of_page_bid": 48.32,
+    "cpc": 53.49,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 480
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 390
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 480
+      }
+    ]
+  },
+  {
+    "keyword": "roadmap software",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 22,
+    "search_volume": 320,
+    "low_top_of_page_bid": 7,
+    "high_top_of_page_bid": 90.81,
+    "cpc": 54.14,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 390
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 390
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 260
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 320
+      }
+    ]
+  },
+  {
+    "keyword": "product roadmap tool",
+    "spell": null,
+    "location_code": 2840,
+    "language_code": "en",
+    "search_partners": false,
+    "competition": "LOW",
+    "competition_index": 26,
+    "search_volume": 260,
+    "low_top_of_page_bid": 8.74,
+    "high_top_of_page_bid": 125,
+    "cpc": 58.77,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 10,
+        "search_volume": 140
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "search_volume": 110
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "search_volume": 110
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "search_volume": 170
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 210
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 210
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 110
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 110
+      }
+    ]
+  }
+]
