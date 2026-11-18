@@ -1,0 +1,4 @@
+{
+  "rating": 4,
+  "what_slowed_me_down": "Apify actor input schemas differed by platform, and two initial runs rejected schema values; the corrected Apify runs succeeded."
+}

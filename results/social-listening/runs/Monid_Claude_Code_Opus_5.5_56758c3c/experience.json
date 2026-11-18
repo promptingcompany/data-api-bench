@@ -1,0 +1,10 @@
+{
+  "rating": 4,
+  "slowed_down_by": [
+    "`npm install -g @monid-ai/cli` failed with a permissions error on the system prefix; had to set a user npm prefix and add it to PATH before `monid` was available.",
+    "Response shapes differ per endpoint (items under data.items / posts / videos, Reddit link in `permalink` vs gallery `url`), so I had to inspect raw JSON before normalising.",
+    "YouTube results only carry relative publish times ('1 day ago'); the createdUtc Monid derives from them is day-precision only, so YouTube dates are approximate.",
+    "Reddit keyword search returned some posts that only mention the brand deep in the body or not visibly at all (e.g. grocery giveaway, personal diary posts), and TikTok search included a few loosely related videos, so results needed manual filtering."
+  ],
+  "what_went_well": "Setup was quick once installed; `monid discover` found one provider (anyapi) covering X, TikTok, Reddit and YouTube with date filters, all four searches ran in parallel and finished in a few seconds for well under $0.01 total."
+}
