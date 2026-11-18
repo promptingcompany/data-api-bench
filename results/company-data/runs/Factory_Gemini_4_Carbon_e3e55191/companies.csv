@@ -1,0 +1,101 @@
+id,company,domain,hq_country,employee_count,industry
+m001,"CB Financial Services, Inc.",cb.bank,United States,174,Banking
+m002,TUCOWS INC /PA/,tucows.com,Canada,759,IT Services and IT Consulting
+m003,SELECTIVE INSURANCE GROUP INC,selective.com,United States,2800,Insurance
+m004,Accenture plc,accenture.com,Ireland,814000,Business Consulting and Services
+m005,GULFPORT ENERGY CORP,gulfportenergy.com,United States,245,Oil and Gas
+m006,Profound Medical Corp.,profoundmedical.com,Canada,162,Medical Equipment Manufacturing
+m007,VOLITIONRX LTD,volition.com,United States,75,Biotechnology Research
+m008,Ategrity Specialty Insurance Co Holdings,ategrity.com,United States,203,Insurance
+m009,WILLIS TOWERS WATSON PLC,wtwco.com,United Kingdom,46900,Financial Services
+m010,LUXFER HOLDINGS PLC,luxfer.com,United Kingdom,1400,Manufacturing
+m011,HIVE Digital Technologies Ltd.,hivedigitaltechnologies.com,United States,29,"Technology, Information and Internet"
+m012,CIMPRESS plc,cimpress.com,Ireland,16500,"Technology, Information and Internet"
+m013,Garrett Motion Inc.,garrettmotion.com,Switzerland,6700,Motor Vehicle Manufacturing
+m014,Aon plc,aon.com,Ireland,60000,Financial Services
+m015,BOSTON OMAHA Corp,bostonomaha.com,United States,422,Holding Companies
+m016,Aurinia Pharmaceuticals Inc.,auriniapharma.com,Canada,128,Biotechnology Research
+m017,"Sprout Social, Inc.",sproutsocial.com,United States,1362,Software Development
+m018,UNITEDHEALTH GROUP INC,unitedhealthgroup.com,United States,390000,Hospitals and Health Care
+m019,Fatpipe Inc/UT,fatpipe.com,United States,172,Computer Networking Products
+m020,"LendingTree, Inc.",lendingtree.com,United States,926,Financial Services
+m021,CHEMED CORP,chemed.com,United States,15811,Consumer Services
+m022,U S PHYSICAL THERAPY INC /NV,usph.com,United States,7294,"Physical, Occupational and Speech Therapists"
+m023,BLUE OWL CAPITAL INC.,blueowl.com,United States,1365,Financial Services
+m024,IMAX CORP,imax.com,Canada,679,Entertainment Providers
+m025,LIGHTPATH TECHNOLOGIES INC,lightpath.com,United States,425,Aviation and Aerospace Component Manufacturing
+m026,VAALCO ENERGY INC /DE/,vaalco.com,United States,281,Oil and Gas
+m027,Hut 8 Corp.,hut8.com,United States,248,"Technology, Information and Internet"
+m028,"Inuvo, Inc.",inuvo.com,United States,72,Advertising Services
+m029,Veralto Corp,veralto.com,United States,17000,Industrial Machinery Manufacturing
+m030,"Marcus & Millichap, Inc.",marcusmillichap.com,United States,854,Real Estate
+m031,TechnipFMC plc,technipfmc.com,United Kingdom,23089,Oil and Gas
+m032,BALL Corp,ball.com,United States,16000,Packaging and Containers Manufacturing
+m033,ESTABLISHMENT LABS HOLDINGS INC.,establishmentlabs.com,Costa Rica,1004,Medical Equipment Manufacturing
+m034,"Lazard, Inc.",lazard.com,United States,3309,Financial Services
+m035,UNITED BANKSHARES INC/WV,ubsi-inc.com,United States,2694,Financial Services
+m036,"Whitehawk Therapeutics, Inc.",whitehawktx.com,United States,23,Biotechnology Research
+m037,"CAVCO INDUSTRIES, INC.",cavcoindustries.com,United States,7700,Construction
+m038,"Childrens Place, Inc.",childrensplace.com,United States,7800,Retail
+m039,Johnson Controls International plc,johnsoncontrols.com,Ireland,84000,Industrial Machinery Manufacturing
+m040,ENTRAVISION COMMUNICATIONS CORP,entravision.com,United States,1025,Advertising Services
+m041,"BridgeBio Pharma, Inc.",bridgebio.com,United States,839,Biotechnology Research
+m042,"Propanc Biopharma, Inc.",propanc.com,Australia,2,Pharmaceutical Manufacturing
+m043,TON Strategy Co,tonstrat.com,United States,27,Software Development
+m044,"DOCUSIGN, INC.",docusign.com,United States,7044,Software Development
+m045,Borealis Foods Inc.,borealisfoods.com,Canada,140,Food and Beverage Manufacturing
+m046,Trane Technologies plc,tranetechnologies.com,Ireland,44000,Industrial Machinery Manufacturing
+m047,BANK OF AMERICA CORP /DE/,bankofamerica.com,United States,213000,Banking
+m048,"GLACIER BANCORP, INC.",glacierbancorp.com,United States,4188,Banking
+m049,MICRON TECHNOLOGY INC,micron.com,United States,61000,Semiconductor Manufacturing
+m050,CORE MOLDING TECHNOLOGIES INC,coremt.com,United States,1239,Plastics Manufacturing
+m051,"Indivior Pharmaceuticals, Inc.",indivior.com,United States,838,Pharmaceutical Manufacturing
+m052,Playtika Holding Corp.,playtika.com,Israel,3175,Computer Games
+m053,UroGen Pharma Ltd.,urogen.com,United States,291,Biotechnology Research
+m054,"Amphastar Pharmaceuticals, Inc.",amphastar.com,United States,1976,Pharmaceutical Manufacturing
+m055,Repay Holdings Corp,repay.com,United States,486,Financial Services
+m056,Jaguar Uranium Corp.,jaguaruranium.com,Canada,3,Mining
+m057,"TuHURA Biosciences, Inc./NV",tuhurabio.com,United States,22,Biotechnology Research
+m058,INTERLINK ELECTRONICS INC,interlinkelectronics.com,United States,93,"Appliances, Electrical, and Electronics Manufacturing"
+m059,"Loop Industries, Inc.",loopindustries.com,Canada,41,Plastics Manufacturing
+m060,"SOLV Energy, Inc.",solvenergy.com,United States,2600,Services for Renewable Energy
+m061,ORACLE CORP,oracle.com,United States,141000,IT Services and IT Consulting
+m062,Acushnet Holdings Corp.,acushnetholdingscorp.com,United States,7300,Sporting Goods Manufacturing
+m063,"Marqeta, Inc.",marqeta.com,United States,938,Financial Services
+m064,"Heartflow, Inc.",heartflow.com,United States,843,Medical Equipment Manufacturing
+m065,CYPHERPUNK TECHNOLOGIES INC.,cypherpunk.com,United States,6,Financial Services
+m066,"RAPID MICRO BIOSYSTEMS, INC.",rapidmicrobio.com,United States,171,Biotechnology Research
+m067,"Sprinklr, Inc.",sprinklr.com,United States,3258,Software Development
+m068,CASTLE BIOSCIENCES INC,castlebiosciences.com,United States,883,Biotechnology Research
+m069,"Live Oak Bancshares, Inc.",liveoak.bank,United States,1040,Banking
+m070,ADDENTAX GROUP CORP.,addentax.com,China,61,Retail Apparel and Fashion
+m071,GRIFFON CORP,griffon.com,United States,5100,Wholesale Building Materials
+m072,Stablecoin Development Corp,stabledev.com,United States,4,"Technology, Information and Internet"
+m073,OneWater Marine Inc.,onewatermarine.com,United States,2231,Retail
+m074,Ondas Inc.,ondas.com,United States,495,"Technology, Information and Internet"
+m075,BriaCell Therapeutics Corp.,briacell.com,Canada,31,Biotechnology Research
+m076,COMPASS Pathways plc,compasspathways.com,United Kingdom,156,Mental Health Care
+m077,"ASSEMBLY BIOSCIENCES, INC.",assemblybio.com,United States,73,Biotechnology Research
+m078,"Klaviyo, Inc.",klaviyo.com,United States,2368,Marketing Services
+m079,Immunocore Holdings plc,immunocore.com,United Kingdom,524,Biotechnology Research
+m080,Bausch Health Companies Inc.,bauschhealth.com,Canada,20300,Pharmaceutical Manufacturing
+m081,PROTHENA CORP PUBLIC LTD CO,prothena.com,Ireland,67,Biotechnology Research
+m082,Eaton Corp plc,eaton.com,Ireland,97303,"Appliances, Electrical, and Electronics Manufacturing"
+m083,"Duolingo, Inc.",duolingo.com,United States,900,Higher Education
+m084,Cronos Group Inc.,thecronosgroup.com,Canada,610,Manufacturing
+m085,"Gemini Space Station, Inc.",gemini.com,United States,650,Financial Services
+m086,"Figma, Inc.",figma.com,United States,1886,Design Services
+m087,"XPEL, Inc.",xpel.com,United States,1337,Motor Vehicle Parts Manufacturing
+m088,"Ameresco, Inc.",ameresco.com,United States,1601,Renewable Energy Power Generation
+m089,Amalgamated Financial Corp.,amalgamatedbank.com,United States,450,Banking
+m090,LINDE PLC,linde.com,United Kingdom,65177,Chemical Manufacturing
+m091,CARRIER GLOBAL Corp,carrier.com,United States,47000,Wholesale Building Materials
+m092,"STANLEY BLACK & DECKER, INC.",stanleyblackanddecker.com,United States,43500,Manufacturing
+m093,MATTHEWS INTERNATIONAL CORP,matw.com,United States,5500,Manufacturing
+m094,U.S. GoldMining Inc.,us.goldmining.com,Canada,10,Mining
+m095,TEREX CORP,terex.com,United States,10700,Machinery Manufacturing
+m096,LIVE VENTURES Inc,liveventures.com,United States,1744,Financial Services
+m097,Seagate Technology Holdings plc,seagate.com,Singapore,30000,Computer Hardware Manufacturing
+m098,"PTC THERAPEUTICS, INC.",ptcbio.com,United States,991,Biotechnology Research
+m099,Walt Disney Co,thewaltdisneycompany.com,United States,234000,Entertainment Providers
+m100,"Climb Bio, Inc.",climbbio.com,United States,29,Biotechnology Research

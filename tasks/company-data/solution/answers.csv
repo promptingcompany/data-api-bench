@@ -1,0 +1,101 @@
+id,domain,hq_country,employee_count,industry
+m001,cb.bank,United States,174,Banking
+m002,tucows.com,Canada,759,"Technology, Information and Internet"
+m003,selective.com,United States,2800,Insurance Carriers
+m004,accenture.com,Ireland,814000,IT Services and IT Consulting
+m005,gulfportenergy.com,United States,245,Natural Gas Extraction
+m006,profoundmedical.com,Canada,162,Medical Equipment Manufacturing
+m007,volition.com,United States,75,Biotechnology Research
+m008,ategrity.com,United States,203,Insurance Carriers
+m009,wtwco.com,United Kingdom,46900,Insurance Agencies and Brokerages
+m010,luxfer.com,United Kingdom,1400,Chemical Manufacturing
+m011,hivedigitaltechnologies.com,Canada,29,Blockchain Services
+m012,cimpress.com,Ireland,16000,Printing Services
+m013,garrettmotion.com,Switzerland,6700,Motor Vehicle Parts Manufacturing
+m014,aon.com,Ireland,60000,Insurance Agencies and Brokerages
+m015,bostonomaha.com,United States,422,Advertising Services
+m016,auriniapharma.com,Canada,128,Pharmaceutical Manufacturing
+m017,sproutsocial.com,United States,1362,Software Development
+m018,unitedhealthgroup.com,United States,390000,Hospitals and Health Care
+m019,fatpipe.com,United States,172,Computer Networking Products
+m020,lendingtree.com,United States,926,Loan Brokers
+m021,chemed.com,United States,15811,Home Health Care Services
+m022,usph.com,United States,7294,"Physical, Occupational and Speech Therapists"
+m023,blueowl.com,United States,1365,Investment Management
+m024,imax.com,Canada,679,"Movies, Videos and Sound"
+m025,lightpath.com,United States,425,Computers and Electronics Manufacturing
+m026,vaalco.com,United States,281,Oil Extraction
+m027,hut8.com,United States,248,Data Infrastructure and Analytics
+m028,inuvo.com,United States,72,Advertising Services
+m029,veralto.com,United States,17000,Measuring and Control Instrument Manufacturing
+m030,marcusmillichap.com,United States,854,Real Estate Agents and Brokers
+m031,technipfmc.com,United Kingdom,22000,Oil and Gas
+m032,ball.com,United States,16000,Packaging and Containers Manufacturing
+m033,establishmentlabs.com,Costa Rica,1004,Medical Equipment Manufacturing
+m034,lazard.com,United States,3309,Investment Banking
+m035,ubsi-inc.com,United States,2694,Banking
+m036,whitehawktx.com,United States,23,Biotechnology Research
+m037,cavcoindustries.com,United States,7700,Residential Building Construction
+m038,childrensplace.com,United States,7800,Retail Apparel and Fashion
+m039,johnsoncontrols.com,Ireland,87000,HVAC and Refrigeration Equipment Manufacturing
+m040,entravision.com,United States,1025,Advertising Services
+m041,bridgebio.com,United States,839,Pharmaceutical Manufacturing
+m042,propanc.com,Australia,2,Biotechnology Research
+m043,tonstrat.com,United States,27,Blockchain Services
+m044,docusign.com,United States,7044,Software Development
+m045,borealisfoods.com,Canada,140,Food and Beverage Manufacturing
+m046,tranetechnologies.com,Ireland,44000,HVAC and Refrigeration Equipment Manufacturing
+m047,bankofamerica.com,United States,213000,Banking
+m048,glacierbancorp.com,United States,4188,Banking
+m049,micron.com,United States,61000,Semiconductor Manufacturing
+m050,coremt.com,United States,1239,Plastics Manufacturing
+m051,indivior.com,United States,838,Pharmaceutical Manufacturing
+m052,playtika.com,Israel,3175,Mobile Gaming Apps
+m053,urogen.com,Israel,291,Biotechnology Research
+m054,amphastar.com,United States,1976,Pharmaceutical Manufacturing
+m055,repay.com,United States,486,Financial Services
+m056,jaguaruranium.com,Canada,3,Metal Ore Mining
+m057,tuhurabio.com,United States,22,Biotechnology Research
+m058,interlinkelectronics.com,United States,93,Computers and Electronics Manufacturing
+m059,loopindustries.com,Canada,41,Chemical Manufacturing
+m060,solvenergy.com,United States,2600,Utility System Construction
+m061,oracle.com,United States,141000,Software Development
+m062,acushnetholdingscorp.com,United States,7300,Sporting Goods Manufacturing
+m063,marqeta.com,United States,938,Financial Services
+m064,heartflow.com,United States,843,Medical Equipment Manufacturing
+m065,cypherpunk.com,United States,6,Biotechnology Research
+m066,rapidmicrobio.com,United States,171,Measuring and Control Instrument Manufacturing
+m067,sprinklr.com,United States,3258,Software Development
+m068,castlebiosciences.com,United States,883,Medical and Diagnostic Laboratories
+m069,liveoak.bank,United States,1040,Banking
+m070,addentax.com,China,61,Apparel Manufacturing
+m071,griffon.com,United States,5100,Architectural and Structural Metal Manufacturing
+m072,stabledev.com,United States,4,Blockchain Services
+m073,onewatermarine.com,United States,2231,Retail Motor Vehicles
+m074,ondas.com,United States,495,Communications Equipment Manufacturing
+m075,briacell.com,Canada,31,Biotechnology Research
+m076,compasspathways.com,United Kingdom,156,Biotechnology Research
+m077,assemblybio.com,United States,73,Biotechnology Research
+m078,klaviyo.com,United States,2368,Software Development
+m079,immunocore.com,United Kingdom,524,Biotechnology Research
+m080,bauschhealth.com,Canada,20300,Pharmaceutical Manufacturing
+m081,prothena.com,Ireland,67,Biotechnology Research
+m082,eaton.com,Ireland,97000,Electrical Equipment Manufacturing
+m083,duolingo.com,United States,900,E-Learning Providers
+m084,thecronosgroup.com,Canada,610,Pharmaceutical Manufacturing
+m085,gemini.com,United States,650,Financial Services
+m086,figma.com,United States,1886,Software Development
+m087,xpel.com,United States,1337,Motor Vehicle Parts Manufacturing
+m088,ameresco.com,United States,1601,Services for Renewable Energy
+m089,amalgamatedbank.com,United States,450,Banking
+m090,linde.com,United Kingdom,65177,Chemical Manufacturing
+m091,carrier.com,United States,47000,HVAC and Refrigeration Equipment Manufacturing
+m092,stanleyblackanddecker.com,United States,43500,Cutlery and Handtool Manufacturing
+m093,matw.com,United States,5500,Industrial Machinery Manufacturing
+m094,usgoldmining.us,Canada,10,Metal Ore Mining
+m095,terex.com,United States,10700,"Agriculture, Construction, Mining Machinery Manufacturing"
+m096,liveventures.com,United States,1744,Holding Companies
+m097,seagate.com,Singapore,30000,Computer Hardware Manufacturing
+m098,ptcbio.com,United States,991,Pharmaceutical Manufacturing
+m099,disney.com,United States,231000,Entertainment Providers
+m100,climbbio.com,United States,29,Biotechnology Research

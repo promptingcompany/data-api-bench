@@ -1,0 +1,1577 @@
+[
+ {
+  "cik": 230557,
+  "name": "SELECTIVE INSURANCE GROUP INC",
+  "best": [
+   "Insurance Carriers"
+  ],
+  "secondary": [],
+  "why": "Holding company of ten property and casualty insurers."
+ },
+ {
+  "cik": 1835830,
+  "name": "Klaviyo, Inc.",
+  "best": [
+   "Software Development"
+  ],
+  "secondary": [
+   "Marketing Services",
+   "IT Services and IT Consulting"
+  ],
+  "why": "B2C CRM and marketing automation software platform."
+ },
+ {
+  "cik": 1863127,
+  "name": "Tyra Biosciences, Inc.",
+  "best": [
+   "Biotechnology Research"
+  ],
+  "secondary": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "why": "Drug-development biotech (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1960847,
+  "name": "Toppoint Holdings Inc.",
+  "best": [
+   "Truck Transportation"
+  ],
+  "secondary": [
+   "Freight and Package Transportation",
+   "Wholesale Recyclable Materials"
+  ],
+  "why": "Truckload carrier hauling waste paper for recycling exports."
+ },
+ {
+  "cik": 863436,
+  "name": "BENCHMARK ELECTRONICS INC",
+  "best": [
+   "Appliances, Electrical, and Electronics Manufacturing"
+  ],
+  "secondary": [
+   "Computers and Electronics Manufacturing"
+  ],
+  "why": "Electronics manufacturing services provider (PCB assembly) (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 63296,
+  "name": "MATTHEWS INTERNATIONAL CORP",
+  "best": [
+   "Industrial Machinery Manufacturing"
+  ],
+  "secondary": [
+   "Primary Metal Manufacturing",
+   "Printing Services"
+  ],
+  "why": "Mixed industrial technologies, bronze memorialization and brand/printing-cylinder businesses."
+ },
+ {
+  "cik": 1772921,
+  "name": "OneWater Marine Inc.",
+  "best": [
+   "Retail Motor Vehicles"
+  ],
+  "secondary": [
+   "Wholesale Motor Vehicles and Parts"
+  ],
+  "why": "Boat dealership chain with a marine parts distribution arm."
+ },
+ {
+  "cik": 1816581,
+  "name": "Ouster, Inc.",
+  "best": [
+   "Measuring and Control Instrument Manufacturing"
+  ],
+  "secondary": [
+   "Motor Vehicle Parts Manufacturing",
+   "Software Development"
+  ],
+  "why": "Makes digital lidar sensors and perception software."
+ },
+ {
+  "cik": 1744489,
+  "name": "Walt Disney Co",
+  "best": [
+   "Entertainment Providers"
+  ],
+  "secondary": [
+   "Movies, Videos and Sound",
+   "Broadcast Media Production and Distribution"
+  ],
+  "why": "Diversified entertainment: studios, streaming, sports networks and parks."
+ },
+ {
+  "cik": 894627,
+  "name": "VAALCO ENERGY INC /DE/",
+  "best": [
+   "Oil Extraction"
+  ],
+  "secondary": [
+   "Natural Gas Extraction"
+  ],
+  "why": "Independent E&P producing crude oil, gas and NGLs."
+ },
+ {
+  "cik": 1964789,
+  "name": "Hut 8 Corp.",
+  "best": [
+   "Data Infrastructure and Analytics"
+  ],
+  "secondary": [
+   "Blockchain Services",
+   "IT System Data Services"
+  ],
+  "why": "Power-first data center platform for AI/HPC and ASIC (bitcoin) compute."
+ },
+ {
+  "cik": 1498382,
+  "name": "TuHURA Biosciences, Inc./NV",
+  "best": [
+   "Biotechnology Research"
+  ],
+  "secondary": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "why": "Clinical-stage immuno-oncology drug developer."
+ },
+ {
+  "cik": 731766,
+  "name": "UNITEDHEALTH GROUP INC",
+  "best": [
+   "Hospitals and Health Care",
+   "Insurance Carriers"
+  ],
+  "secondary": [
+   "Medical Practices"
+  ],
+  "why": "Health benefits insurer plus Optum care delivery and services."
+ },
+ {
+  "cik": 1380106,
+  "name": "RAPID MICRO BIOSYSTEMS, INC.",
+  "best": [
+   "Measuring and Control Instrument Manufacturing"
+  ],
+  "secondary": [
+   "Biotechnology Research"
+  ],
+  "why": "Automated microbial quality-control instruments for pharma manufacturing."
+ },
+ {
+  "cik": 1315257,
+  "name": "Koppers Holdings Inc.",
+  "best": [
+   "Wood Product Manufacturing"
+  ],
+  "secondary": [
+   "Chemical Manufacturing"
+  ],
+  "why": "Treated wood products, wood preservation chemicals and carbon compounds."
+ },
+ {
+  "cik": 1026655,
+  "name": "CORE MOLDING TECHNOLOGIES INC",
+  "best": [
+   "Plastics Manufacturing"
+  ],
+  "secondary": [
+   "Motor Vehicle Parts Manufacturing"
+  ],
+  "why": "Molder of thermoplastic and thermoset structural products."
+ },
+ {
+  "cik": 1994702,
+  "name": "Kyverna Therapeutics, Inc.",
+  "best": [
+   "Biotechnology Research"
+  ],
+  "secondary": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "why": "Clinical-stage biologics developer (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1522540,
+  "name": "Marqeta, Inc.",
+  "best": [
+   "Financial Services"
+  ],
+  "secondary": [
+   "Software Development",
+   "IT Services and IT Consulting"
+  ],
+  "why": "Card-issuing and payments platform for fintechs and businesses."
+ },
+ {
+  "cik": 1531177,
+  "name": "Sight Sciences, Inc.",
+  "best": [
+   "Medical Equipment Manufacturing"
+  ],
+  "secondary": [],
+  "why": "Ophthalmic surgical device maker (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 50725,
+  "name": "GRIFFON CORP",
+  "best": [
+   "Architectural and Structural Metal Manufacturing"
+  ],
+  "secondary": [
+   "Cutlery and Handtool Manufacturing",
+   "Holding Companies"
+  ],
+  "why": "Holding company for garage door/building products and lawn & garden tools."
+ },
+ {
+  "cik": 2055592,
+  "name": "Gemini Space Station, Inc.",
+  "best": [
+   "Securities and Commodity Exchanges"
+  ],
+  "secondary": [
+   "Blockchain Services",
+   "Software Development"
+  ],
+  "why": "Cryptocurrency exchange and custody platform."
+ },
+ {
+  "cik": 889971,
+  "name": "LIGHTPATH TECHNOLOGIES INC",
+  "best": [
+   "Computers and Electronics Manufacturing"
+  ],
+  "secondary": [
+   "Glass Product Manufacturing",
+   "Defense and Space Manufacturing"
+  ],
+  "why": "Makes molded and infrared optical components, assemblies and cameras."
+ },
+ {
+  "cik": 1767258,
+  "name": "XPEL, Inc.",
+  "best": [
+   "Motor Vehicle Parts Manufacturing"
+  ],
+  "secondary": [
+   "Plastics Manufacturing",
+   "Wholesale Motor Vehicles and Parts"
+  ],
+  "why": "Supplies paint protection films and coatings to the auto aftermarket."
+ },
+ {
+  "cik": 1720592,
+  "name": "Repay Holdings Corp",
+  "best": [
+   "Financial Services"
+  ],
+  "secondary": [
+   "Software Development",
+   "IT Services and IT Consulting"
+  ],
+  "why": "Integrated payment processing for vertical markets."
+ },
+ {
+  "cik": 1704715,
+  "name": "Alpha Metallurgical Resources, Inc.",
+  "best": [
+   "Coal Mining"
+  ],
+  "secondary": [],
+  "why": "Metallurgical coal miner."
+ },
+ {
+  "cik": 1311370,
+  "name": "Lazard, Inc.",
+  "best": [
+   "Investment Banking"
+  ],
+  "secondary": [
+   "Investment Management",
+   "Investment Advice"
+  ],
+  "why": "Financial advisory (M&A) and asset management firm."
+ },
+ {
+  "cik": 829323,
+  "name": "Inuvo, Inc.",
+  "best": [
+   "Advertising Services"
+  ],
+  "secondary": [
+   "Software Development",
+   "Marketing Services"
+  ],
+  "why": "AI-driven advertising technology and audience modeling."
+ },
+ {
+  "cik": 1817760,
+  "name": "SmartKem, Inc.",
+  "best": [
+   "Semiconductor Manufacturing"
+  ],
+  "secondary": [
+   "Chemical Manufacturing"
+  ],
+  "why": "Organic semiconductor developer (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1484612,
+  "name": "Outset Medical, Inc.",
+  "best": [
+   "Medical Equipment Manufacturing"
+  ],
+  "secondary": [],
+  "why": "Dialysis system maker (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 2065636,
+  "name": "SOLV Energy, Inc.",
+  "best": [
+   "Utility System Construction"
+  ],
+  "secondary": [
+   "Services for Renewable Energy",
+   "Engineering Services"
+  ],
+  "why": "EPC and O&M contractor building solar power plants."
+ },
+ {
+  "cik": 1447362,
+  "name": "CASTLE BIOSCIENCES INC",
+  "best": [
+   "Medical and Diagnostic Laboratories"
+  ],
+  "secondary": [
+   "Biotechnology Research"
+  ],
+  "why": "Molecular diagnostic testing lab."
+ },
+ {
+  "cik": 1652535,
+  "name": "ICHOR HOLDINGS, LTD.",
+  "best": [
+   "Semiconductor Manufacturing"
+  ],
+  "secondary": [
+   "Industrial Machinery Manufacturing"
+  ],
+  "why": "Makes fluid delivery subsystems for semiconductor capital equipment."
+ },
+ {
+  "cik": 1109116,
+  "name": "ENTRAVISION COMMUNICATIONS CORP",
+  "best": [
+   "Advertising Services"
+  ],
+  "secondary": [
+   "Radio and Television Broadcasting",
+   "Marketing Services"
+  ],
+  "why": "Ad tech and services segment now drives revenue alongside its broadcast media segment."
+ },
+ {
+  "cik": 1832038,
+  "name": "Invivyd, Inc.",
+  "best": [
+   "Biotechnology Research"
+  ],
+  "secondary": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "why": "Develops monoclonal antibody therapies for viral diseases."
+ },
+ {
+  "cik": 1261333,
+  "name": "DOCUSIGN, INC.",
+  "best": [
+   "Software Development"
+  ],
+  "secondary": [
+   "IT Services and IT Consulting"
+  ],
+  "why": "E-signature and agreement management software."
+ },
+ {
+  "cik": 1045742,
+  "name": "LIVE VENTURES Inc",
+  "best": [
+   "Holding Companies"
+  ],
+  "secondary": [
+   "Textile Manufacturing",
+   "Primary Metal Manufacturing"
+  ],
+  "why": "Diversified holding company of textile, flooring, tools and steel businesses."
+ },
+ {
+  "cik": 1044777,
+  "name": "OneSpan Inc.",
+  "best": [
+   "Computer and Network Security"
+  ],
+  "secondary": [
+   "Data Security Software Products",
+   "Software Development"
+  ],
+  "why": "Digital identity and anti-fraud security software (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 729986,
+  "name": "UNITED BANKSHARES INC/WV",
+  "best": [
+   "Banking"
+  ],
+  "secondary": [],
+  "why": "Bank holding company."
+ },
+ {
+  "cik": 893538,
+  "name": "SM Energy Co",
+  "best": [
+   "Oil Extraction"
+  ],
+  "secondary": [
+   "Natural Gas Extraction"
+  ],
+  "why": "Independent oil and gas E&P (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 885307,
+  "name": "JEWETT CAMERON TRADING CO LTD",
+  "best": [
+   "Wholesale Building Materials"
+  ],
+  "secondary": [
+   "Wood Product Manufacturing",
+   "Retail Building Materials and Garden Equipment"
+  ],
+  "why": "Supplies wood and metal fencing, pet and garden products (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1341439,
+  "name": "ORACLE CORP",
+  "best": [
+   "Software Development"
+  ],
+  "secondary": [
+   "IT Services and IT Consulting",
+   "IT System Data Services"
+  ],
+  "why": "Enterprise applications, database and cloud infrastructure."
+ },
+ {
+  "cik": 70858,
+  "name": "BANK OF AMERICA CORP /DE/",
+  "best": [
+   "Banking"
+  ],
+  "secondary": [
+   "Investment Banking",
+   "Investment Management"
+  ],
+  "why": "Bank holding company with consumer, wealth and markets businesses."
+ },
+ {
+  "cik": 1625297,
+  "name": "Indivior Pharmaceuticals, Inc.",
+  "best": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "secondary": [
+   "Biotechnology Research"
+  ],
+  "why": "Markets long-acting injectable medicines for opioid use disorder."
+ },
+ {
+  "cik": 885978,
+  "name": "U S PHYSICAL THERAPY INC /NV",
+  "best": [
+   "Physical, Occupational and Speech Therapists"
+  ],
+  "secondary": [
+   "Outpatient Care Centers"
+  ],
+  "why": "Operates outpatient physical therapy clinics plus injury prevention."
+ },
+ {
+  "cik": 1984060,
+  "name": "Atlas Energy Solutions Inc.",
+  "best": [
+   "Nonmetallic Mineral Mining"
+  ],
+  "secondary": [
+   "Oil and Gas",
+   "Truck Transportation"
+  ],
+  "why": "Proppant sand mining and logistics for oilfield operators (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1993400,
+  "name": "Fatpipe Inc/UT",
+  "best": [
+   "Computer Networking Products"
+  ],
+  "secondary": [
+   "Computer and Network Security",
+   "Telecommunications"
+  ],
+  "why": "SD-WAN and integrated cybersecurity products."
+ },
+ {
+  "cik": 1579878,
+  "name": "Figma, Inc.",
+  "best": [
+   "Software Development"
+  ],
+  "secondary": [
+   "Design Services"
+  ],
+  "why": "Collaborative design and product-development software."
+ },
+ {
+  "cik": 19584,
+  "name": "CHEMED CORP",
+  "best": [
+   "Home Health Care Services"
+  ],
+  "secondary": [
+   "Building Equipment Contractors",
+   "Services for the Elderly and Disabled"
+  ],
+  "why": "VITAS hospice care plus Roto-Rooter plumbing services."
+ },
+ {
+  "cik": 1389545,
+  "name": "Stablecoin Development Corp",
+  "best": [
+   "Blockchain Services"
+  ],
+  "secondary": [
+   "Investment Management",
+   "Pharmaceutical Manufacturing"
+  ],
+  "why": "Digital-asset treasury strategy after winding down a legacy eyecare/skin care products business."
+ },
+ {
+  "cik": 1842022,
+  "name": "DT Midstream, Inc.",
+  "best": [
+   "Pipeline Transportation"
+  ],
+  "secondary": [
+   "Natural Gas Distribution",
+   "Oil and Gas"
+  ],
+  "why": "Natural gas pipelines, gathering and storage (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1672013,
+  "name": "Acushnet Holdings Corp.",
+  "best": [
+   "Sporting Goods Manufacturing"
+  ],
+  "secondary": [
+   "Apparel Manufacturing"
+  ],
+  "why": "Designs and makes golf equipment (Titleist, FootJoy)."
+ },
+ {
+  "cik": 1982518,
+  "name": "Smith Douglas Homes Corp.",
+  "best": [
+   "Residential Building Construction"
+  ],
+  "secondary": [
+   "Real Estate"
+  ],
+  "why": "Builds and sells single-family homes."
+ },
+ {
+  "cik": 1426800,
+  "name": "ASSEMBLY BIOSCIENCES, INC.",
+  "best": [
+   "Biotechnology Research"
+  ],
+  "secondary": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "why": "Clinical-stage antiviral therapeutics biotech."
+ },
+ {
+  "cik": 1464521,
+  "name": "Heartflow, Inc.",
+  "best": [
+   "Medical Equipment Manufacturing"
+  ],
+  "secondary": [
+   "Software Development",
+   "Medical and Diagnostic Laboratories"
+  ],
+  "why": "AI software for non-invasive coronary artery disease diagnosis."
+ },
+ {
+  "cik": 5981,
+  "name": "AMERICAN VANGUARD CORP",
+  "best": [
+   "Agricultural Chemical Manufacturing"
+  ],
+  "secondary": [],
+  "why": "Agricultural chemicals maker (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1823608,
+  "name": "Amalgamated Financial Corp.",
+  "best": [
+   "Banking"
+  ],
+  "secondary": [],
+  "why": "Bank holding company for Amalgamated Bank."
+ },
+ {
+  "cik": 93556,
+  "name": "STANLEY BLACK & DECKER, INC.",
+  "best": [
+   "Cutlery and Handtool Manufacturing"
+  ],
+  "secondary": [
+   "Industrial Machinery Manufacturing",
+   "Appliances, Electrical, and Electronics Manufacturing"
+  ],
+  "why": "Hand tools, power tools and outdoor equipment."
+ },
+ {
+  "cik": 1822993,
+  "name": "Jackson Financial Inc.",
+  "best": [
+   "Insurance Carriers"
+  ],
+  "secondary": [
+   "Investment Management"
+  ],
+  "why": "Annuity and retirement insurance company."
+ },
+ {
+  "cik": 1680581,
+  "name": "Fulcrum Therapeutics, Inc.",
+  "best": [
+   "Biotechnology Research"
+  ],
+  "secondary": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "why": "Clinical-stage drug developer (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1967680,
+  "name": "Veralto Corp",
+  "best": [
+   "Measuring and Control Instrument Manufacturing"
+  ],
+  "secondary": [
+   "Environmental Services",
+   "Industrial Machinery Manufacturing"
+  ],
+  "why": "Water quality analytics/treatment and product quality (marking, coding) technology."
+ },
+ {
+  "cik": 97216,
+  "name": "TEREX CORP",
+  "best": [
+   "Industrial Machinery Manufacturing"
+  ],
+  "secondary": [
+   "Agriculture, Construction, Mining Machinery Manufacturing",
+   "Motor Vehicle Manufacturing"
+  ],
+  "why": "Materials processing, refuse/recycling, aerial work platform and utility equipment."
+ },
+ {
+  "cik": 1578732,
+  "name": "Marcus & Millichap, Inc.",
+  "best": [
+   "Real Estate Agents and Brokers"
+  ],
+  "secondary": [
+   "Loan Brokers"
+  ],
+  "why": "Commercial real estate investment sales and financing brokerage."
+ },
+ {
+  "cik": 868671,
+  "name": "GLACIER BANCORP, INC.",
+  "best": [
+   "Banking"
+  ],
+  "secondary": [],
+  "why": "Bank holding company."
+ },
+ {
+  "cik": 1768446,
+  "name": "Climb Bio, Inc.",
+  "best": [
+   "Biotechnology Research"
+  ],
+  "secondary": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "why": "Clinical-stage immune-mediated disease biotech."
+ },
+ {
+  "cik": 723125,
+  "name": "MICRON TECHNOLOGY INC",
+  "best": [
+   "Semiconductor Manufacturing"
+  ],
+  "secondary": [
+   "Computer Hardware Manufacturing"
+  ],
+  "why": "Memory and storage semiconductors."
+ },
+ {
+  "cik": 1297184,
+  "name": "Amphastar Pharmaceuticals, Inc.",
+  "best": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "secondary": [
+   "Biotechnology Research"
+  ],
+  "why": "Develops and manufactures generic and proprietary injectables and inhalation products."
+ },
+ {
+  "cik": 1041859,
+  "name": "Childrens Place, Inc.",
+  "best": [
+   "Retail Apparel and Fashion"
+  ],
+  "secondary": [
+   "Online and Mail Order Retail",
+   "Apparel Manufacturing"
+  ],
+  "why": "Children's apparel retailer."
+ },
+ {
+  "cik": 1823945,
+  "name": "BLUE OWL CAPITAL INC.",
+  "best": [
+   "Investment Management"
+  ],
+  "secondary": [
+   "Venture Capital and Private Equity Principals"
+  ],
+  "why": "Alternative asset manager in private credit and real assets."
+ },
+ {
+  "cik": 1562088,
+  "name": "Duolingo, Inc.",
+  "best": [
+   "E-Learning Providers"
+  ],
+  "secondary": [
+   "Software Development",
+   "Mobile Computing Software Products"
+  ],
+  "why": "Mobile language-learning app."
+ },
+ {
+  "cik": 1600641,
+  "name": "1stdibs.com, Inc.",
+  "best": [
+   "Internet Marketplace Platforms"
+  ],
+  "secondary": [
+   "Online and Mail Order Retail",
+   "Retail Luxury Goods and Jewelry"
+  ],
+  "why": "Online marketplace for luxury design items."
+ },
+ {
+  "cik": 1605301,
+  "name": "CB Financial Services, Inc.",
+  "best": [
+   "Banking"
+  ],
+  "secondary": [],
+  "why": "Bank holding company."
+ },
+ {
+  "cik": 874499,
+  "name": "GULFPORT ENERGY CORP",
+  "best": [
+   "Natural Gas Extraction"
+  ],
+  "secondary": [
+   "Oil Extraction"
+  ],
+  "why": "Natural gas-weighted E&P."
+ },
+ {
+  "cik": 2064947,
+  "name": "WaterBridge Infrastructure LLC",
+  "best": [
+   "Oil and Gas"
+  ],
+  "secondary": [
+   "Waste Treatment and Disposal",
+   "Pipeline Transportation"
+  ],
+  "why": "Produced-water infrastructure for oil and gas producers (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1566610,
+  "name": "TON Strategy Co",
+  "best": [
+   "Blockchain Services"
+  ],
+  "secondary": [
+   "Investment Management"
+  ],
+  "why": "Manages and stakes a Toncoin treasury."
+ },
+ {
+  "cik": 2040491,
+  "name": "Ategrity Specialty Insurance Co Holdings",
+  "best": [
+   "Insurance Carriers"
+  ],
+  "secondary": [],
+  "why": "Excess and surplus property and casualty insurer."
+ },
+ {
+  "cik": 93314,
+  "name": "VOLITIONRX LTD",
+  "best": [
+   "Biotechnology Research"
+  ],
+  "secondary": [
+   "Medical and Diagnostic Laboratories",
+   "Medical Equipment Manufacturing"
+  ],
+  "why": "Develops blood-based diagnostic tests for cancer and sepsis."
+ },
+ {
+  "cik": 278166,
+  "name": "CAVCO INDUSTRIES, INC.",
+  "best": [
+   "Residential Building Construction"
+  ],
+  "secondary": [
+   "Wood Product Manufacturing",
+   "Real Estate"
+  ],
+  "why": "Designs and builds factory-built homes."
+ },
+ {
+  "cik": 1569345,
+  "name": "Sprinklr, Inc.",
+  "best": [
+   "Software Development"
+  ],
+  "secondary": [
+   "Marketing Services",
+   "IT Services and IT Consulting"
+  ],
+  "why": "Unified customer experience management software."
+ },
+ {
+  "cik": 1980088,
+  "name": "MACH NATURAL RESOURCES LP",
+  "best": [
+   "Oil and Gas"
+  ],
+  "secondary": [
+   "Oil Extraction",
+   "Natural Gas Extraction"
+  ],
+  "why": "Oil and gas producer (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1774857,
+  "name": "Aardvark Therapeutics, Inc.",
+  "best": [
+   "Biotechnology Research"
+  ],
+  "secondary": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "why": "Clinical-stage drug developer (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1743881,
+  "name": "BridgeBio Pharma, Inc.",
+  "best": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "secondary": [
+   "Biotechnology Research"
+  ],
+  "why": "Commercial-stage biopharma for genetic diseases."
+ },
+ {
+  "cik": 1789029,
+  "name": "Aeva Technologies, Inc.",
+  "best": [
+   "Motor Vehicle Parts Manufacturing"
+  ],
+  "secondary": [
+   "Measuring and Control Instrument Manufacturing",
+   "Computers and Electronics Manufacturing"
+  ],
+  "why": "Lidar sensing systems for vehicles (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1494582,
+  "name": "BOSTON OMAHA Corp",
+  "best": [
+   "Advertising Services"
+  ],
+  "secondary": [
+   "Holding Companies",
+   "Telecommunications"
+  ],
+  "why": "Billboard advertising plus broadband, surety insurance and hangars."
+ },
+ {
+  "cik": 1422142,
+  "name": "Whitehawk Therapeutics, Inc.",
+  "best": [
+   "Biotechnology Research"
+  ],
+  "secondary": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "why": "Clinical-stage oncology therapeutics developer."
+ },
+ {
+  "cik": 9389,
+  "name": "BALL Corp",
+  "best": [
+   "Packaging and Containers Manufacturing"
+  ],
+  "secondary": [
+   "Fabricated Metal Products"
+  ],
+  "why": "Aluminum beverage can and packaging maker."
+ },
+ {
+  "cik": 1646188,
+  "name": "Ondas Inc.",
+  "best": [
+   "Defense and Space Manufacturing"
+  ],
+  "secondary": [
+   "Communications Equipment Manufacturing",
+   "Aviation and Aerospace Component Manufacturing"
+  ],
+  "why": "Autonomous drones and counter-UAS systems plus private wireless networks."
+ },
+ {
+  "cik": 1462120,
+  "name": "Live Oak Bancshares, Inc.",
+  "best": [
+   "Banking"
+  ],
+  "secondary": [],
+  "why": "Bank holding company focused on small business lending."
+ },
+ {
+  "cik": 1849635,
+  "name": "Trump Media & Technology Group Corp.",
+  "best": [
+   "Social Networking Platforms"
+  ],
+  "secondary": [
+   "Online Audio and Video Media",
+   "Financial Services"
+  ],
+  "why": "Operates Truth Social, Truth+ streaming and a fintech brand."
+ },
+ {
+  "cik": 828146,
+  "name": "INTERLINK ELECTRONICS INC",
+  "best": [
+   "Computers and Electronics Manufacturing"
+  ],
+  "secondary": [
+   "Measuring and Control Instrument Manufacturing",
+   "Computer Hardware Manufacturing"
+  ],
+  "why": "Force/touch sensors and printed electronics for HMI devices."
+ },
+ {
+  "cik": 1509745,
+  "name": "CYPHERPUNK TECHNOLOGIES INC.",
+  "best": [
+   "Biotechnology Research",
+   "Blockchain Services"
+  ],
+  "secondary": [
+   "Investment Management"
+  ],
+  "why": "Antibody drug developer that added a Zcash digital-asset treasury."
+ },
+ {
+  "cik": 1434621,
+  "name": "LendingTree, Inc.",
+  "best": [
+   "Loan Brokers"
+  ],
+  "secondary": [
+   "Internet Marketplace Platforms",
+   "Insurance Agencies and Brokerages"
+  ],
+  "why": "Online marketplace connecting consumers with lenders and insurers."
+ },
+ {
+  "cik": 1517375,
+  "name": "Sprout Social, Inc.",
+  "best": [
+   "Software Development"
+  ],
+  "secondary": [
+   "Marketing Services"
+  ],
+  "why": "Social media management software."
+ },
+ {
+  "cik": 1783180,
+  "name": "CARRIER GLOBAL Corp",
+  "best": [
+   "HVAC and Refrigeration Equipment Manufacturing"
+  ],
+  "secondary": [
+   "Building Equipment Contractors"
+  ],
+  "why": "Climate and energy (HVAC) solutions."
+ },
+ {
+  "cik": 878927,
+  "name": "OLD DOMINION FREIGHT LINE, INC.",
+  "best": [
+   "Truck Transportation"
+  ],
+  "secondary": [
+   "Freight and Package Transportation"
+  ],
+  "why": "Less-than-truckload carrier (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1488139,
+  "name": "Ameresco, Inc.",
+  "best": [
+   "Services for Renewable Energy"
+  ],
+  "secondary": [
+   "Renewable Energy Power Generation",
+   "Building Equipment Contractors"
+  ],
+  "why": "Energy efficiency and renewable infrastructure solutions provider."
+ },
+ {
+  "cik": 862692,
+  "name": "CRYO CELL INTERNATIONAL INC",
+  "best": [
+   "Medical and Diagnostic Laboratories"
+  ],
+  "secondary": [
+   "Biotechnology Research"
+  ],
+  "why": "Cord blood stem cell banking (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1070081,
+  "name": "PTC THERAPEUTICS, INC.",
+  "best": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "secondary": [
+   "Biotechnology Research"
+  ],
+  "why": "Commercial biopharma for rare disorders."
+ },
+ {
+  "cik": 796343,
+  "name": "ADOBE INC.",
+  "best": [
+   "Software Development"
+  ],
+  "secondary": [
+   "Desktop Computing Software Products",
+   "Marketing Services"
+  ],
+  "why": "Creative, document and marketing software."
+ },
+ {
+  "cik": 751978,
+  "name": "VICOR CORP",
+  "best": [
+   "Electrical Equipment Manufacturing"
+  ],
+  "secondary": [
+   "Semiconductor Manufacturing"
+  ],
+  "why": "Modular power components and power systems."
+ },
+ {
+  "cik": 1551182,
+  "name": "Eaton Corp plc",
+  "best": [
+   "Electrical Equipment Manufacturing"
+  ],
+  "secondary": [
+   "Aviation and Aerospace Component Manufacturing",
+   "Motor Vehicle Parts Manufacturing"
+  ],
+  "why": "Power management products for data center, utility, industrial and aerospace."
+ },
+ {
+  "cik": 1504678,
+  "name": "Loop Industries, Inc.",
+  "best": [
+   "Plastics Manufacturing"
+  ],
+  "secondary": [
+   "Chemical Manufacturing",
+   "Environmental Services"
+  ],
+  "why": "Depolymerizes waste PET into virgin-quality resin."
+ },
+ {
+  "cik": 885590,
+  "name": "Bausch Health Companies Inc.",
+  "best": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "secondary": [
+   "Medical Equipment Manufacturing"
+  ],
+  "why": "Specialty pharmaceutical and medical device company."
+ },
+ {
+  "cik": 1668243,
+  "name": "UroGen Pharma Ltd.",
+  "best": [
+   "Biotechnology Research"
+  ],
+  "secondary": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "why": "Biotech developing and commercializing urothelial cancer treatments."
+ },
+ {
+  "cik": 1816590,
+  "name": "COMPASS Pathways plc",
+  "best": [
+   "Biotechnology Research"
+  ],
+  "secondary": [
+   "Pharmaceutical Manufacturing",
+   "Mental Health Care"
+  ],
+  "why": "Psilocybin mental health therapy developer."
+ },
+ {
+  "cik": 1828016,
+  "name": "Playtika Holding Corp.",
+  "best": [
+   "Mobile Gaming Apps"
+  ],
+  "secondary": [
+   "Mobile Computing Software Products"
+  ],
+  "why": "Mobile games operator."
+ },
+ {
+  "cik": 1852973,
+  "name": "Borealis Foods Inc.",
+  "best": [
+   "Food and Beverage Manufacturing"
+  ],
+  "secondary": [],
+  "why": "Manufactures ramen noodle brands."
+ },
+ {
+  "cik": 833444,
+  "name": "Johnson Controls International plc",
+  "best": [
+   "HVAC and Refrigeration Equipment Manufacturing"
+  ],
+  "secondary": [
+   "Building Equipment Contractors",
+   "Security Systems Services"
+  ],
+  "why": "Smart building HVAC, controls, fire and security."
+ },
+ {
+  "cik": 1559053,
+  "name": "PROTHENA CORP PUBLIC LTD CO",
+  "best": [
+   "Biotechnology Research"
+  ],
+  "secondary": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "why": "Late-stage clinical biotech in neurodegenerative diseases."
+ },
+ {
+  "cik": 1333822,
+  "name": "SemiLEDs Corp",
+  "best": [
+   "Semiconductor Manufacturing"
+  ],
+  "secondary": [
+   "Electric Lighting Equipment Manufacturing"
+  ],
+  "why": "LED chip maker (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1671927,
+  "name": "Immunocore Holdings plc",
+  "best": [
+   "Biotechnology Research"
+  ],
+  "secondary": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "why": "Commercial-stage immunomodulating medicines biotech."
+ },
+ {
+  "cik": 1096056,
+  "name": "LUXFER HOLDINGS PLC",
+  "best": [
+   "Primary Metal Manufacturing"
+  ],
+  "secondary": [
+   "Chemical Manufacturing",
+   "Boilers, Tanks, and Shipping Container Manufacturing"
+  ],
+  "why": "Magnesium alloys, zirconium chemicals and high-pressure gas cylinders."
+ },
+ {
+  "cik": 1628808,
+  "name": "Profound Medical Corp.",
+  "best": [
+   "Medical Equipment Manufacturing"
+  ],
+  "secondary": [],
+  "why": "MRI-guided ablation medical devices."
+ },
+ {
+  "cik": 1681459,
+  "name": "TechnipFMC plc",
+  "best": [
+   "Oil and Gas"
+  ],
+  "secondary": [
+   "Industrial Machinery Manufacturing",
+   "Engineering Services"
+  ],
+  "why": "Subsea and surface technology, projects and services for energy."
+ },
+ {
+  "cik": 1467373,
+  "name": "Accenture plc",
+  "best": [
+   "IT Services and IT Consulting"
+  ],
+  "secondary": [
+   "Business Consulting and Services",
+   "Outsourcing and Offshoring Consulting"
+  ],
+  "why": "Consulting, technology and outsourcing services."
+ },
+ {
+  "cik": 1262976,
+  "name": "CIMPRESS plc",
+  "best": [
+   "Printing Services"
+  ],
+  "secondary": [
+   "Online and Mail Order Retail",
+   "Marketing Services"
+  ],
+  "why": "Web-to-print mass customization of marketing products."
+ },
+ {
+  "cik": 1707925,
+  "name": "LINDE PLC",
+  "best": [
+   "Chemical Manufacturing"
+  ],
+  "secondary": [
+   "Chemical Raw Materials Manufacturing",
+   "Engineering Services"
+  ],
+  "why": "Largest industrial gas company plus engineering."
+ },
+ {
+  "cik": 895728,
+  "name": "ENBRIDGE INC",
+  "best": [
+   "Pipeline Transportation"
+  ],
+  "secondary": [
+   "Natural Gas Distribution",
+   "Oil and Gas"
+  ],
+  "why": "Oil and gas pipelines and gas utility (overview starts mid risk-factors; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1099590,
+  "name": "MERCADOLIBRE INC",
+  "best": [
+   "Internet Marketplace Platforms"
+  ],
+  "secondary": [
+   "Online and Mail Order Retail",
+   "Financial Services"
+  ],
+  "why": "Latin American e-commerce marketplace and fintech."
+ },
+ {
+  "cik": 1947244,
+  "name": "U.S. GoldMining Inc.",
+  "best": [
+   "Metal Ore Mining"
+  ],
+  "secondary": [],
+  "why": "Gold-copper exploration company."
+ },
+ {
+  "cik": 1140536,
+  "name": "WILLIS TOWERS WATSON PLC",
+  "best": [
+   "Insurance Agencies and Brokerages"
+  ],
+  "secondary": [
+   "Business Consulting and Services",
+   "Human Resources Services"
+  ],
+  "why": "Insurance broking, risk and people advisory."
+ },
+ {
+  "cik": 1069394,
+  "name": "FLEXIBLE SOLUTIONS INTERNATIONAL INC",
+  "best": [
+   "Chemical Manufacturing"
+  ],
+  "secondary": [
+   "Agricultural Chemical Manufacturing"
+  ],
+  "why": "Specialty chemicals maker (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1720424,
+  "name": "HIVE Digital Technologies Ltd.",
+  "best": [
+   "Blockchain Services"
+  ],
+  "secondary": [
+   "IT System Data Services"
+  ],
+  "why": "Bitcoin hashrate business funding AI/HPC data centers."
+ },
+ {
+  "cik": 315293,
+  "name": "Aon plc",
+  "best": [
+   "Insurance Agencies and Brokerages"
+  ],
+  "secondary": [
+   "Business Consulting and Services",
+   "Human Resources Services"
+  ],
+  "why": "Risk capital (broking) and human capital professional services."
+ },
+ {
+  "cik": 2039273,
+  "name": "Jaguar Uranium Corp.",
+  "best": [
+   "Metal Ore Mining"
+  ],
+  "secondary": [],
+  "why": "Uranium exploration company."
+ },
+ {
+  "cik": 1688757,
+  "name": "ESTABLISHMENT LABS HOLDINGS INC.",
+  "best": [
+   "Medical Equipment Manufacturing"
+  ],
+  "secondary": [],
+  "why": "Breast implant medical technology company."
+ },
+ {
+  "cik": 1735707,
+  "name": "Garrett Motion Inc.",
+  "best": [
+   "Motor Vehicle Parts Manufacturing"
+  ],
+  "secondary": [
+   "Engines and Power Transmission Equipment Manufacturing"
+  ],
+  "why": "Turbochargers and compression technology for vehicles."
+ },
+ {
+  "cik": 1600620,
+  "name": "Aurinia Pharmaceuticals Inc.",
+  "best": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "secondary": [
+   "Biotechnology Research"
+  ],
+  "why": "Commercial biopharma for autoimmune disease."
+ },
+ {
+  "cik": 1610820,
+  "name": "BriaCell Therapeutics Corp.",
+  "best": [
+   "Biotechnology Research"
+  ],
+  "secondary": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "why": "Clinical-stage cancer immunotherapy biotech."
+ },
+ {
+  "cik": 1466258,
+  "name": "Trane Technologies plc",
+  "best": [
+   "HVAC and Refrigeration Equipment Manufacturing"
+  ],
+  "secondary": [
+   "Building Equipment Contractors"
+  ],
+  "why": "HVAC and transport refrigeration systems."
+ },
+ {
+  "cik": 909494,
+  "name": "TUCOWS INC /PA/",
+  "best": [
+   "Technology, Information and Internet"
+  ],
+  "secondary": [
+   "Telecommunications",
+   "Software Development"
+  ],
+  "why": "Domain registration, fiber internet (Ting) and ISP billing software."
+ },
+ {
+  "cik": 1713210,
+  "name": "Agape ATP Corp",
+  "best": [
+   "Retail Health and Personal Care Products"
+  ],
+  "secondary": [
+   "Alternative Medicine",
+   "Wellness and Fitness Services"
+  ],
+  "why": "Health and wellness products sold via network marketing in Malaysia."
+ },
+ {
+  "cik": 1650101,
+  "name": "ADDENTAX GROUP CORP.",
+  "best": [
+   "Apparel Manufacturing"
+  ],
+  "secondary": [
+   "Freight and Package Transportation",
+   "Real Estate"
+  ],
+  "why": "China-based garment manufacturing and logistics."
+ },
+ {
+  "cik": 1840416,
+  "name": "Sono Group N.V.",
+  "best": [
+   "Renewable Energy Equipment Manufacturing"
+  ],
+  "secondary": [
+   "Blockchain Services",
+   "Motor Vehicle Parts Manufacturing"
+  ],
+  "why": "Legacy vehicle solar integration business adding a bitcoin treasury."
+ },
+ {
+  "cik": 2022416,
+  "name": "Silexion Therapeutics Corp",
+  "best": [
+   "Biotechnology Research"
+  ],
+  "secondary": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "why": "Clinical-stage biologics developer (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1517681,
+  "name": "Propanc Biopharma, Inc.",
+  "best": [
+   "Biotechnology Research"
+  ],
+  "secondary": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "why": "Biopharma developing proenzyme cancer therapy."
+ },
+ {
+  "cik": 921582,
+  "name": "IMAX CORP",
+  "best": [
+   "Movies, Videos and Sound"
+  ],
+  "secondary": [
+   "Entertainment Providers",
+   "Audio and Video Equipment Manufacturing"
+  ],
+  "why": "Immersive film technology and content distribution."
+ },
+ {
+  "cik": 1273441,
+  "name": "GRAN TIERRA ENERGY INC.",
+  "best": [
+   "Oil Extraction"
+  ],
+  "secondary": [
+   "Natural Gas Extraction"
+  ],
+  "why": "Oil and gas E&P (overview is only a table of contents/cover page; judged from SEC industry and name)"
+ },
+ {
+  "cik": 1520262,
+  "name": "Alkermes plc.",
+  "best": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "secondary": [
+   "Biotechnology Research"
+  ],
+  "why": "Neuroscience biopharma with commercial products."
+ },
+ {
+  "cik": 1656472,
+  "name": "Cronos Group Inc.",
+  "best": [
+   "Pharmaceutical Manufacturing"
+  ],
+  "secondary": [
+   "Horticulture",
+   "Biotechnology Research"
+  ],
+  "why": "Cannabinoid products and brands."
+ },
+ {
+  "cik": 1137789,
+  "name": "Seagate Technology Holdings plc",
+  "best": [
+   "Computer Hardware Manufacturing"
+  ],
+  "secondary": [
+   "Magnetic and Optical Media Manufacturing"
+  ],
+  "why": "Hard disk drive data storage."
+ }
+]
