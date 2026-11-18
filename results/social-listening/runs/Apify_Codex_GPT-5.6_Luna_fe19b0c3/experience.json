@@ -1,0 +1,4 @@
+{
+  "rating": 4,
+  "what_slowed_you_down": "Apify's social-search actors returned some false matches for generic uses of words such as liquid and death, so exact-phrase searches still required manual filtering. The X actor also needed a rerun because its first broad query was noisy."
+}

@@ -1,0 +1,4 @@
+{
+  "rating": 4,
+  "what_slowed_you_down": "The system-wide npm install lacked permission, so I installed the CLI under my home directory. Monid rejected TikTok date-posted sorting with the seven-day filter, requiring a rerun with relevance sorting and timestamp checks."
+}
