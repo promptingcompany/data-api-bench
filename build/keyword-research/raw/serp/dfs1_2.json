@@ -1,0 +1,513 @@
+[
+  {
+    "keyword": "asana alternatives",
+    "type": "organic",
+    "se_domain": "google.com",
+    "location_code": 2840,
+    "language_code": "en",
+    "check_url": "https://www.google.com/search?q=asana%20alternatives&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+    "datetime": "2026-11-16 21:47:37 +00:00",
+    "spell": null,
+    "refinement_chips": null,
+    "item_types": [
+      "ai_overview",
+      "organic",
+      "people_also_ask"
+    ],
+    "se_results_count": 76,
+    "pages_count": 1,
+    "items_count": 11,
+    "items": [
+      {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": true,
+        "markdown": null,
+        "items": null,
+        "references": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "10 Best Asana Competitors Worth Switching to in 2026",
+        "url": "https://google.com/goto?url=CAESiAEBxCJF12D2uaor12jz-RqFNFc7Yfe7Pp8A6mFtrFkhFvMGsplhWBR4bcaFKWyC2-QbK_TQOb31mbypsKofJF_NT8xGZrR4C76j5OSuZtmvFroUjZiMOWf8-95Cse-8HMzNBXPQ03EHQZ-_1eV6XVNcXMaE0mQlyrK9CCn9DRlfnJUqtRrevBQL&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://ones.com › blog › 10-best-asana-competitors-wort...",
+        "website_name": "ONES.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Oct 19, 2026 — The shortlist also includes Notion, Trello, Basecamp, Smartsheet, Airtable, and Teamwork so you can match the tool to your exact project ...",
+        "pre_snippet": "10/19/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Notion, Trello, Basecamp, Smartsheet, Airtable, and Teamwork"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-10-19 00:00:00 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]",
+        "items": [
+          {
+            "type": "people_also_ask_element",
+            "title": "Is Asana a Japanese company?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "What are 5 project management tools?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "What is a potential downside of Asana?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "Is there a free version of Asana?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          }
+        ],
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "Best Self-Hosted Asana Alternatives in 2026",
+        "url": "https://google.com/goto?url=CAESfgHEIkXXf8jkDfvfFTZQwwIHPHmV-TiMCpS6nW5KRQnqG4oAlsA5GJQZDEGXm3C-8IfS0XpnhtAwY8m3wE1sfkASnWNjgEmPomKnaH2Ui9GfW5kv5wNCOvtYqrvhIe2ZlQ4xlpy-Xjpx_PTeP-Qv1PvsklEZVNPDeJEkBDVViw&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://doitify.com › planning › best-self-hosted-asana-a...",
+        "website_name": "Doitify",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "5 days ago — Taiga is a clean Scrum and Kanban tool. Vikunja, Leantime, and Kanboard cover the light end. Kanboard is a single PHP … is a single Go binary. ...",
+        "pre_snippet": "5 days ago",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Taiga"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-11-11 21:47:37 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "Best Project Management Tools Like Asana",
+        "url": "https://google.com/goto?url=CAESgAEBxCJF1951nDfCZhmCHskdYrirznTnPc1X-B5Tq1IY4ODjqTmNKSvBO-1R-IR6LGhf7svvmUh3xL46qZffbU32daJTjW6XuZY6bg44W36oxBRIx0J2vptQQ4s126CINPB90fKrelpDnXP0dComH_EAAmYe-sTCeklrVPLzTizVcQ&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://doitify.com › technology › project-management-...",
+        "website_name": "Doitify",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Asana alternatives include broader features beyond what Asana offers, like resource management, expense tracking, and contract management. Slack, Dropbox, ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Asana alternatives"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "Free Project Management Web Tools: 6 Asana Alternatives",
+        "url": "https://google.com/goto?url=CAESlAEBxCJF14hl16WieyZsu1fP-mfEMwD7MycH0jbFUbdCivDpNewlVsOiqDzd5iLtOJ460AROHKzSG3lOecF8xX8D8PlojaIXcORZPubhYvNmSpGEGNGisZAV-T5M9VVJQChBnjrBgQx0Wo0jKqyEfSIc2IB2juwKzt43xqkJdWARoVvbChPMal0vggS2SUJLqE2zqep8&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://ones.com › blog › free-project-management-web-...",
+        "website_name": "ONES.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jun 26, 2026 — ONES.com – Best overall, full-featured PM with genuine on-premise option. ; Trello – Best for visual kanban and lightweight workflows. ; ClickUp – ... Read more",
+        "pre_snippet": "06/26/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "ONES.com – Best overall, full-featured PM"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Read more",
+            "description": null,
+            "url": "https://google.com/goto?url=CAESrwMBxCJF14EWP7P_Uv7n58BWRhbLyn0_9f_FrY-KpjDD1IlbcL7xjShMf2ry0snQXhyLzl8XSXRYcpG6hbbTOwZC3a83Popx21GDcTkFHUmEH-m2wNQ_8PSQhCkI1id4GKjUsdG0AXPUuL1NYi0XDzEI9xv8ERNMlN1QRkwbnIofs_SLxAzSPFd1U3mDGfPDJFERMRS3hy6GBacsvY78Ive3tctc4Ps0vcSg5FFXEfXtjWSvRIEj8yhsy5XfXS7DCqLJEK6VQ6ZdWZ15Hs8t1yiKNTIYRMWW4UOcaybb4Lo2N0voGDKLZLdNQweTH3z1o3PJeq_jnMacbvpqYOCI_DwUWhHoZzWdSstCRcnHMZYCt4K-n_b74bDDZzX7yR2bQm6wbP0f_BET8n3726bBCY7QcVE_hBxPx07Im4zlypkJkskFaBC5jYNGQzSnS3_4i_8fbTZg-THwkHM-tf4gw2E9-VTTtikrQcAaeU07Ue5a8k4DtHbJfW69pX-_PjsDkHgYUS3a4UZhbgd1C44C07CoG0bHczzzwoV7-8MU_5d0Z41QTbelrFuMTJHxFRmD1A&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+            "domain": "google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-06-26 00:00:00 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "Reddit's Favorite Free Asana Alternatives: 8 Picks",
+        "url": "https://google.com/goto?url=CAESkwEBxCJF14GGp0SG4LYWUAqCPuq782gVSMxUEVt-9W-z8m1tU522Xd9P5FLqitTf1qDG9lRIlC8yKcb9seqvk1hZS-blDYmihc9DYxDrNPidGoXwftuWfNq339Airp03TmVZFgCVwFF2waL8G0osTDCbnhr7mVoNZNpVYjG1Zp4dTN7V-v0HyoQ3qbR6AX4-vxRZ8z8&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://ones.com › blog › reddits-favorite-free-asana-alter...",
+        "website_name": "ONES.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jul 8, 2026 — ONES.com – Best overall free Asana alternative with Jira-grade features, 30-user free plan, and on-premise deployment. Trello – Best ... Read more",
+        "pre_snippet": "07/08/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "ONES.com – Best overall free Asana"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Read more",
+            "description": null,
+            "url": "https://google.com/goto?url=CAES9wEBxCJF15ygipXVspnal34eCZDMUSvtLeydM_LED8JbhGrZXs9zA7H0VohL2idyG2SrbLVLtPDwKZYj6NzlFqHCARavlTLAvIFPXdw9b7szRmnicmw2kQzelqHX2fmhEVaylXday_v7jnYWjlQR13JO9Qv9vdpfvrbGdAKWY1nrnR1xQvm8SwlKwUqSm37c1oD7cNf3J57UMhUTymfXPTbN3pIFDcvghk81Vo6IwmcFxmgoqf-5_Y5nQGkTYfrMx7CzvF3MQb7E7imdgrFR3XxGNSAk2PmFn6ay1jWxYe0kClIarcRqGyavmdYWMqnytSCAJiUgYN8V&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+            "domain": "google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-07-08 00:00:00 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "Best Asana Alternative — ONES.com for On-Prem Teams",
+        "url": "https://google.com/goto?url=CAESiAEBxCJF1xCQ9ExEmQYW4FJBzPdv2yiSNajwI7LFaHxsAansdDVeS0RxkkgL8ikegPexMnsY7w0XZPgwHAksJG-IjIlrUlDtvcqyNQJ6K2bwgpNho2pDV-_i64ocw6DEXl9LedN8oBRgrqmSfjXxLNvyZcYpL8VprV1KtiY7qYzNgqRkKwzdOYMM&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://ones.com › project-management-tool-alternative",
+        "website_name": "ONES.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Need a self-hosted Asana alternative? ONES.com delivers on-prem governance and enterprise control. Read now to compare.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "self-hosted Asana alternative"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "7 Best Asana Free Alternatives for Seamless Project ...",
+        "url": "https://google.com/goto?url=CAESkgEBxCJF1zpaG3F8jr4Z0UvQuUi9U276PfPWdlR7OHGrJw5YsdXCevNoZyxMuPidqt8knXbi50gkzFK6o7FfbxRDzv1ngA30pdNp_-3RhXpO-v4X89xZlWlKhGP4vcTz060j5gjGRLFc4SR9KmKetY6TegeUY1o8QwO6vi1anHJVyAlAzW1PFDozSeKEJNQgaIQ5kQ&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://ones.com › blog › 7-best-asana-free-alternatives-f...",
+        "website_name": "ONES.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Oct 1, 2026 — Trello, Simple kanban boards and visual task tracking, Cloud ; ClickUp, Teams wanting docs, goals, and time tracking in one tool, Cloud ; Monday. Read more",
+        "pre_snippet": "10/01/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Trello"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Read more",
+            "description": null,
+            "url": "https://google.com/goto?url=CAESywEBxCJF12k2zyc0BIdDAkRcfedgPZVNYrKvgY79iSZslcbsqYbWicC629xT9lHym3TRS4M5jSBx5H_g8rsqkHVXKLBkOxf_UlO02qZOxJs_0UzDIM3l1cDGDM1h63J4oGmzuh40VBjiWhmoc_Ht6Ulr-dkosDrAuZloflevZsiVWZ0ByyZwqvetsfGv-XODsKRrArmEa-7LmDz1HUaKOGpwJHt3GSSHnMVadEjA0_OxWVs_nE1lxAa6tKrGpNKJqhbqar-MQkVZvGTHoA&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+            "domain": "google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-10-01 00:00:00 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "Best Open-Source Asana Alternatives in 2026",
+        "url": "https://google.com/goto?url=CAESfgHEIkXXmMd34OQf6ooEWQWw1YJbORhJwhvYQbFgsilaGHJSNATBmFvvtxO9VoGw4VWSR1MwgbFGsfm5jiymfFClFnSUrdqqOh9THz_S7j4u_FSYscyFbm1TPpJQB8dSQSQlIPzj14WpznF0eaSd4pncWTCpsO6p37QVk1wRGw&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://doitify.com › planning › best-open-source-asana...",
+        "website_name": "Doitify",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "3 days ago — The realistic shortlist for most teams is OpenProject, Plane, Taiga, and Leantime. Redmine, Vikunja, and Kanboard win on simplicity, and ... Read more",
+        "pre_snippet": "3 days ago",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "OpenProject, Plane, Taiga, and Leantime"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Which Open-Source Project...",
+            "description": null,
+            "url": "https://google.com/goto?url=CAESjgIBxCJF13vujveGSI7Hq8iOPwHZ96F2hcSzm5WsNtxIrKtEB_ocY2rQQhjWEnz4_m4d6heMVPPVhIEXO6ErWHqkD3cHK2YkJWU0B-hQPgg5kZvaSTYma98GC9xAXiG16_qoiDJX96AB9kPthIflVZneM4d71Vr25Sr1VNR8gIt6ad-OE5XjSe3ZmSwHxokLq_divCDAaxAz9ZxHcvWYvw_qpXZVqG1OcdnzOKJ3WjXaFI1TKweUDg_TI_AH12e195WeAtijLKNGpqOLhyP1kbY9zU7JbVHx08eRqlHm4r_-KoF1Nfeb2bmgeQjeR4CyfEDi7L66PV21V3FQ2f6ESoPyaPQURxGBLimwnJRgiV0&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+            "domain": "google.com"
+          },
+          {
+            "type": "link_element",
+            "title": "Which Licence Terms Should...",
+            "description": null,
+            "url": "https://google.com/goto?url=CAES8wEBxCJF16SGc04wtniZpLaoLNwAxpKd0twjeTkdIPF-fVygNUEq-yLPqrOzLG0bhn2o9s2rKSVsHJyjHMHsnbPxH1QCvYi36Sk0VV3mo24wtKCEa7Ha0jXbIawulA2jY8CeoBW2abbSwGIJvRuKj9qlNQftZ5HWSRjJuW97P1kXBJHISEZRCS7idfmpnPtGfLekb4Qvcx_75G3cnYXVyI6dH8ufS7lcXLefUyopVI3ELs2W6wkjkPhBflxiL_3C5L5mlrRlPw248ciKhgUkjhxZoirydRB-BzlNFcsw_0q61SeZB3YpHlBuSPMlzSCRHJ85aFk&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+            "domain": "google.com"
+          },
+          {
+            "type": "link_element",
+            "title": "How Do You Migrate Off Asana...",
+            "description": null,
+            "url": "https://google.com/goto?url=CAES8wEBxCJF18CAdzbbyASgQD-ylD7LLb6AZ3QxGiibnD8e_fhSR_F3Myzu0lojXpJUQiZHCOZMRutxUVY5jXvLIBru2uA80xIaTsIWIsktNDz0p2QncxYQxR9IhCGeeoHUdbbufzgXRoz90QyfdOBwRAPvefr26W7m1J2h4gKPFx_hxPFYgFxNLi2Ytkh4PgBMqL1yl3zVQAKi9nW4GsmWIQPH2g58pDRbcA8GIyXWoUVs6rXrbz4jnb-hbmpunWNuvaVw-u9Ay5xCvy4a_C1rcOv4VJXB-n4fBFs4ByksCAgB11LctJ5JcPDnFnLGoL20JumWCmo&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+            "domain": "google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-11-13 21:47:37 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "Asana Software Competitors: 9 Alternatives for Smarter ...",
+        "url": "https://google.com/goto?url=CAESkwEBxCJF1zpEI-LcstfGtVxmWmRPV-LPHeTJJTTd3_pY2RNhDoZOrY-X-OJXXAJS4FzGZEpneSHdg6k9ihAtk-7UT_Sbli2RSaV-2QY6Rc5-88-v6PNTORohoPuWN1kA60OzF1Ub-aqxcZoE1uZrUfeZIWO1FuND5W0Vn9ouyzlk8gKCh1_qvZGUGoqMGUnJRGp4ktA&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://ones.com › blog › asana-software-competitors-9-a...",
+        "website_name": "ONES.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Oct 19, 2026 — Buried in Asana's subtask rabbit holes? Discover 9 asana software competitors for smarter workflows. Click to find the right fit.",
+        "pre_snippet": "10/19/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "9 asana software competitors"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Asana Software Competitors...",
+            "description": null,
+            "url": "https://google.com/goto?url=CAES-QEBxCJF11ZZfnpsLX5Glmr628U-8CEC_OiswC_k3WJn9NXl_ixA3C32pl6bFPm1UgpyftsG2-UQNl2ZT1BvQK3FSQh3oCuyOVoqmi0TW2kcMi4NP4QLNVDjaSSp-fTzOn9x-O0GkFAXZyUdMsOH2XF171dTQv13LyMYWRi1SWxFHQ8cQQ5gEPcxBYjATznmf65xS5y8JlUjPh5srPalgrmsdwPb6WUjV-XWvmr8TN2NZv3RC4nIcDY6bHDqrpxr3f29YsCr5-eLaCqfwneONpEPgmIw-8XUm81pAI1bUh_xBZbNqKxW-A8zONghLHLBVAvHWtu1_WLq8rA&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+            "domain": "google.com"
+          },
+          {
+            "type": "link_element",
+            "title": "Detailed Reviews",
+            "description": null,
+            "url": "https://google.com/goto?url=CAEStQEBxCJF1_oPexEw8AD3_rJD3kBm0tUStN24das8C-ELhxa3WYdRe4DJdGTlQ1L9s0um5_AADFK7RCG-3icEoNWmqryg9hXyp765OFSHO4NmCctIY_xlAJo5u_icXrK2koLNe4KcVTFB_1rwlQzO2xcn2-IJPxvgPJ594DuuNG2KBOiHNORk5OwqhmGFG-NwCnMHPagyHvfQk5NXeFWQNDvGKf_MwTbhCbCMkKpGQfUwxJwGAYql&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+            "domain": "google.com"
+          },
+          {
+            "type": "link_element",
+            "title": "Wrike",
+            "description": null,
+            "url": "https://google.com/goto?url=CAESrQEBxCJF10tl7Q98jw8tQ9wa0Rok79rNsHYHZm6z8QFyUmHGVFQtavh90pT_1Mt7QTrgEsQjP25Zclu1444x-I9LF_X0IZQkkTrOytU0oA4PG7Yx6GeFKIkAu8YBmrx3lIh8KPMFQdss82atqjyzJ5-FHT0QfqxrLljZE1CwQkW22VBe-Bg89RakapauEBZ0FtVXvgbPP39zqmE2OO6CpJFQy24zpGZuvfJ7k1qvtQ&gsessionid=ENS8tkoWXyKmMQkWv4R9YRSmJTF0YpIU2GpafXgROwEJU5z3ts9Dew",
+            "domain": "google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-10-19 00:00:00 +00:00",
+        "rectangle": null
+      }
+    ]
+  }
+]

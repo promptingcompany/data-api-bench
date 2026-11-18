@@ -1,0 +1,536 @@
+[
+  {
+    "keyword": "time tracking app",
+    "type": "organic",
+    "se_domain": "google.com",
+    "location_code": 2840,
+    "language_code": "en",
+    "check_url": "https://www.google.com/search?q=time%20tracking%20app&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+    "datetime": "2026-11-16 21:49:06 +00:00",
+    "spell": null,
+    "refinement_chips": null,
+    "item_types": [
+      "ai_overview",
+      "organic",
+      "people_also_ask",
+      "related_searches"
+    ],
+    "se_results_count": 78,
+    "pages_count": 1,
+    "items_count": 12,
+    "items": [
+      {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": true,
+        "markdown": null,
+        "items": null,
+        "references": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "10 Best Time Clock Apps for Time Tracking in 2025",
+        "url": "https://google.com/goto?url=CAESpgEBxCJF1zeFpJTSZ25E-Q9jIxZbV-1C9iM6ERJ47vgbMiVUmPRlNBoIMk9Fsqscn7V75psTUbnCQi8B4C8wNUV6uZzvl1-iuyO6P290hS2CKzqGh2Ed3BED1OSG3OG_RBq-FoU_VINHqY39wxZjn89OM4V1_U50eX_qnJPXx-lzjbclz57ydOsdGumc7libmER9lv_uz0UhEscPin_AxyUT_my-9kid&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.corexta.com › Blog",
+        "website_name": "Corexta",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "May 14, 2025 — Harvest is a powerful time tracking and invoicing app designed to help freelancers, consultants, and agencies track billable hours, manage ... Read more",
+        "pre_snippet": "05/14/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Harvest is a powerful time tracking and invoicing app"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Read more",
+            "description": null,
+            "url": "https://google.com/goto?url=CAES-wEBxCJF1yQQ3p6CeXCNchF-3RyRgNeJ9a7mLpFc6Wt0nQ2wQReeLMkJkCNHbI0gky4FO0DK9jg5KULiTfEVUOrJHtSxNm5B92HxMsvjKggvXzxmjstfL5KtnFRnODtm8-a3Vli0QUAt9wguW88DLiM0yLXBPbs0EbNx4BvjQBA6ZKmYVwglK4dPGAevKi5OG_Zn5OHzD8mEsuUUMjTd3hC-xdS9Ll7-RbHHuJoHr95T9bnLvs3Pigz5eosFXa-2GBqFKDngC2wmJ0Rpia1itKRrjOsjQlBrPGe8tbASZ1U8WDDkWCL6W5vAg--j6udHDeT6zBC0JAupXNr_xg&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+            "domain": "google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-05-14 00:00:00 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]",
+        "items": [
+          {
+            "type": "people_also_ask_element",
+            "title": "What is the best timekeeping app?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "What is the No. 1 productivity app?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "What is the Clockify app?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "What is the best free tracker app?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          }
+        ],
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "10 Best time tracking apps in 2026 (free & paid)",
+        "url": "https://google.com/goto?url=CAESaAHEIkXXNHMe4k9mMI7kSbepCAu0IYKRyRexQCrxTcYuJ4T74QJRUM1JEzprv1vAbPsswRzzP3ULjiX6P7zS34UMB3UAvP5ZdAxrQ8b_Np282nxMIez1kaHSaw93fL1X0bwiu2sCeEoe&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://targettrend.com › time-tracking-apps",
+        "website_name": "TargetTrend",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Dec 10, 2025 — Toggl helps all types of businesses track and save time with its extensive features. It works online, offline, and on-the-go across the web, ... Read more",
+        "pre_snippet": "12/10/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Toggl"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Read more",
+            "description": null,
+            "url": "https://google.com/goto?url=CAESwQEBxCJF10EDSggDO0i5oKhaL9hm4dtF1PC542hInRgEO7fo2LsS9ERd0L18AZeu1h-YsOYT5E_vnnRty6TDCGUK5P5iO5lG-R7P_SnjEeCdJ8jaWwDdpFLeX6KFchaPSFY0hJ7vCGImmFE0tv7t5iSoIqNPvy8RqOmjT-mPPjJwGKuLQK4y9n6LSFbj4aHZh4NPaHIdm6aVxUqRRQPs7JaHliQ8FljYA5nGd86IDlrnzlTwNT_0oLPS3uess9TFbFph&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+            "domain": "google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-12-10 00:00:00 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "7 Best Employee Time Tracking Software - PLUM HQ",
+        "url": "https://google.com/goto?url=CAESfwHEIkXXyq_-owVpWz36H1O_qNH2gSd3zg9W3zeY8TLNZ9C4Jzdsa-9aQNESvq82f1J3ivVq8ZMgG3BmFR9Qz4KaBS2ZWBT-kM0O9rUKboEodpAcqQcoEeDGYSfHNaUQb5liijOmvgS5j7RVj3L7WApfO46YwgCWbCWBQs2P1qg&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.plumhq.com › Blog › HR's Corner",
+        "website_name": "plumhq.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Mar 1, 2023 — Clockify is widely regarded as the best overall employee time-tracking app due to its ease of use and compatibility with multiple platforms. Read more",
+        "pre_snippet": "03/01/2023 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Clockify"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Read more",
+            "description": null,
+            "url": "https://google.com/goto?url=CAES4gEBxCJF18iizUx1Qdh9SKYzmvAD2CfcK4cTG3zwkf7SGVkAckNce5FlAQIASrYvpYX5jfHZZCJntqe4pbZVkRkKVccf470t-y4_O38TPc8vJwwsDIMpHWp_FZGj8PtWfWA362Vtgbq0ynFlemrc-dfW0GOkoR0oVScT54eSd5lGGQnj_0OTICmlKT36u1A-x6tiM7_caqnMvZfNXpj_yl5ZWnwLkkN4uiBD6hD8YLZw-zQU3EjTZ_umvt4-588YKXTLsd6qHN6VTX5PWpv7Hk6s6eVHwh_5yN81C2VirItfvQbs&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+            "domain": "google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2023-03-01 00:00:00 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "The Best 7 Mobile Time Trackers to Manage Work Time",
+        "url": "https://google.com/goto?url=CAESigEBxCJF1xa4Cil900EgKRonfx2ouG9t31MzdYvMqoxrCCoVZDzHTsYRtG5V82k0UwuilAmBvenYNocSOOE_OvglgvcMfU0DjCuTTF-OibOawOw00Cr5CV3j0_a6_EI7m7kcmmg4DbAke4hTh82ryV5DyowWMkRPIjqIpoFCNPGvTCk2uSxmJ1savRQ&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://blog.tmetric.com › the-best-7-mobile-time-tracker...",
+        "website_name": "TMetric",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Apr 3, 2024 — The Best 7 Mobile Time Trackers to Manage Work Time · TMetric · Toggl Track · Harvest · Clockify · Hours · Hubstaff · TimeCamp · Mobile Time Tracking ... Read more",
+        "pre_snippet": "04/03/2024 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "TMetric"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Read more",
+            "description": null,
+            "url": "https://google.com/goto?url=CAESkQMBxCJF138UenesCRjiwM3N5DpEh6uHyoVQ1lwKnAOH-kqx-1w7aF-tnHSieA9WAKPm3AIPUc2FRTyqX68X26fcQYtZlL3oDsdmKBIq2v74Csc-CwevGB0Df1Yi0XuVIbPkd8v34vhG9VgsZWzlEVzY6bfn1BCE9mljwJEYAHjQxofhAj7E1qX9PUbF-D0jb_FCvzvsduaeO0oSHCVQjqdQmpcLaxGQd-QwyYiaGSB4gxWCTSF9nVDOh_WYaz8pUIHCYNYGEQko0uBCA_DZRl5-JL-QLtpR-37RaQQCavf4LD2MltgBkLz-I4YdGuS-HBFFSxWHk7cjqWi2aeNhxNjF2Xz15ndZSkiIvoZJQzzWlMgnbexdlDV59yLv6TF7D_ZBt884FripoRbzuTgM8X9eOFg8yOfJuAr5LIjo5gG2HqErofVg668OsHRaTCM7JHGmADzqXpb4wV_MClywAysfScFZoE4TF71DEfCujWUqR6nuloQDcD_nh89EDTNKawriTJoG_bsmwzRIsNhgyOkabA&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+            "domain": "google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-04-03 00:00:00 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "15 Best Time Tracking Apps for Small Business (Free & Paid)",
+        "url": "https://google.com/goto?url=CAESjQEBxCJF1ycdZurb77hgAtMFoLg0YiKoY8AXS-WWR6rNd5YFQup0IK2-jWlT5jWAN8y0pnABrEvtOWdcEP5cUYE1iwR-MrqJj3P6wF46-dEl9mhXjHvxwaYsuOCgqyyOaDt7G1LYpN4KKQC8g30FKZKA4gBiVrgWkUAo1chvLLgk6VNZGPtcydzY8pSbVYI&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://clockdiary.com › blog › managing-time › best-ti...",
+        "website_name": "Clockdiary",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Apr 15, 2025 — Clockdiary is the best free time tracking app for small, medium, as well as large-sized businesses, freelancers, and remote teams seeking a cost ... Read more",
+        "pre_snippet": "04/15/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": {
+          "rating_type": "Max5",
+          "value": 4.7,
+          "votes_count": 311,
+          "rating_max": 5
+        },
+        "price": null,
+        "highlighted": [
+          "Clockdiary"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Read more",
+            "description": null,
+            "url": "https://google.com/goto?url=CAES-QEBxCJF1y8bQ31N3-SEuF8dQ3UK0_Dt16qlRiunkqgekDz2FMq7jm5jJjm9qFg2kZB8QPhVXSm-Lxa2eDL_VT9Z7MEFFS3YM2SJWKrpA0kXbl578Lr8BCPfSumrjB-tB_1wnW5ZgqksFfL9eKWuuel7L9TACUTgzxaFZWagSYfTxdnqziq2fRutTGXzW8MzH9JEEKiIEcUDiitHQ8j7_31f3K4SirYV68AqAVb_Pj1JvOUO1I8gMI_hzTU707WP8nQTpF4FiaMiJ2huW7Rz9rqNt2z-jf132oC-Jla905o6V8lv-hWCt-zg4vufNgOEh6cwchhIo6Xz4Vg&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+            "domain": "google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-04-15 00:00:00 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "15 Best Time Tracking Software in 2026 ⏱",
+        "url": "https://google.com/goto?url=CAESZwHEIkXXsPU3s-O8bRTiUpf8mSBEVVDaZeJ8b4jNx1JhEAySkj3Hn63mkPcoOC8CQ6YG6pm4Y8DBWHJezws9TpY331m-LlNYmt4gHA-IA9GgQ-TT_J-4l7x5CCZ_p04hhpG0FBMmqHg&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.youtube.com · Mar 24, 2026",
+        "website_name": "YouTube · Jibble",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+          "is_video"
+        ],
+        "description": "Our picks include: 1. Jibble 2. Deputy 3. Toggl Track 4. Harvest 5. Timely 6. Buddy Punch 7. Time Doctor 8. Time Camp 9. Apploye 10. Hubstaff ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "1. Jibble"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-03-24 00:00:00 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "List of Top Time Clock Mobile Apps for Android and iPhone",
+        "url": "https://google.com/goto?url=CAEScQHEIkXXGYW2M_hg_hPddHLquatDTdSM-4dQW96LSOPj9Vd1GbhuEX3fWc0hX9mZvBGG-SCen0bstryp_lC1XBqhebYVhdH2ocIUGRSGBD4JGQybcP_pjwSFl3thd_mR_YnjWUZfub86jpCRZmbAp2Lj&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.softwareworld.co › Software",
+        "website_name": "SoftwareWorld",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "TimeTac is an all-in-one solution for time tracking, project time tracking and absence management. Track working hours and project times to the ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "TimeTac"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "Read more",
+            "description": null,
+            "url": "https://google.com/goto?url=CAES0AEBxCJF15oF2sNypd8Zxy2Y0mut0exG_huHMHBMYfsraeblCFX5cQMlyr2Dz5FBmQPSphdJUOvt4Ut87-BLJRRv9PGXpGqv5RbpKb5jXjp1No2B32sK_Ufe3EZaV1WCV7bMCWj1sh53UIK5Vy6CyIhz_-eBE58pI3nSLPhKl8fADwEm2K9E52OO6g-vfv7JCfC6FVFrj2DcxnL1SyJU4yV1BNf8MXU1xxjOrUdLCmfIDaLylmJ2OWVJJrlYu7kZPtCmnJg3TadCm8OFcTd-PPB9&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+            "domain": "google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "Best 8 Time Clock Apps for Teams",
+        "url": "https://google.com/goto?url=CAESbwHEIkXXcwsBn1DWMWLyfXAX7JWhAbm5IWkZMvZw4k18w3xDaw24MTaxdLpBHMKBdHvPRjhh-CNpX4umM7biRuezW_KtOz9X2FUGVrTNf7NnolrMb9ZOXcR3faw5XqiEP6D1dt-D00hWLGPMf19UBA&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.kickidler.com › info › best-time-clock-app",
+        "website_name": "Kickidler",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jul 9, 2026 — Compare popular time clock apps for teams: Clockify, Homebase, Deputy, When I Work, QuickBooks Time, Jibble, Hubstaff, Time Doctor, ...",
+        "pre_snippet": "07/09/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Clockify"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-07-09 00:00:00 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]",
+        "domain": "google.com",
+        "title": "The Top 7 Mobile Time Clock Apps - WorkforceHub",
+        "url": "https://google.com/goto?url=CAESegHEIkXXrr5ZZpNMrrBJ3eLDR-YZ6v_479HBYCsqLWRJDxZ0WiKsOsVwxM6N8jcDiDwgTEDCX8M4cKGvCH5txGzXnZkilcjjnBPNKCKa2LyXhmMd7RXLjOfkU7TeFqaN2Ybt0YWu40BQEGqxE3GUdvQlv8SWNmzanT-u&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.workforcehub.com › Blog Listing",
+        "website_name": "workforcehub.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jul 24, 2024 — Learn more about the best 7 mobile time clock apps, plus how tracking remote and hybrid employees benefits your bottom line.",
+        "pre_snippet": "07/24/2024 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Learn more about the best 7 mobile time clock apps"
+        ],
+        "links": [
+          {
+            "type": "link_element",
+            "title": "What Is Mobile Time Tracking...",
+            "description": null,
+            "url": "https://google.com/goto?url=CAESqgEBxCJF1zNoD5qJI-6QzcAyEtB1WdxfE8RPbWFUGtoXJqVe19U2Ei36zDBQFmYQSBf4_tVfGmzp8sBCnp8w6VGE_cjv7CLV3GkZNGnYoNILWzH9Rm-wulD2t-jMQ5FslEVXfD2pfuxkSTH2BXqGsRol6_i9h21P1uhREqGZB46WCpx1apy1tTyZ1hc4P6AEG_3JxOe_G1cc6NIXbMknc0Pux2RX3Pab0gyspQ&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+            "domain": "google.com"
+          },
+          {
+            "type": "link_element",
+            "title": "1. Workforcehub",
+            "description": null,
+            "url": "https://google.com/goto?url=CAESlAEBxCJF13JUlO_NQK99DYGTMgXQd8eg-loujZqEQ21_8IpdPUpHCn4_5U19_zOWZc6GAy9lac8OZ5mf5KuYRuTNKob0zjYuvtpO4__wXjhxw-0b-T9bLTPvnnxMaKTc9z1ues5GFfeRuqsERH9QxaSdDRX_30Xr69j64B3BgIt76bF7NWAAwd3vx7D-yq5RQDyYpJ1X&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+            "domain": "google.com"
+          },
+          {
+            "type": "link_element",
+            "title": "Mobile Time Tracking Is A...",
+            "description": null,
+            "url": "https://google.com/goto?url=CAESsAEBxCJF1yzu6JAb8TB-xcomPjj9sPjPy7Lz3L_BPw8Sqf8V2USUA4GIrn7MUL5hoP3b18CbmS4Na2HwzqpF20OyX8sF3jz_URhFL3k0SbuP-GXgsqYk7U07pQW3FyTrEYi4GZouVhCj82HjwN0017fSbI6m97kbdOcrjM1F96RzsOBHQW6F1bhMlpUcdSz2dmzQ946Z77h8UmRT40RkIGvi81HXCVAjhPjUY0kLIPTnrQ&gsessionid=Pj2FG2t2zgzCdnJgNOP05s95Yr12Hk5wPgRdCZSxESjtWQjgWWmgxA",
+            "domain": "google.com"
+          }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-07-24 00:00:00 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+          "Free time tracking app",
+          "Best time tracking app"
+        ],
+        "rectangle": null
+      }
+    ]
+  }
+]

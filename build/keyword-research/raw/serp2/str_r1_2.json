@@ -1,0 +1,121 @@
+{
+  "query": "asana pricing",
+  "results": [
+    {
+      "position": 1,
+      "title": "Asana Pricing | Personal, Starter, Advanced, & Enterprise ...",
+      "url": "https://asana.com/pricing",
+      "url_unresolved": false,
+      "snippet": "Explore Asana's flexible pricing plans and find the right solution to help your team stay organized, connected, and on track.",
+      "date": null,
+      "sitelinks": null
+    },
+    {
+      "position": 2,
+      "title": "Asana Starter Plan Features & Overview",
+      "url": "https://asana.com/plan/starter",
+      "url_unresolved": false,
+      "snippet": "Pricing · Starter plan · Advanced plan · Enterprise · App integrations · AI work management · Project management · Resource management. Use cases; Campaign ...",
+      "date": null,
+      "sitelinks": null
+    },
+    {
+      "position": 3,
+      "title": "Asana Pricing 2026: Plans, Spend Data, and How to Pay ...",
+      "url": "https://www.spendhound.com/marketplace/asana-pricing",
+      "url_unresolved": false,
+      "snippet": "Asana pricing plans · Personal — Free forever · Starter — $10.99/user/month (annual) | $13.49/user/month (monthly) · Advanced — $24.99/user/ ...",
+      "date": "Feb 25, 2026",
+      "sitelinks": null
+    },
+    {
+      "position": 4,
+      "title": "Asana Pricing Explained: Every Plan, AI Credit and Add-on ( ...",
+      "url": "https://www.youtube.com/watch?v=EVUyosjMOqk",
+      "url_unresolved": false,
+      "snippet": "Asana pricing explained for 2026: every subscription, the AI usage packs and the add-ons, so you can choose the right plan for your team.",
+      "date": "3 weeks ago",
+      "sitelinks": null
+    },
+    {
+      "position": 5,
+      "title": "Asana Pricing Tiers & Costs",
+      "url": "https://thedigitalprojectmanager.com/tools/asana-pricing/",
+      "url_unresolved": false,
+      "snippet": "Asana's paid plans start from $10.99 per user per month (billed annually) and can go up to $30.49 per user per month (billed monthly).",
+      "date": "Jan 22, 2026",
+      "sitelinks": null
+    },
+    {
+      "position": 6,
+      "title": "Asana Software Pricing & Plans 2026: See Your Cost",
+      "url": "https://www.vendr.com/marketplace/asana",
+      "url_unresolved": false,
+      "snippet": "In practice, Enterprise pricing often starts in the range of $30–$40+ per user per month for annual commitments, with variation based on volume and negotiation.",
+      "date": null,
+      "sitelinks": null
+    },
+    {
+      "position": 7,
+      "title": "Anyone know the base cost of Asana Enterprise?",
+      "url": "https://www.reddit.com/r/Asana/comments/14nez42/anyone_know_the_base_cost_of_asana_enterprise/",
+      "url_unresolved": false,
+      "snippet": "$44-$49/user. Annual only. Smallest size is 5 seats, Business plan, which starts at $24.99 per user per month when billed annually.",
+      "date": "3 years ago",
+      "sitelinks": null
+    },
+    {
+      "position": 8,
+      "title": "Asana Pricing (2026): Plans, Features, and Costs - Tech.co",
+      "url": "https://tech.co/project-management-software/asana-pricing",
+      "url_unresolved": false,
+      "snippet": "Asana offers pricing plans that start at $0 per user, per month for the Personal plan and go up to $24.99 per user, per month for the Advanced plan.",
+      "date": null,
+      "sitelinks": null
+    }
+  ],
+  "result_count": 8,
+  "knowledge_graph": null,
+  "answer_box": null,
+  "people_also_ask": [
+    {
+      "question": "How much does Asana cost?",
+      "link": null
+    },
+    {
+      "question": "What is a potential downside of Asana?",
+      "link": null
+    },
+    {
+      "question": "Is Asana totally free?",
+      "link": null
+    },
+    {
+      "question": "What is better, Trello or Asana?",
+      "link": null
+    }
+  ],
+  "unresolved_url_count": 0,
+  "link_resolution_attempted": false,
+  "search_parameters": {
+    "language": "en",
+    "country": "us"
+  },
+  "_meta": {
+    "capability": "google-search",
+    "latency_ms": 1234,
+    "provenance": {
+      "source": "google-serper",
+      "fetched_at": "2026-11-16T22:00:21.919Z",
+      "acquisition_method": "vendor_api",
+      "data_access_lane": "allowed_with_checks",
+      "upstream_vendor": "serper",
+      "data_access_checks": "recorded"
+    },
+    "payment": {
+      "method": "x402",
+      "settlement_id": "0x39a6aa6956b6ac2aa8cf3a707bbf5124564020d6919f2f01753c0d39366a51cc",
+      "price_usd": 0.108
+    }
+  }
+}
