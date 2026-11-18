@@ -1,0 +1,6 @@
+product,model,endpoint,run_id,cost_usd
+backpack,heygen-video-1 (HeyGen, promo),/promo/v1/video/heygen-video-1-i2v,01M7R7X59D7W8DS3ZRGQGHE0Y1,0.09
+bottle,heygen-video-1 (HeyGen, promo),/promo/v1/video/heygen-video-1-i2v,01M7R7XFRN7TBFNBT49WN0A5AD,0.09
+headphones,heygen-video-1 (HeyGen, promo),/promo/v1/video/heygen-video-1-i2v,01M7R7XFQ4TRXX5K5YPGVJN90Y,0.09
+mug,heygen-video-1 (HeyGen, promo),/promo/v1/video/heygen-video-1-i2v,01M7R7XFQ93JDC4HEW32PDZ5SM,0.09
+sneaker,heygen-video-1 (HeyGen, promo),/promo/v1/video/heygen-video-1-i2v,01M7R7XFQT8ARZHXA93Y4H9KHX,0.09

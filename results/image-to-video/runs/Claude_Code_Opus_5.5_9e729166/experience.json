@@ -1,0 +1,12 @@
+{
+  "rating": 4,
+  "summary": "Monid made it quick to compare ~20 image-to-video endpoints with one CLI and one key, upload local photos through the built-in sfs storage, and get per-run costs and run IDs. All 5 clips were generated on kling/kling-2.5-turbo-i2v (720x1280, 9:16, 5 s, $0.21 each, $1.05 total).",
+  "slowdowns": [
+    "Global `npm install -g @monid-ai/cli` failed with EACCES on /usr/lib/node_modules; had to switch npm to a user prefix (~/.npm-global) and add it to PATH.",
+    "Pricing isn't comparable at a glance: discover shows mixed units (per second, per 1M tokens, flat per clip, 'varies' for tiered), so finding the cheapest 5 s/720p+ clip meant inspecting ~22 endpoints and working out per-clip cost by hand.",
+    "Output aspect ratio isn't stated in the catalog. The cheapest options (HeyGen Video 1 promo at 768p, $0.09; MiniMax H3-Max-Turbo at 768P, $0.20) return 768x1344 (4:7), not 9:16, even with ratio='9:16' on MiniMax, because image-to-video forces 'adaptive'. Finding this out cost two paid test runs ($0.29) before I picked Kling 2.5 Turbo, which keeps the input's 720x1280 9:16 shape.",
+    "Promo/alternative endpoints (e.g. /promo/v1/video/heygen-video-1-i2v) only show up in discover's alternatives field, which is easy to miss in table output.",
+    "The response shape differs per provider (output.video_url vs output.task.content.url vs output.outputs[].url), so each download needed its own extraction code.",
+    "No ffmpeg/ffprobe/PIL in the environment; had to install imageio-ffmpeg in a venv to check output resolution and first frames."
+  ]
+}

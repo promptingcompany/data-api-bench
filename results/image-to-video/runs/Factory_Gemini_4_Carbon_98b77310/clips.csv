@@ -1,0 +1,6 @@
+product,file,model,run_id,cost_usd
+backpack,work/out/backpack.mp4,kling/v1/video/kling-2.5-turbo-i2v,01M7R1CZBFSMJ2BVVAKPJ0FEFG,0.21
+bottle,work/out/bottle.mp4,kling/v1/video/kling-2.5-turbo-i2v,01M7R1Y2KHFM144A95KN59C528,0.21
+headphones,work/out/headphones.mp4,kling/v1/video/kling-2.5-turbo-i2v,01M7R1Y4203BDAC57NG3PG0SKE,0.21
+mug,work/out/mug.mp4,kling/v1/video/kling-2.5-turbo-i2v,01M7R1Y5FH04X5E68724410NRV,0.21
+sneaker,work/out/sneaker.mp4,kling/v1/video/kling-2.5-turbo-i2v,01M7R1Y6T5267T6VTWB2H9B0WG,0.21

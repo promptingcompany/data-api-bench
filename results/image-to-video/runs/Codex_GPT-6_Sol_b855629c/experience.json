@@ -1,0 +1,4 @@
+{
+  "rating": 4,
+  "what_slowed_me_down": "The global npm install hit a permissions error, so I installed the CLI under my user directory. HeyGen returned 768\u00d71344 (4:7) despite 9:16 source photos, which required cropping each clip to 756\u00d71344 and setting the original photo as the first frame."
+}

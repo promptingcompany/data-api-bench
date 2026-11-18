@@ -1,0 +1,6 @@
+product,file,model,run_id,cost_usd
+backpack,work/out/backpack.mp4,heygen/promo/v1/video/heygen-video-1-i2v,01M7R5EJB99NAGJR2H0DS2DP8M,0.09
+bottle,work/out/bottle.mp4,heygen/promo/v1/video/heygen-video-1-i2v,01M7R5VZMHE54QEGA3P7W388HF,0.09
+headphones,work/out/headphones.mp4,heygen/promo/v1/video/heygen-video-1-i2v,01M7R5W0DQ00G2X1YGZXREAJTB,0.09
+mug,work/out/mug.mp4,heygen/promo/v1/video/heygen-video-1-i2v,01M7R5W1DS77MBT771YF6GWCYY,0.09
+sneaker,work/out/sneaker.mp4,heygen/promo/v1/video/heygen-video-1-i2v,01M7R5W28B1J5GRFHHG4B4T257,0.09
