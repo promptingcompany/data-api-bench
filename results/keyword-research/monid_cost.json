@@ -43,5 +43,18 @@
    "e2521cde": 0.178,
    "cf7846f7": 0.178
   }
+ },
+ {
+  "model": "Codex: GPT-5.6 Luna",
+  "monid_caller": "API_KEY#glulsrQW",
+  "window_utc": "each run start to end, runs one at a time (Nov 18)",
+  "calls": 156,
+  "cost_usd_3_runs": 0.372,
+  "cost_usd_per_run_avg": 0.124,
+  "per_run": {
+   "73221f10": 0.1155,
+   "5c521d67": 0.141,
+   "0ab77550": 0.1155
+  }
  }
 ]
